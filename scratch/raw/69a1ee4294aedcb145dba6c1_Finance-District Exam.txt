@@ -18,7 +18,7 @@
 [ 54] Posted online March 2026 by DECA Inc.
 
 ===== PAGE 2 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 1
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 1
 [ 49] 1. A business has added automation to its assembly line process. This addition is most likely an example of
 [ 61] A. invention.
 [ 61] B. creativity.
@@ -59,7 +59,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 3 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 2
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 2
 [ 49] 8. Ethical behavior is crucial for entrepreneurial success because
 [ 61] A. investors only support unethical companies.
 [ 61] B. unethical behavior is usually more profitable.
@@ -99,7 +99,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 4 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 3
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 3
 [ 44] 15. Prior to finalizing a purchase, both parties involved agree not to disclose information about the other party and
 [ 61] sign a document. In this scenario, both parties signed a(n)
 [ 61] A. kickback.
@@ -142,7 +142,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 5 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 4
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 4
 [ 44] 22. Budgets can be described in terms of
 [ 61] A. desires, debt, and discipline.
 [ 61] B. money, maps, and management.
@@ -184,7 +184,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 6 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 5
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 5
 [ 44] 29. Management is divided into major functions, two of which are
 [ 61] A. controlling and directing.
 [ 61] B. analyzing and planning.
@@ -227,7 +227,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 7 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 6
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 6
 [ 44] 36. The first task in creating a risk-management plan is
 [ 61] A. identifying as many known risks as possible.
 [ 61] B. figuring out how team members will communicate.
@@ -267,7 +267,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 8 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 7
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 7
 [ 44] 43. How can human resources managers foster fairness in the hiring process?
 [ 61] A. By refusing to interview candidates with certain backgrounds
 [ 61] B. By asking applicants to reveal their marital status
@@ -310,7 +310,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 9 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 8
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 8
 [ 44] 50. Amir has a steady job, but he decides to increase his income by taking aerial photographs with his drone and
 [ 61] selling them on his own website. His side business becomes very profitable, and he earns well over $2,000
 [ 61] each month. Amir's side business is so successful that it significantly increases his
@@ -353,7 +353,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 10 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 9
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [548] 9
 [ 44] 57. What does the “open” column of a stock table tell you?
 [ 61] A. The first price at which the stock was sold on a given day
 [ 61] B. The number of shares of a stock traded in a given day
@@ -394,7 +394,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 11 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 10
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [542] 10
 [ 44] 63. Spreadsheets, database applications, and other software are often used by businesses for
 [ 61] A. employee recognition.
 [ 61] B. financial analysis.
@@ -439,7 +439,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 12 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 11
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [543] 11
 [ 44] 70. Banyan is working on restructuring a database to reduce data redundancy and improve data integrity. In other
 [ 61] words, Banyan is engaging in data
 [ 61] A. recovery.
@@ -480,7 +480,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 13 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 12
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [542] 12
 [ 44] 77. Which of the following would most likely influence an organization's corporate governance structure:
 [ 61] A. An unexpected grant from the government is received.
 [ 61] B. A major flood damages the company's primary warehouse.
@@ -521,7 +521,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 14 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 13
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [542] 13
 [ 44] 84. To calculate the future value of money, you need the present value, the length of time, and the
 [ 61] A. bottom line.
 [ 61] B. wage.
@@ -561,7 +561,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 15 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 14
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [542] 14
 [ 44] 90. The Milton Ladder Corporation, which is publicly traded, is in the process of acquiring the Bradley Chute
 [ 61] Company. What type of document is Milton Ladder required to file within 15 days of the acquisition?
 [ 61] A. Form 4
@@ -606,7 +606,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 16 (612x792) =====
-[ 40] Test 1324 FINANCE EXAM 15
+[ 40] Test 1324  ||  [259] FINANCE EXAM  ||  [542] 15
 [ 44] 97. Which of the following is an uninsurable external risk to businesses:
 [ 61] A. Personal injury
 [ 61] B. Natural disasters
@@ -634,7 +634,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 17 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 1
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 1
 [ 50] 1. C
 [ 61] Innovation. Innovation is the development of something new, such as a new product, method, strategy, or
 [ 61] process. Innovation can also involve an improvement of something that already exists. Adding automation to an
@@ -675,7 +675,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 18 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 2
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 2
 [ 50] 5. A
 [ 61] Increase in consumer spending. Producers are not willing to build new plants or buy new equipment unless they
 [ 61] feel the economy is growing and expanding. The expansion phase of a business cycle is a time of economic
@@ -720,7 +720,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 19 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 3
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 3
 [ 50] 9. B
 [ 61] Listen carefully. To answer questions adequately, an applicant should listen carefully to the interviewer. The
 [ 61] applicant needs to understand exactly what the interviewer is asking. By listening carefully, an applicant will be
@@ -765,7 +765,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 20 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 4
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 4
 [ 44] 14. C
 [ 61] Taking a day of sick leave to play golf. Employees usually are allowed a certain number of sick days to be used
 [ 61] in the event of health or medical problems. Employers expect employees to use sick days for legitimate
@@ -813,7 +813,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 21 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 5
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 5
 [ 44] 19. C
 [ 61] Tell investors about the risks of these securities. Companies that sell securities have to tell the truth about the
 [ 61] securities they sell. They must be honest about their business and the risks of securities. Securities cannot be
@@ -855,7 +855,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 22 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 6
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 6
 [ 44] 24. D
 [ 61] Variances. Businesses analyze their financial information to determine the differences between what they had
 [ 61] forecast and what actually happened. By doing this, they can account for those differences and improve future
@@ -899,7 +899,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 23 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 7
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 7
 [ 44] 28. B
 [ 61] Contactless purchasing. Contactless purchasing uses credit or debit cards that are stored electronically in
 [ 61] someone's digital wallet. It relies on radio frequency identification (RFID) or near field communication (NFC) to
@@ -945,7 +945,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 24 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 8
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 8
 [ 44] 33. B
 [ 61] Lets you know how you are doing. Feedback on the job lets you know whether you are exceeding, meeting, or
 [ 61] falling short of the business's expectations. It lets you know whether you should continue as you are or change.
@@ -992,7 +992,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 25 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 9
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [549] 9
 [ 44] 38. A
 [ 61] Herd mentality. When people just follow others without thinking, they are demonstrating herd mentality. Status
 [ 61] quo bias refers to a preference to maintain the status quo and the view that a change from it is a loss. Risk-
@@ -1040,7 +1040,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 26 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 10
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 10
 [ 44] 43. D
 [ 61] By using the same hiring process for all applicants. Human resources professionals can foster fairness in the
 [ 61] hiring process by using the same process consistently, meaning that all applications and interviews are handled
@@ -1088,7 +1088,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 27 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 11
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [544] 11
 [ 44] 48. B
 [ 61] Keeping your promises. Perhaps the most important thing you can do to build trust is to keep your promises. If
 [ 61] you don't do what you say you'll do, it's difficult for others to count on you. If you promise to cover a coworker's
@@ -1135,7 +1135,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 28 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 12
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 12
 [ 44] 53. D
 [ 61] Operational. Enterprise risk management (ERM) is an organization-wide strategy to identify, assess, and
 [ 61] prepare for potential dangers and hazards that may harm or interfere with an organization's finances,
@@ -1182,7 +1182,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 29 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 13
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 13
 [ 44] 57. A
 [ 61] The first price at which the stock was sold on a given day. A stock table provides valuable information to
 [ 61] investors. In the "open" column of a stock table, you can see the first price at which a certain stock was sold on
@@ -1234,7 +1234,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 30 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 14
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 14
 [ 44] 61. A
 [ 61] Data filtering. Data filtering is the process of selecting a smaller part of a data set and using that subset for
 [ 61] examination or analysis. Because the researchers wanted to analyze the data of students that use Discover
@@ -1277,7 +1277,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 31 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 15
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 15
 [ 44] 65. C
 [ 61] Performing backup procedures on a regular basis. Backing up the computer system and storing the backup
 [ 61] information off-site can reduce financial losses due to uncontrollable circumstances such as electrical outages
@@ -1325,7 +1325,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 32 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 16
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 16
 [ 44] 69. C
 [ 61] Springdale addresses and purchases over $100,000. When running a query in a database, you must apply
 [ 61] criteria so the database knows which entries to retrieve. These criteria should align with the questions that the
@@ -1365,7 +1365,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 33 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 17
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 17
 [ 44] 73. D
 [ 61] Capital losses. An investor's capital gains are their earnings from the appreciation of investments. Most federal
 [ 61] governments collect taxes from investors on these capital gains. One way to reduce an investor's capital gains
@@ -1415,7 +1415,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 34 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 18
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 18
 [ 44] 77. C
 [ 61] A member of the board of directors is charged with fraud. An organization's board of directors is designed to
 [ 61] hold the company accountable for its actions and steer the organization clear of ethical pitfalls. If a member of a
@@ -1466,7 +1466,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 35 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 19
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 19
 [ 44] 81. A
 [ 61] Acid-test. An acid-test ratio determines whether a company has substantial short-term assets to cover its
 [ 61] immediate liabilities without selling inventory. It does so by measuring the company's ability to meet its short-
@@ -1514,7 +1514,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 36 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 20
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 20
 [ 44] 85. A
 [ 61] Insider trading. Insider trading occurs when a company's owners, directors, or key management trade its stock.
 [ 61] Insider trading is illegal when those individuals make trades based on information that has not been disclosed to
@@ -1560,7 +1560,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 37 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 21
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 21
 [ 44] 89. D
 [ 61] Stewardship. Financial stewardship involves ensuring that a company's financial resources are allocated
 [ 61] appropriately and ethically to fulfill the company's mission. In this situation, the Sun Valley Granola Company
@@ -1609,7 +1609,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 38 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 22
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 22
 [ 44] 93. A
 [ 61] Investment bank. Investment banks locate outside sources of money for firms. In most cases, investment banks
 [ 61] help these businesses to raise funds by issuing securities in the form of stocks or bonds. An investment
@@ -1662,7 +1662,7 @@
 [140] Copyright © 2026 by MBA Research and Curriculum Center®, Columbus, Ohio
 
 ===== PAGE 39 (612x792) =====
-[ 41] Test 1324 FINANCE EXAM—KEY 23
+[ 41] Test 1324  ||  [244] FINANCE EXAM—KEY  ||  [543] 23
 [ 44] 97. D
 [ 61] Tax increases. Businesses cannot control when and by how much a government may increase taxes, which are
 [ 61] uninsurable. A business's inventory is insurable. Liability insurance can be purchased to transfer the business's

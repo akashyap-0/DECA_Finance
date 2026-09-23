@@ -18,7 +18,7 @@
 [ 54] Posted online March 2018 by DECA Inc.
 
 ===== PAGE 2 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 1
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 1
 [ 67] 1. A financial institution fails to comply with an important government regulation. The financial institution will
 [ 81] most likely
 [ 99] A. pay a fine.
@@ -69,7 +69,7 @@
 [145] Copyright © 2018 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 3 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 2
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 2
 [ 67] 9. To contribute to a discussion in a useful way, you should avoid
 [ 99] A. blurting out statements without thinking.
 [ 99] B. stating opinions and stick to the facts.
@@ -121,7 +121,7 @@
 [ 99] D. business
 
 ===== PAGE 4 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 3
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 3
 [ 61] 18. The most environmentally friendly way for producers to respond to limited natural resources is by
 [ 99] A. tapping the resources.
 [ 99] B. conserving the resources.
@@ -173,7 +173,7 @@
 [ 99] D. Cara tolerates others' faults.
 
 ===== PAGE 5 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 4
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 4
 [ 61] 27. Which of the following is an action of a person who is fair:
 [ 99] A. Gets her/his own way all the time
 [ 99] B. Balances her/his needs with those of others
@@ -224,7 +224,7 @@
 [ 99] D. not need to reflect as much before making decisions.
 
 ===== PAGE 6 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 5
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 5
 [ 61] 36. Brittanie's coworker asks her a question about a software program. Brittanie isn't familiar with the
 [ 81] program, so she can't answer the question. Brittanie has a
 [ 99] A. prejudice.
@@ -274,7 +274,7 @@
 [ 99] D. Consumer spending increases consistently.
 
 ===== PAGE 7 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 6
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 6
 [ 61] 45. In the past 20 years, Country X has reformed its trade policies and currency exchange rate system. As a
 [ 81] result, foreign investment is increasing, and the country's business activity and gross domestic product is
 [ 81] rapidly growing. This is an example of a(n)
@@ -321,7 +321,7 @@
 [ 99] D. Bad debt
 
 ===== PAGE 8 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 7
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 7
 [ 61] 53. When Penny started her job, she believed that lying was completely wrong. However, after two years,
 [ 81] she has started to exaggerate financial projections and now believes that lies are only wrong when they
 [ 81] cause direct harm. This is an example of
@@ -371,7 +371,7 @@
 [ 99] D. Data in a financial-information management system are typically at least four-to-six months old.
 
 ===== PAGE 9 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 8
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 8
 [ 61] 61. Banks limit their employees' and vendors' access to confidential financial information to
 [ 99] A. protect their customers' privacy.
 [ 99] B. maintain a safe working environment.
@@ -421,7 +421,7 @@
 [ 99] D. Print flyers to hand out at the entrance that lists the park's daily activities and shows.
 
 ===== PAGE 10 (612x792) =====
-[ 63] Test 1163 FINANCE CLUSTER EXAM 9
+[ 63] Test 1163  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 9
 [ 61] 69. The most efficient way to obtain the current interest rates on certificates of deposit purchased through
 [ 81] Main Street Community Bank is to
 [ 99] A. make an appointment with a bank teller.
@@ -469,7 +469,7 @@
 [ 99] D. Competition
 
 ===== PAGE 11 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM 10
+[ 60] Test 1163  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 10
 [ 61] 77. Warehousing and shipping methods are operations considerations related to
 [ 99] A. expense control.
 [ 99] B. scheduling.
@@ -518,7 +518,7 @@
 [ 99] D. arrange everything within easy reach.
 
 ===== PAGE 12 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM 11
+[ 60] Test 1163  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 11
 [ 61] 86. Determine the meaning of the following want ad: F/T Mgr. Needed Immed. Two Yrs. Exp. Req. EOE
 [ 99] A. Fast-track manager needed immediately. Two years' experience requested. Enlist only extras.
 [ 99] B. For trade. Manager needed immediately. Two years' experience requested. Experience on
@@ -568,7 +568,7 @@
 [ 99] D. local periodicals.
 
 ===== PAGE 13 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM 12
+[ 60] Test 1163  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 12
 [ 61] 94. Troy is a finance manager for a small firm in town. Last night, he attended a cookout at his neighbor's
 [ 81] house and met Melissa, who is the owner of a large financial-planning company. Troy and Melissa
 [ 81] exchanged business cards, and they set up an appointment for the following week to discuss business
@@ -614,7 +614,7 @@
 [ 99] D. Controlling
 
 ===== PAGE 14 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 13
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 13
 [ 67] 1. A
 [ 81] Pay a fine. Financial institutions often have to pay fines for noncompliance. Noncompliance does not
 [ 81] typically lead to a better reputation or new business. In fact, clients may be reluctant to do business with
@@ -666,7 +666,7 @@
 [135] 89-90]. Tinley Park, IL: Goodheart-Willcox.
 
 ===== PAGE 15 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 14
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 14
 [ 67] 6. B
 [ 81] Claiming the loss as a tax deduction. The difference between the cost of an investment and the selling
 [ 81] price of that same investment is either a capital gain or capital loss. The federal government taxes the
@@ -716,7 +716,7 @@
 [135] Mason, OH: South-Western.
 
 ===== PAGE 16 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 15
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 15
 [ 61] 11. B
 [ 81] Write “please” and “thank you” when necessary. It's important to be polite when writing professional
 [ 81] emails. This means using “please” and “thank you” when necessary. You should avoid using all capitals,
@@ -768,7 +768,7 @@
 [ 81] SOURCE: LAP-CR-009—Making Mad Glad (Handling Difficult Customers)
 
 ===== PAGE 17 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 16
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 16
 [ 61] 16. C
 [ 81] What are the client's expectations? To provide the level of service that their clients desire, finance
 [ 81] professionals need to understand and know the level of service and communication that their clients
@@ -821,7 +821,7 @@
 [ 81] SOURCE: LAP-EC-003—Lose, Win, or Draw (Business Risk)
 
 ===== PAGE 18 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 17
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 17
 [ 61] 22. A
 [ 81] Progressive. Gary favors a progressive tax structure. A progressive tax structure is one in which those
 [ 81] who earn more are required to pay a higher percentage of their income in taxes. In other words, as the
@@ -876,7 +876,7 @@
 [ 81] SOURCE: LAP-EI-021—Make the Honor Role (Acting Responsibly)
 
 ===== PAGE 19 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 18
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 18
 [ 61] 28. B
 [ 81] Are ethical principles being violated? When determining whether you're facing an ethical dilemma, you
 [ 81] should ask yourself, “Are ethical principles being violated?” The other three alternatives are not questions
@@ -931,7 +931,7 @@
 [ 81] SOURCE: LAP-EI-025—Keep Your Cool (Stress Management)
 
 ===== PAGE 20 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 19
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 19
 [ 61] 34. D
 [ 81] Job satisfaction. Knowing that you are making a contribution to the business by being part of a team can
 [ 81] improve your self-confidence and job satisfaction. It can also improve your decision-making and problem-
@@ -987,7 +987,7 @@
 [135] a-check-and-balancing-checkbook.aspx
 
 ===== PAGE 21 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 20
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 20
 [ 61] 40. B
 [ 81] Credit unions, savings and loan associations, and commercial banks. Deposit-taking financial institutions
 [ 81] accept funds from customers (depositors) and pay interest on the funds. Credit unions, commercial
@@ -1043,7 +1043,7 @@
 [135] 18, 2017, from http://economics.about.com/cs/businesscycles/a/economic_ind.htm
 
 ===== PAGE 22 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 21
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 21
 [ 61] 44. B
 [ 81] Business expansion slows quickly. Slower business expansion is one factor that indicates an economic
 [ 81] recession. When business productivity slows, there is less work for laborers. When there is less work for
@@ -1094,7 +1094,7 @@
 [ 81] SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
 
 ===== PAGE 23 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 22
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 22
 [ 61] 49. C
 [ 81] Consistent. Consistent financial information results from the application of similar or identical accounting
 [ 81] methods and systems over time within an organization. The Normandy Company has applied very similar
@@ -1150,7 +1150,7 @@
 [ 81] SOURCE: LAP-FI-355—Money Morals (The Role of Ethics in Finance)
 
 ===== PAGE 24 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 23
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 23
 [ 61] 54. C
 [ 81] Qualitative factors. Marginal analysis only focuses on quantitative differences among choices and does
 [ 81] not consider qualitative factors, such as customer service or trusted recommendations. Marginal analysis
@@ -1206,7 +1206,7 @@
 [135] http://www.accountingcoach.com/blog/what-is-cost-allocation
 
 ===== PAGE 25 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 24
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 24
 [ 61] 59. D
 [ 81] $7,111.75. To determine how much you should invest today, calculate the present value of your
 [ 81] investment using the formula Present Value = Future Value / (1 + Interest Rate)^(Number of Years). So, the
@@ -1260,7 +1260,7 @@
 [135] 2017, from https://ourpastimes.com/scan-microfilm-personal-scanner-7470174.html
 
 ===== PAGE 26 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 25
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 25
 [ 61] 63. A
 [ 81] Revenue recognition. The primary function of budgeting software is to help a business forecast and
 [ 81] monitor income and expenses for all of its functions, including sales, promotion, production, payroll, etc.
@@ -1318,7 +1318,7 @@
 [135] http://financecareers.about.com/od/financialplanner/a/finplanner.htm
 
 ===== PAGE 27 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 26
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 26
 [ 61] 67. D
 [ 81] Human resources management. This is the process of planning, staffing, leading, and organizing the
 [ 81] employees of a business. One way that computer technology impacts this process is by making it
@@ -1371,7 +1371,7 @@
 [135] 2017, from http://www.pcworld.com/businesscenter/article/164457/article.html
 
 ===== PAGE 28 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 27
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 27
 [ 61] 71. A
 [ 81] Constantly changing. Information management can be a challenge because the business world is
 [ 81] constantly changing. Companies can't sit back and assume their current programs will continue to fit the
@@ -1426,7 +1426,7 @@
 [135] http://databases.about.com/od/tutorials/ht/Access_2010_Timestamps.htm
 
 ===== PAGE 29 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 28
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 28
 [ 61] 76. C
 [ 81] Economy. Inflation is a factor associated with the economy. The economy greatly affects businesses and
 [ 81] the decisions they must make to satisfy customers and remain profitable. Inflation is not necessarily
@@ -1475,7 +1475,7 @@
 [ 81] SOURCE: LAP-OP-006—Projected to Win (Nature of Project Management)
 
 ===== PAGE 30 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 29
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 29
 [ 61] 81. B
 [ 81] Time-management. Time management is the process of controlling events in order to accomplish
 [ 81] priorities. Time-management skills are techniques that can be applied to aid in the wise use of time.
@@ -1523,7 +1523,7 @@
 [ 81] SOURCE: LAP-PD-001—About Time (Time Management in Business)
 
 ===== PAGE 31 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 30
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 30
 [ 61] 86. C
 [ 81] Full-time manager needed immediately. Two years' experience required. Equal opportunity employer.
 [ 81] Businesses frequently use abbreviations in their want ads. In this example, F/T Mgr. is an abbreviation
@@ -1574,7 +1574,7 @@
 [135] http://www.investopedia.com/terms/c/corporategovernance.asp
 
 ===== PAGE 32 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 31
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 31
 [ 61] 91. D
 [ 81] Independent thinking. It is important for members of a corporation's board of directors to be able to think
 [ 81] independently. This involves questioning current policies and proposed actions so that the board as a
@@ -1620,7 +1620,7 @@
 [135] Goodheart-Willcox.
 
 ===== PAGE 33 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 32
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 32
 [ 61] 95. A
 [ 81] Understanding loss experience and exposure to an insurance underwriter. Ethical behavior and risk
 [ 81] management are closely related. Unethical behavior can expose a company to a variety of different risks.
@@ -1671,7 +1671,7 @@
 [ 81] SOURCE: Burrow, J.L. (2012) Marketing (3rd ed.) [pp. 533-549]. Mason, OH: Thomson/South-Western.
 
 ===== PAGE 34 (612x792) =====
-[ 60] Test 1163 FINANCE CLUSTER EXAM—KEY 33
+[ 60] Test 1163  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [531] 33
 [ 61] 99. D
 [ 81] Enterprise risk management. Enterprise risk management involves a corporation identifying all the risks
 [ 81] that threaten the company, deciding which risks to focus on, and sharing that information with

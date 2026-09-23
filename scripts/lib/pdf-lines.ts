@@ -6,7 +6,7 @@ import * as pdfjs from 'pdfjs-dist/legacy/build/pdf.mjs';
 import type { Line, Page, Segment } from './types.ts';
 
 /** Gap (in PDF points) between text items that starts a new segment. */
-export const SEGMENT_GAP = 12;
+export const SEGMENT_GAP = 8;
 /** Items whose baselines differ by at most this many points share a line. */
 const LINE_TOLERANCE = 2.5;
 
@@ -80,7 +80,15 @@ export function groupLines(items: Item[]): Line[] {
       } else {
         continue;
       }
-      curEnd = it.x + it.w;
+      // Whitespace items can span a column gap, so they never extend the segment.
+      if (!isSpace) curEnd = it.x + it.w;
+    }
+    // A lone "12." or "C." marker belongs to the text that follows it.
+    for (let i = 0; i < segments.length - 1; i++) {
+      if (/^\s*((\d{1,3}|[A-D])\.|SOURCE:)\s*$/.test(segments[i].text) && segments[i + 1].x - segments[i].x < 75) {
+        segments[i].text = segments[i].text.trim() + ' ' + segments[i + 1].text;
+        segments.splice(i + 1, 1);
+      }
     }
     const segs = segments
       .map((s) => ({ x: Math.round(s.x * 10) / 10, text: fixOrdinals(s.text.replace(/\s+/g, ' ').trim()) }))

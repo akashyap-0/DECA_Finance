@@ -1,0 +1,21 @@
+{
+  "_comment": "PI code prefix -> instructional area. Built from the prefixes that appear in exams/ (see docs/exam-format.md). CC (Compliance) is a legacy 2011-2013 code whose PIs later moved into Business Law.",
+  "areas": {
+    "BL": "Business Law",
+    "CC": "Business Law",
+    "CO": "Communication Skills",
+    "CR": "Customer Relations",
+    "EC": "Economics",
+    "EI": "Emotional Intelligence",
+    "EN": "Entrepreneurship",
+    "FI": "Financial Analysis",
+    "FM": "Financial-Information Management",
+    "HR": "Human Resources Management",
+    "MK": "Marketing",
+    "NF": "Information Management",
+    "OP": "Operations",
+    "PD": "Professional Development",
+    "RM": "Risk Management",
+    "SM": "Strategic Management"
+  }
+}

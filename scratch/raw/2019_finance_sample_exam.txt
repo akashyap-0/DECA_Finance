@@ -18,7 +18,7 @@
 [ 54] Posted online March 2019 by DECA Inc.
 
 ===== PAGE 2 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 1
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 1
 [ 67] 1. Businesses must comply with regulations that limit the amount and type of pollution and waste they
 [ 81] produce. These regulations are referred to as __________ laws.
 [ 99] A. environmental
@@ -73,7 +73,7 @@
 [145] Copyright © 2019 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 3 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 2
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 2
 [ 61] 10. What is an example of a topic that would be addressed in an informational message?
 [ 99] A. Request for payment on a past-due account
 [ 99] B. Date and time of appointment with customer
@@ -125,7 +125,7 @@
 [ 99] D. $50
 
 ===== PAGE 4 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 3
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 3
 [ 61] 19. Which of the following is most likely to affect the selling price of roses:
 [ 99] A. A large number of rose bushes are killed by disease.
 [ 99] B. Plants and small shrubs are also sold at the flower shop.
@@ -170,7 +170,7 @@
 [ 99] D. Naturally occurring differences of opinion
 
 ===== PAGE 5 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 4
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 4
 [ 61] 27. Susan is a purchasing manager for a manufacturer. On Monday, Susan received a call from the plant
 [ 81] manager, who frantically told Susan that the production line ran out of 3/8” washers, which has forced
 [ 81] production to stop. Because Jason is the senior buyer in charge of ordering the washers, Susan set up a
@@ -223,7 +223,7 @@
 [ 99] D. makes sure laws are never broken.
 
 ===== PAGE 6 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 5
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 5
 [ 61] 35. When a person is inspired, s/he is
 [ 99] A. driven to take action.
 [ 99] B. disengaged from work.
@@ -275,7 +275,7 @@
 [ 99] D. convergence
 
 ===== PAGE 7 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 6
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 6
 [ 61] 44. When the unemployment rate rises, stock values typically
 [ 99] A. increase.
 [ 99] B. decrease.
@@ -292,9 +292,9 @@
 [ 99] C. Only wealthy investors have access to stock information.
 [ 99] D. It is very difficult to find stock information.
 [ 61] 47. Analyze the information in the securities table about Home Depot.
-[ 97] 52-WEEK YLD
-[ 98] HI LO STOCK (SYM) P/E CLOSE CHG EARNINGS DIV %
-[ 93] 37.03 26.62 Home Depot  ||  [267] 18.92 35.01 +.62 1.85 0.95 2.7
+[ 97] 52-WEEK  ||  [498] YLD
+[ 98] HI  ||  [133] LO  ||  [173] STOCK (SYM)  ||  [264] P/E  ||  [303] CLOSE  ||  [352] CHG  ||  [388] EARNINGS  ||  [461] DIV  ||  [508] %
+[ 93] 37.03  ||  [135] 26.62  ||  [173] Home Depot  ||  [267] 18.92  ||  [309] 35.01  ||  [357] +.62  ||  [400] 1.85  ||  [468] 0.95  ||  [507] 2.7
 [200] (HD)
 [ 81] Based on the information provided, which of the following statements about Home Depot is most likely to
 [ 81] be accurate:
@@ -324,7 +324,7 @@
 [117] financial status.
 
 ===== PAGE 8 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 7
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 7
 [ 61] 51. A new employee left JRB Manufacturing two weeks after s/he completed the company's training
 [ 81] program. The expense of training the new employee is a(n) __________ for the company.
 [ 99] A. external cost
@@ -377,7 +377,7 @@
 [ 99] D. Bankruptcy
 
 ===== PAGE 9 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 8
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 8
 [ 61] 60. An effective financial-information management system enables managers to obtain reports to determine
 [ 81] how the company is using its funds. If the managers find that the company is not operating efficiently,
 [ 81] they may reallocate funds from one business function to another to improve profitability. In this situation,
@@ -432,7 +432,7 @@
 [ 99] D. job specification.
 
 ===== PAGE 10 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM 9
+[ 63] Test 1184  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 9
 [ 61] 68. Marketing encourages people from different countries to __________ frequently.
 [ 99] A. train
 [ 99] B. trade
@@ -482,7 +482,7 @@
 [ 99] D. Qualitative data
 
 ===== PAGE 11 (612x792) =====
-[ 60] Test 1184 FINANCE CLUSTER EXAM 10
+[ 60] Test 1184  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 10
 [ 61] 77. The Halifax Retail chain uses computer applications to track its inventory and order goods from its
 [ 81] vendors. What form of technology is the company using to streamline its purchasing processes?
 [ 99] A. Customer relationship management (CRM)
@@ -533,7 +533,7 @@
 [ 99] D. People show creativity in a variety of ways.
 
 ===== PAGE 12 (612x792) =====
-[ 60] Test 1184 FINANCE CLUSTER EXAM 11
+[ 60] Test 1184  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 11
 [ 61] 86. If a question on a job application does not apply to you, how should you respond?
 [ 99] A. Leave it blank
 [ 99] B. Make up a response
@@ -585,7 +585,7 @@
 [ 99] D. up-selling.
 
 ===== PAGE 13 (612x792) =====
-[ 60] Test 1184 FINANCE CLUSTER EXAM 12
+[ 60] Test 1184  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 12
 [ 61] 95. How can management reduce the business's level of risk associated with ethics?
 [ 99] A. Advise employees that following business ethics depends on the situation.
 [ 99] B. Allow employees to follow their own set of ethics.
@@ -622,7 +622,7 @@
 [ 99] D. supervisors.
 
 ===== PAGE 14 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 13
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 13
 [ 67] 1. A
 [ 81] Environmental. The purpose of environmental laws is to protect the natural environment—the air, soil,
 [ 81] and water. Environmental laws help reduce pollution and govern the ways in which individuals and all
@@ -673,7 +673,7 @@
 [135] 2018, from https://smallbusiness.chron.com/examples-internal-controls-57039.html
 
 ===== PAGE 15 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 14
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 14
 [ 67] 6. C
 [ 81] Virtual auditors. A virtual auditor is a type of compliance technology that uses multiple reasoning
 [ 81] processes to help businesses identify errors that affect their compliance with government regulations.
@@ -725,7 +725,7 @@
 [135] ness_letters/index.html
 
 ===== PAGE 16 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 15
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 15
 [ 61] 10. B
 [ 81] Date and time of appointment with customer. Informational messages are written every day in business
 [ 81] in order to send routine information to others. Sending a customer a message confirming the date and
@@ -780,7 +780,7 @@
 [135] South-Western Cengage Learning.
 
 ===== PAGE 17 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 16
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 16
 [ 61] 15. D
 [ 81] Sales force automation. Many companies use sales force automation (SFA) technology to support,
 [ 81] coordinate, and increase the productivity of their sales professionals. SFA technology, which is a type of
@@ -830,7 +830,7 @@
 [ 81] SOURCE: LAP-EC-012—When More Is Less (Functions of Prices)
 
 ===== PAGE 18 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 17
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 17
 [ 61] 20. B
 [ 81] Earn a profit. The goal of business is to earn a profit. If businesses do not earn a profit, they will not be
 [ 81] able to contribute to society. Businesses contribute to society in many ways, and most of these require
@@ -884,7 +884,7 @@
 [ 81] SOURCE: LAP-EC-045—On Top of the World (Impact of Culture on Global Trade)
 
 ===== PAGE 19 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 18
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 18
 [ 61] 26. A
 [ 81] A lack of knowledge about a group of people. If you are surrounded by those who are just like you, you
 [ 81] may not understand people who are different. You may experience discomfort or even fear when you do
@@ -939,7 +939,7 @@
 [ 81] SOURCE: LAP-EI-030—Have a Heart (Showing Empathy for Others)
 
 ===== PAGE 20 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 19
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 19
 [ 61] 32. D
 [ 81] Being transparent. Being transparent is the first step toward building trusting relationships. Increased
 [ 81] productivity, better ideas, and increased sales are all benefits of transparency.
@@ -988,7 +988,7 @@
 [135] https://businessjargons.com/entrepreneurial-process.html
 
 ===== PAGE 21 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 20
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 20
 [ 61] 38. C
 [ 81] It is better to receive $100 today than $101 a year from now. According to the concept of the time value
 [ 81] of money, the sooner money is received the more time you have to let it grow. Receiving money later
@@ -1037,7 +1037,7 @@
 [135] 2018, from https://bizfluent.com/list-7178096-debt-equity-instruments.html
 
 ===== PAGE 22 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 21
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 21
 [ 61] 43. D
 [ 81] Convergence. Convergence occurs when financial providers from different financial sectors (e.g.,
 [ 81] banking services and insurance) merge. Consolidation takes place when financial providers within the
@@ -1085,7 +1085,7 @@
 [135] Western Cengage Learning.
 
 ===== PAGE 23 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 22
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 22
 [ 61] 47. A
 [ 81] The previous day's closing price was $34.39, $0.62 less than the last price for today. To calculate the
 [ 81] previous day's closing price, investors can subtract the net change (the difference between the closing
@@ -1142,7 +1142,7 @@
 [135] https://www.accountingtools.com/articles/what-is-a-sunk-cost.html
 
 ===== PAGE 24 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 23
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 23
 [ 61] 52. A
 [ 81] Examining the relevant costs of advertising options. Managerial accountants can use techniques such as
 [ 81] relevant cost analysis to assist marketers in making decisions regarding advertising options. They can
@@ -1200,7 +1200,7 @@
 [135] indirect-costs.html
 
 ===== PAGE 25 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 24
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 24
 [ 61] 57. A
 [ 81] To estimate income. The sales budget sets the financial pace for a business by estimating what amount
 [ 81] of expenses and income can be expected from the sale of the business's goods and services. Sales
@@ -1250,7 +1250,7 @@
 [135] 1.html?zkPrintable=1&nopagination=1
 
 ===== PAGE 26 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 25
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 25
 [ 61] 62. D
 [ 81] Passage of laws that recognize electronic documents as legally binding. As businesses have become
 [ 81] more comfortable with the use of electronic information, their willingness to accept electronic documents
@@ -1308,7 +1308,7 @@
 [135] management-bpm/articles/process-excellence-explained-what-s-the-difference/
 
 ===== PAGE 27 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 26
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 26
 [ 61] 66. C
 [ 81] To determine the likelihood of getting paid. Creditors take risks when extending credit to customers
 [ 81] whether they are letting them borrow money or defer payment for product. By analyzing customers'
@@ -1365,7 +1365,7 @@
 [135] from https://www.bitlaw.com/copyright/index.html
 
 ===== PAGE 28 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 27
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 27
 [ 61] 72. A
 [ 81] Customer relationship management. Customer relationship management systems accumulate and track
 [ 81] customer activities and allow for interactions between customers and businesses. Transaction
@@ -1423,7 +1423,7 @@
 [135] clickstream-data-to-know-your-customers-entire-online-journey/112816/
 
 ===== PAGE 29 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 28
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 28
 [ 61] 77. C
 [ 81] Electronic data interchange (EDI). EDI systems allow businesses to transmit information to and from their
 [ 81] suppliers. EDI applications can track a business's inventory and determine when the business should
@@ -1477,7 +1477,7 @@
 [ 81] SOURCE: LAP-OP-002—Buy Right (Purchasing)
 
 ===== PAGE 30 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 29
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 29
 [ 61] 83. B
 [ 81] Follow company policies and procedures. Most businesses have specific policies that provide guidelines
 [ 81] for the ways in which employees are expected to carry out their tasks. Following these guidelines can
@@ -1525,7 +1525,7 @@
 [135] Hill Education.
 
 ===== PAGE 31 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 30
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 30
 [ 61] 88. C
 [ 81] Provide further information. By offering to provide further information, applicants are indicating their
 [ 81] interest in the job without stating it directly. They are reinforcing their desire to be hired. Interviewers
@@ -1575,7 +1575,7 @@
 [135] answers/the-difference-between-internal-and-external-audits.html
 
 ===== PAGE 32 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 31
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 31
 [ 61] 93. D
 [ 81] Board of directors. The board of directors guides the organization during the decision-making process so
 [ 81] that the organization continues to accomplish its mission in an efficient and ethical way. It would not be
@@ -1629,7 +1629,7 @@
 [135] nts/ASEC_Whitepapers/Risk_Technology.pdf
 
 ===== PAGE 33 (612x792) =====
-[ 63] Test 1184 FINANCE CLUSTER EXAM—KEY 32
+[ 63] Test 1184  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 32
 [ 61] 97. A
 [ 81] Captive insurance companies; transfer. Organizations (i.e., corporations, industry/professional/trade
 [ 81] associations) often form their own insurance companies, which are known as captive insurance

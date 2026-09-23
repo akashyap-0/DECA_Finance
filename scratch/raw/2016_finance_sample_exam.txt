@@ -18,7 +18,7 @@
 [ 54] Posted online July 2016 by DECA Inc.
 
 ===== PAGE 2 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM 1
+[ 62] Test 1123  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 1
 [ 67] 1. Which of the following is a type of intangible business property that is protected by law:
 [ 99] A. Equipment
 [ 99] B. Inventory
@@ -69,7 +69,7 @@
 [145] Copyright © 2016 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 3 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM—KEY 2
+[ 62] Test 1123  ||  [240] FINANCE CLUSTER EXAM—KEY  ||  [533] 2
 [ 67] 9. Before DiAnn presents her new idea to her boss, she searches the Internet and jots down two statistics
 [ 81] that reinforce the idea. This is an example of
 [ 99] A. obtaining primary information.
@@ -122,7 +122,7 @@
 [ 99] D. complimenting the customer.
 
 ===== PAGE 4 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM—KEY 3
+[ 62] Test 1123  ||  [240] FINANCE CLUSTER EXAM—KEY  ||  [533] 3
 [ 61] 17. What is an important aspect of a customer-centric business?
 [ 99] A. Reducing the number of touch points with customers
 [ 99] B. Limiting the employees' decision making
@@ -172,7 +172,7 @@
 [ 99] D. personal mastery.
 
 ===== PAGE 5 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM—KEY 4
+[ 62] Test 1123  ||  [240] FINANCE CLUSTER EXAM—KEY  ||  [533] 4
 [ 61] 25. The general economic growth of a country is supported by its
 [ 99] A. level of productivity.
 [ 99] B. standard of living.
@@ -223,7 +223,7 @@
 [ 99] D. lose their independence.
 
 ===== PAGE 6 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM—KEY 5
+[ 62] Test 1123  ||  [240] FINANCE CLUSTER EXAM—KEY  ||  [533] 5
 [ 61] 34. Keeping the end goal in mind refers to which standard of excellence that achievement-oriented people
 [ 81] set?
 [ 99] A. Results
@@ -274,7 +274,7 @@
 [ 99] D. Commercial banks, credit unions, and brokerages
 
 ===== PAGE 7 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM—KEY 6
+[ 62] Test 1123  ||  [240] FINANCE CLUSTER EXAM—KEY  ||  [533] 6
 [ 61] 43. If Hannah wants to invest in the capital markets, what types of securities should she purchase?
 [ 99] A. Corporate bonds and treasury bills
 [ 99] B. Common stock and certificates of deposit
@@ -323,7 +323,7 @@
 [ 99] D. payee outsourcing.
 
 ===== PAGE 8 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM—KEY 7
+[ 62] Test 1123  ||  [240] FINANCE CLUSTER EXAM—KEY  ||  [533] 7
 [ 61] 51. A business's balance sheet lists $3,800 in cash, $15,125 in accounts payable, $2,775 in taxes, $10,350
 [ 81] in machinery and equipment, and $6,280 in salaries. Calculate the business's total liabilities.
 [ 99] A. $27,030
@@ -374,7 +374,7 @@
 [ 99] D. Owner's Equity = Liabilities + Available Cash
 
 ===== PAGE 9 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM—KEY 8
+[ 62] Test 1123  ||  [240] FINANCE CLUSTER EXAM—KEY  ||  [533] 8
 [ 61] 59. You want to have $8,000 in three years to purchase a car. You can earn 4% compound interest on your
 [ 81] investment. How much should you invest today?
 [ 99] A. $7,364.10
@@ -423,7 +423,7 @@
 [ 99] D. recruiting.
 
 ===== PAGE 10 (612x792) =====
-[ 62] Test 1123 FINANCE CLUSTER EXAM—KEY 9
+[ 62] Test 1123  ||  [240] FINANCE CLUSTER EXAM—KEY  ||  [533] 9
 [ 61] 67. Business customers differ from final consumers in that
 [ 99] A. there is a greater emphasis on personal selling in business-to-business marketing.
 [ 99] B. business customers don't care about service as much as consumers do.
@@ -470,7 +470,7 @@
 [ 99] D. New technology causes new laws to be enacted.
 
 ===== PAGE 11 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 10
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 10
 [ 61] 75. Determine the mode for a customer-survey question using the following statistical information: 7, 5, 3, 7,
 [ 81] 7, 9, 5, 7, 9, 9
 [ 99] A. 5
@@ -521,7 +521,7 @@
 [ 99] D. Raises your level of self-esteem
 
 ===== PAGE 12 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 11
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 11
 [ 61] 84. Recognizing your strengths and weaknesses helps you to accept yourself, which is one of the
 [ 81] foundations of
 [ 99] A. safety.
@@ -568,7 +568,7 @@
 [ 99] D. Director of sales
 
 ===== PAGE 13 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 12
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 12
 [ 61] 92. Ryan is a college student who is interested in becoming a teacher. Every Tuesday afternoon, he spends
 [ 81] his free time tutoring second-grade students in reading and math at a local elementary school. What
 [ 81] technique is Ryan using to obtain work experience?
@@ -620,7 +620,7 @@
 [ 99] D. it increases business costs in the long run.
 
 ===== PAGE 14 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 13
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 13
 [ 55] 100. Why should managers know how to do the work of the workers they supervise?
 [ 99] A. To create a team spirit among employees
 [ 99] B. To establish a chain of command
@@ -628,7 +628,7 @@
 [ 99] D. To coordinate employees' efforts
 
 ===== PAGE 15 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 14
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 14
 [ 67] 1. D
 [ 81] Trademark. A trademark is a symbol, design, or word used by a business to identify a good or service
 [ 81] and is registered with the government to prevent its use by others. A trademark is an example of
@@ -684,7 +684,7 @@
 [135] 9, 2015, from http://money.cnn.com/retirement/guide/IRA_Roth.moneymag/index2.htm
 
 ===== PAGE 16 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 15
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 15
 [ 67] 6. B
 [ 81] Regulatory guidelines. Financial institutions are required to follow governmental rules and regulations.
 [ 81] Following these regulatory guidelines is the process of compliance. The purpose of compliance is to
@@ -737,7 +737,7 @@
 [ 81] SOURCE: QS LAP 29—Put in Your Two Cents (Participating in Group Discussion)
 
 ===== PAGE 17 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 16
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 16
 [ 61] 11. B
 [ 81] Pie chart. If Alma wants to illustrate her budget by showing parts in relation to the whole, she should use
 [ 81] a pie chart. A table is a visual way of displaying information in rows and columns. A bar graph shows
@@ -792,7 +792,7 @@
 [135] [pp. 40-41]. New York: McGraw-Hill.
 
 ===== PAGE 18 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 17
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 17
 [ 61] 16. C
 [ 81] Providing efficient follow-up. Customers often base their impressions of a business on the interactions
 [ 81] they have with the business's employees. In the situation provided, Karl worked quickly to find out the
@@ -849,7 +849,7 @@
 [ 81] SOURCE: EC LAP 6—Are You Satisfied? (Economics and Economic Activities)
 
 ===== PAGE 19 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 18
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 18
 [ 61] 21. B
 [ 81] Red apples @ $0.90 per pound; green apples @ $0.80 per pound. This is the only combination that
 [ 81] resulted in a change in the relative price ratio. When red apples sold for $0.30 per pound and green
@@ -904,7 +904,7 @@
 [135] http://www.hr.ucsb.edu/what-tentative-agreement-or-ta-contract-negotiations
 
 ===== PAGE 20 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 19
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 19
 [ 61] 27. D
 [ 81] A lower rate of inflation. When a lot of people are out of work, they lose their buying power, which means
 [ 81] less money is in circulation. Because unemployed people have less disposable income, the demand for
@@ -960,7 +960,7 @@
 [135] Education.
 
 ===== PAGE 21 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 20
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 20
 [ 61] 32. B
 [ 81] Culture. The customs, habits, and traditions of a particular group of people are known as their culture.
 [ 81] Stereotypes are set images or assumptions about people or things. Diversity is all the ways in which
@@ -1014,7 +1014,7 @@
 [135] Retrieved September 15, 2015 from http://www.fms.treas.gov/prompt/index.html
 
 ===== PAGE 22 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 21
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 21
 [ 61] 39. D
 [ 81] Realize what it takes to get the things you really want. Financial planning is a good way to realize what it
 [ 81] takes to get the things you really want. It is not a method for stopping all impulsive purchases nor is it a
@@ -1067,7 +1067,7 @@
 [135] Cengage Learning.
 
 ===== PAGE 23 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 22
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 22
 [ 61] 44. B
 [ 81] A financial holding company. Because financial holding companies provide a wide variety of financial
 [ 81] services and related products, the Federal Reserve Board supervises their activities. The primary
@@ -1121,7 +1121,7 @@
 [ 81] SOURCE: QS LAP 36—The Source Is With You (Finding and Evaluating Securities Information)
 
 ===== PAGE 24 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 23
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 23
 [ 61] 48. C
 [ 81] Price-earnings ratio. Most stock tables include the price-earnings ratio, or PE ratio for short. The price-
 [ 81] earnings ratio is determined by dividing the last closing price of the stock by the earnings per share.
@@ -1170,7 +1170,7 @@
 [135] http://bizfinance.about.com/od/yourfinancialposition/tp/Statement_Retained_Earnings.htm
 
 ===== PAGE 25 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 24
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 24
 [ 61] 53. B
 [ 81] Capturing the business's day-to-day financial activities. Accounting is the process of keeping and
 [ 81] interpreting financial records. Managerial accounting primarily focuses on capturing, maintaining, and
@@ -1227,7 +1227,7 @@
 [135] http://www.enotes.com/business-finance-encyclopedia/financial-statement-analysis/
 
 ===== PAGE 26 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 25
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 25
 [ 61] 58. A
 [ 81] Assets = Liabilities + Owner's Equity. A balance sheet is a financial statement that captures the financial
 [ 81] condition of the business at that particular moment. Three main elements are included on the balance
@@ -1280,7 +1280,7 @@
 [135] September 15, 2015, from http://kb.iu.edu/data/amsv.html
 
 ===== PAGE 27 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 26
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 26
 [ 61] 63. D
 [ 81] Debt modeling. Some budgeting software applications include a debt modeling tool which allows the user
 [ 81] to assess the potential impact of loans and lines of credit. To use the debt modeling tool, the user would
@@ -1334,7 +1334,7 @@
 [ 81] SOURCE: MK LAP 6—Cause and Effect (Buying Behavior)
 
 ===== PAGE 28 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 27
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 27
 [ 61] 68. D
 [ 81] An opinion. An opinion is a person's point of view or belief about a topic. Amy is stating her opinion about
 [ 81] why sales varied from one year to another. Her opinion may be supported by facts (true data), but she
@@ -1391,7 +1391,7 @@
 [135] http://databases.about.com/od/tutorials/ht/Access_2010_Timestamps.htm
 
 ===== PAGE 29 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 28
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 28
 [ 61] 73. D
 [ 81] Business. The primary function of record keeping is to provide information that indicates the status of the
 [ 81] business. In other words, record keeping provides information about what is happening with the
@@ -1439,7 +1439,7 @@
 [ 81] SOURCE: OP LAP 6—Projected to Win (Nature of Project Management)
 
 ===== PAGE 30 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 29
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 29
 [ 61] 78. C
 [ 81] Schedules. When planning a project, businesses often develop schedules to identify what tasks need to
 [ 81] be done and how long it will take to perform those tasks. The use of schedules helps a business to
@@ -1495,7 +1495,7 @@
 [ 81] SOURCE: PD LAP 16—Go for the Goal (Goal Setting)
 
 ===== PAGE 31 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 30
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 30
 [ 61] 84. C
 [ 81] Self-esteem. Self-esteem is the regard or respect that you have for yourself. People who have self-
 [ 81] esteem understand themselves and like who they are. Social acceptance involves being accepted by
@@ -1546,7 +1546,7 @@
 [135] http://www.investopedia.com/terms/c/corporategovernance.asp
 
 ===== PAGE 32 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 31
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 31
 [ 61] 89. A
 [ 81] It encourages transparency. Corporate governance creates a more transparent business environment,
 [ 81] which can increase investor confidence, create a defined brand, and minimize corruption.
@@ -1598,7 +1598,7 @@
 [135] washington-dc-lobbyists.html
 
 ===== PAGE 33 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 32
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 32
 [ 61] 94. C
 [ 81] Implement a referral system. A referral is a recommendation given to an individual or business by
 [ 81] another individual or business. For example, satisfied clients may refer their friends, family, or colleagues
@@ -1644,7 +1644,7 @@
 [135] September 10, 2015, from https://www.mindtools.com/pages/article/newLDR_51.htm
 
 ===== PAGE 34 (612x792) =====
-[ 60] Test 1123 FINANCE CLUSTER EXAM—KEY 33
+[ 60] Test 1123  ||  [237] FINANCE CLUSTER EXAM—KEY  ||  [530] 33
 [ 61] 97. A
 [ 81] Reduces tax due on the captive's premiums. Even if it is not associated with an insurance company, an
 [ 81] individual company, industry, or association may create a captive insurance company to specifically

@@ -394,7 +394,7 @@
 [ 99] B. purchasing.  ||  [324] D. inventory management.
 [ 61] 75. A company built a new online store. Customers expressed favorable opinions about the new site, but the
 [ 81] company did not notice an increase in online sales. The project was unsuccessful because it
-[ 99] A. provided positive effects for all stakeholders. C. offered little financial value.
+[ 99] A. provided positive effects for all stakeholders.  ||  [324] C. offered little financial value.
 [ 99] B. was unsustainable.  ||  [324] D. allowed project leaders to obtain data.
 [ 61] 76. Purchasing specialists who buy items such as furniture, supplies, and uniforms for their own company
 [ 81] are buying for

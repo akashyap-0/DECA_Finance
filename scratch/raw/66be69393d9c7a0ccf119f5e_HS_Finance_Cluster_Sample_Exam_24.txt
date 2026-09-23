@@ -18,7 +18,7 @@
 [ 54] Posted online March 2024 by DECA Inc.
 
 ===== PAGE 2 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 1
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 1
 [ 50] 1. A true statement about difficult customers is that they are
 [ 61] A. usually female.
 [ 61] B. easy to spot.
@@ -63,7 +63,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 3 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 2
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 2
 [ 50] 8. A strong professional relationship is usually a(n) __________ relationship.
 [ 61] A. easily maintained
 [ 61] B. reciprocal
@@ -105,7 +105,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 4 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 3
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 3
 [ 44] 15. What do managers need to do to help employees understand their specific responsibilities in achieving the
 [ 61] organization's goals?
 [ 61] A. Create work subcultures
@@ -148,7 +148,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 5 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 4
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 4
 [ 44] 22. Which of the following are examples of deposit-taking financial institutions:
 [ 61] A. Commercial banks, corporations, and mutual savings banks
 [ 61] B. Credit unions, savings and loan associations, and commercial banks
@@ -191,7 +191,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 6 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 5
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 5
 [ 44] 29. Cocoa beans and corn are examples of investments that people make in which of the following financial
 [ 61] markets:
 [ 61] A. Soft commodities
@@ -231,7 +231,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 7 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 6
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 6
 [ 44] 35. Reece Fashion is considering whether to continue producing one of its handbags. One manager argues that the
 [ 61] material that the company purchased to make the handbags was extremely expensive, so production should be
 [ 61] halted. However, another manager points out that the cost of this material should not be considered in the
@@ -276,7 +276,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 8 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 7
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 7
 [ 44] 42. To reduce the risk of loss due to fire or power outages, a financial business should protect its computer data by
 [ 61] A. monitoring data-transmission rates.
 [ 61] B. using encryption techniques.
@@ -320,7 +320,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 9 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 8
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 8
 [ 44] 49. Which of the following are factors that affect a business's decision to offer credit to a customer:
 [ 61] A. Credit rating, objectives, and income
 [ 61] B. Debt ratio, credit rating, and education
@@ -362,7 +362,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 10 (612x792) =====
-[ 42] Test 1286 FINANCE CLUSTER EXAM 9
+[ 42] Test 1286  ||  [248] FINANCE CLUSTER EXAM  ||  [546] 9
 [ 44] 56. What is a possible reason for not allocating costs?
 [ 61] A. A cost is fixed rather than variable.
 [ 61] B. The budget has already been exceeded.
@@ -407,7 +407,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 11 (612x792) =====
-[ 39] Test 1286 FINANCE CLUSTER EXAM 10
+[ 39] Test 1286  ||  [245] FINANCE CLUSTER EXAM  ||  [543] 10
 [ 44] 63. Financial globalization helps investors reduce their exposure to
 [ 61] A. regulatory liberalization.
 [ 61] B. business cycle risks.
@@ -453,7 +453,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 12 (612x792) =====
-[ 39] Test 1286 FINANCE CLUSTER EXAM 11
+[ 39] Test 1286  ||  [245] FINANCE CLUSTER EXAM  ||  [543] 11
 [ 44] 70. Which type of financial analysis is best for comparing a single company's historical financial information to
 [ 61] determine trends?
 [ 61] A. Liquidity analysis
@@ -499,7 +499,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 13 (612x792) =====
-[ 39] Test 1286 FINANCE CLUSTER EXAM 12
+[ 39] Test 1286  ||  [245] FINANCE CLUSTER EXAM  ||  [543] 12
 [ 44] 77. What is an advantage of using technology in compliance?
 [ 61] A. Increased efficiency
 [ 61] B. Ease of transitions
@@ -542,7 +542,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 14 (612x792) =====
-[ 39] Test 1286 FINANCE CLUSTER EXAM 13
+[ 39] Test 1286  ||  [245] FINANCE CLUSTER EXAM  ||  [543] 13
 [ 44] 84. The primary purpose of placing headings and subheadings in a long business report is to
 [ 61] A. organize content in a cohesive, manageable way.
 [ 61] B. attract attention to the writer's hidden agenda.
@@ -586,7 +586,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 15 (612x792) =====
-[ 39] Test 1286 FINANCE CLUSTER EXAM 14
+[ 39] Test 1286  ||  [245] FINANCE CLUSTER EXAM  ||  [543] 14
 [ 44] 91. Accounting software applications facilitate a business's ability to efficiently track income and expenses, manage
 [ 61] inventory, and
 [ 61] A. plan work projects.
@@ -630,7 +630,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 16 (612x792) =====
-[ 39] Test 1286 FINANCE CLUSTER EXAM 15
+[ 39] Test 1286  ||  [245] FINANCE CLUSTER EXAM  ||  [543] 15
 [ 44] 98. The accounting staff at the Sun Valley Granola Company recently completed their annual review of the
 [ 61] company's budget. The team noticed that the company spent more money on advertising and promotion in the
 [ 61] last year than on quality control. One staff member remarked that the company had been receiving an increase
@@ -682,7 +682,7 @@
 [ 72] policy up to and including disqualification of competitors and chapters from further participation.
 
 ===== PAGE 18 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 1
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 1
 [ 49] 1. C
 [ 61] Of all ages. Difficult customers come in all shapes and sizes. They are of all ages, all economic levels, and may
 [ 61] be either male or female. They are difficult to distinguish from other customers except that they have problems
@@ -731,7 +731,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 19 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 2
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 2
 [ 49] 6. C
 [ 61] Your role in your community. Your personal vision should address the impact you hope to have in your
 [ 61] community through the various roles that you will have in your life—employee, citizen, mother, father, sister,
@@ -779,7 +779,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 20 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 3
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 3
 [ 44] 11. A
 [ 61] Firewall software. Firewalls are computer programs that secure and protect computer networks from
 [ 61] unauthorized users. Spyware is a type of software that gathers information about a user's computer activity
@@ -821,7 +821,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 21 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 4
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 4
 [ 44] 15. D
 [ 61] Communicate priorities. Employees carry out the work to achieve the organization's goals. To carry out the
 [ 61] work, managers must communicate their work priorities to employees. When employees know and understand
@@ -865,7 +865,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 22 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 5
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 5
 [ 44] 19. B
 [ 61] The client's order will be delayed. Because there are no materials to ship the order, the client's order will not be
 [ 61] able to be shipped in time. Productivity will decrease, and inventory will increase. Orders will not be affected,
@@ -913,7 +913,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 23 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 6
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 6
 [ 44] 24. A
 [ 61] Tracking. Most personal and business budgeting applications allow users to connect their budgeting software
 [ 61] directly to their bank accounts (e.g., checking and savings) and loans. Rather than manually entering every
@@ -956,7 +956,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 24 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 7
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 7
 [ 44] 29. A
 [ 61] Soft commodities. A financial market is an organized effort or exchange that facilitates the buying and selling of
 [ 61] financial assets. There are many types of financial markets, including the commodities market. Commodities
@@ -1004,7 +1004,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 25 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 8
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 8
 [ 44] 33. B
 [ 61] The planned email marketing campaigns were not completed. If money was not spent on email marketing, it is
 [ 61] possible that the campaigns planned in the budget were never carried out, which would not demonstrate
@@ -1055,7 +1055,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 26 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 9
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [548] 9
 [ 44] 38. B
 [ 61] Nonthreatening. Constructive criticism should always be given in a nonthreatening way. People don't usually
 [ 61] respond well to criticism when they're afraid. Criticism should never be given in public, as doing so could
@@ -1106,7 +1106,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 27 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 10
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 10
 [ 44] 43. B
 [ 61] Pinpoint exactly what you want to know. To create a successful multi-table query, the first step is figuring out
 [ 61] exactly what question you want the database to answer. If you aren't exactly sure what you want to know, the
@@ -1150,7 +1150,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 28 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 11
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 11
 [ 44] 47. D
 [ 61] Mitigate risk and avoid problems. Corporate governance is intended to help a company mitigate risk and avoid
 [ 61] problems. It's meant to increase accountability. A marketing department would be in charge of promoting the
@@ -1193,7 +1193,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 29 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 12
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 12
 [ 44] 51. A
 [ 61] Actively participating in a local professional association for the finance industry. Active participation in a
 [ 61] professional organization specific to the finance industry affords finance professionals the opportunity to serve
@@ -1240,7 +1240,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 30 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 13
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 13
 [ 44] 56. C
 [ 61] A cost is not controlled by any department. If no departments in an organization can control a cost, it is
 [ 61] acceptable to refrain from allocating it to any specific department. Whether a cost is fixed or variable does not
@@ -1285,7 +1285,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 31 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 14
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 14
 [ 44] 60. B
 [ 61] Income statement. To find out how much profit the business made in the last six months, Terry should reference
 [ 61] an income statement. An income statement (also known as a profit-and-loss statement) is a summary of a
@@ -1331,7 +1331,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 32 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 15
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 15
 [ 44] 64. B
 [ 61] Is independent of factors that are already satisfied. In developed societies where most people already have
 [ 61] access to basic necessities like food and shelter, extrinsic motivation isn't as effective as intrinsic motivation.
@@ -1380,7 +1380,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 33 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 16
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 16
 [ 44] 69. A
 [ 61] Financial information can assist in sustainability reporting. One way that financial information can be used is to
 [ 61] support sustainability reporting. Sustainability is the practice of focusing on meeting the needs of the present
@@ -1427,7 +1427,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 34 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 17
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 17
 [ 44] 73. C
 [ 61] Corporate governance processes. Internal corporate governance processes, or control mechanisms, include
 [ 61] oversight of management, independent internal audits, and the segregation of duties. Internal control
@@ -1480,7 +1480,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 35 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 18
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 18
 [ 44] 77. A
 [ 61] Increased efficiency. Technology can help make the compliance process more efficient because it allows
 [ 61] information to be utilized and processed much faster. It does not necessarily decrease costs. Transitioning from
@@ -1526,7 +1526,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 36 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 19
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 19
 [ 44] 82. C
 [ 61] Puts the group on a certain course. Though each person in the group has the ability to influence the others,
 [ 61] there's usually a leader who puts the group on a certain course. The leader does not necessarily take the
@@ -1577,7 +1577,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 37 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 20
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 20
 [ 44] 87. A
 [ 61] Consider risks in a positive way. Enterprise risk management focuses on both the downside and the upside of
 [ 61] risks. Businesses must take risks to be successful, so utilizing an effective enterprise risk management program
@@ -1629,7 +1629,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 38 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 21
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 21
 [ 44] 91. B
 [ 61] Process payroll. Accounting software programs allow businesses to efficiently track various financial data and
 [ 61] generate financial reports. Businesses use accounting software to track budgets, income, expenses, and bank
@@ -1675,7 +1675,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 39 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 22
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 22
 [ 44] 95. B
 [ 61] Being insulting or rude. Businesspeople need to be aware of cultural differences in order to avoid accidentally
 [ 61] insulting or being rude to businesspeople from other parts of the world. For example, some forms of nonverbal
@@ -1725,7 +1725,7 @@
 [141] Copyright © 2024 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 40 (612x792) =====
-[ 40] Test 1286 FINANCE CLUSTER EXAM—KEY 23
+[ 40] Test 1286  ||  [219] FINANCE CLUSTER EXAM—KEY  ||  [542] 23
 [ 38] 100. A
 [ 61] To protect online transactions. Tokenization is the process of substituting a random number in place of an
 [ 61] account number to process the transaction online. In this way, financial institutions are able to protect customer

@@ -18,7 +18,7 @@
 [ 54] Posted online March 2017 by DECA Inc.
 
 ===== PAGE 2 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 1
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 1
 [ 67] 1. A business might conduct a compliance audit to
 [ 99] A. manipulate financial data to indicate profitability.
 [ 99] B. ensure that it is following government regulations.
@@ -66,7 +66,7 @@
 [145] Copyright © 2017 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 3 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 2
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 2
 [ 67] 9. Chris asks his coworker, Ali, for help on his project. She agrees to help him, but she is frowning, crossing
 [ 81] her arms, and avoiding eye contact. Ali most likely
 [ 99] A. is not transmitting any message through her body language.
@@ -115,7 +115,7 @@
 [ 99] D. salesperson.
 
 ===== PAGE 4 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 3
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 3
 [ 61] 17. One way a company can reinforce its image is by
 [ 99] A. developing a financial plan.
 [ 99] B. training its employees.
@@ -167,7 +167,7 @@
 [ 99] D. trade surplus.
 
 ===== PAGE 5 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 4
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 4
 [ 61] 26. A country is experiencing civil unrest. What is likely to happen to the value of its currency?
 [ 99] A. It will not be affected.
 [ 99] B. It will increase.
@@ -215,7 +215,7 @@
 [ 99] D. A manager tells her staff that she will be on maternity leave from April through June.
 
 ===== PAGE 6 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 5
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 5
 [ 61] 34. Randall is working extra hours this week at his after-school job, and now he's not sure if he'll have
 [ 81] enough time to study for his finals. He's starting to feel a lot of pressure and tension, also known as
 [ 99] A. job satisfaction.
@@ -262,7 +262,7 @@
 [ 99] D. How much your investment grows each year
 
 ===== PAGE 7 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 6
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 6
 [ 61] 42. When Armand is comparing his checkbook balance with his bank statement, he must make sure that he
 [ 81] has subtracted the __________ from his checkbook.
 [ 99] A. payroll deposits
@@ -309,7 +309,7 @@
 [ 99] D. estimated dividends.
 
 ===== PAGE 8 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 7
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 7
 [ 61] 50. Accountants are legally required to follow established guidelines when preparing financial documents to
 [ 81] ensure that the information presented is
 [ 99] A. transparent and subjective.
@@ -362,7 +362,7 @@
 [117] analysis is conducted by a departmental manager.
 
 ===== PAGE 9 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 8
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 8
 [ 61] 58. Gathering and communicating financial information that businesses can use to plan the business's
 [ 81] operations is the focus of __________ accounting.
 [ 99] A. accrual
@@ -411,7 +411,7 @@
 [ 99] D. Debt ratio, education, and objectives
 
 ===== PAGE 10 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM 9
+[ 63] Test 1143  ||  [254] FINANCE CLUSTER EXAM  ||  [533] 9
 [ 61] 66. Noreen, a human resources manager, wants to find applicants for several job openings at her company.
 [ 81] She attends job fairs, places ads online, and partners with an outside employment agency. This aspect of
 [ 81] staffing is known as
@@ -461,7 +461,7 @@
 [ 99] D. Templates
 
 ===== PAGE 11 (612x792) =====
-[ 60] Test 1143 FINANCE CLUSTER EXAM 10
+[ 60] Test 1143  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 10
 [ 61] 73. When developing a web page, it is best to
 [ 99] A. use short blocks of text.
 [ 99] B. incorporate a variety of fonts.
@@ -491,11 +491,11 @@
 [ 99] D. Jane leaves with the bank deposit at the same time each day.
 [ 61] 78. Using the information in the following project plan schedule, calculate the number of hours a business is
 [ 81] allocating to complete Tasks 2 and 4 during the third week:
-[104] Task Week 1 Week 2 Week 3 Week 4 Week 5
-[115] 1 10 hrs. 15 hrs. 15 hrs. 25 hrs. 20 hrs.
-[115] 2 15 hrs. 30 hrs. 10 hrs. 10 hrs. 15 hrs.
-[115] 3 25 hrs. 10 hrs. 35 hrs. 20 hrs. 10 hrs.
-[115] 4 30 hrs. 25 hrs. 20 hrs. 25 hrs. 35 hrs.
+[104] Task  ||  [162] Week 1  ||  [234] Week 2  ||  [306] Week 3  ||  [378] Week 4  ||  [450] Week 5
+[115] 1  ||  [162] 10 hrs.  ||  [234] 15 hrs.  ||  [306] 15 hrs.  ||  [378] 25 hrs.  ||  [450] 20 hrs.
+[115] 2  ||  [162] 15 hrs.  ||  [234] 30 hrs.  ||  [306] 10 hrs.  ||  [378] 10 hrs.  ||  [450] 15 hrs.
+[115] 3  ||  [162] 25 hrs.  ||  [234] 10 hrs.  ||  [306] 35 hrs.  ||  [378] 20 hrs.  ||  [450] 10 hrs.
+[115] 4  ||  [162] 30 hrs.  ||  [234] 25 hrs.  ||  [306] 20 hrs.  ||  [378] 25 hrs.  ||  [450] 35 hrs.
 [ 99] A. 25
 [ 99] B. 30
 [ 99] C. 35
@@ -513,7 +513,7 @@
 [ 99] D. statistics and a checklist.
 
 ===== PAGE 12 (612x792) =====
-[ 60] Test 1143 FINANCE CLUSTER EXAM 11
+[ 60] Test 1143  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 11
 [ 61] 81. Employees who are involved in production scheduling are responsible for
 [ 99] A. establishing the path inputs take through production.
 [ 99] B. issuing orders for production activities to begin.
@@ -561,7 +561,7 @@
 [ 99] D. Dealing with cash management, short-term investments, and mortgages
 
 ===== PAGE 13 (612x792) =====
-[ 60] Test 1143 FINANCE CLUSTER EXAM 12
+[ 60] Test 1143  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 12
 [ 61] 89. Who typically reviews and approves the guidelines for running a corporation, which are also known as
 [ 81] corporate governance policies?
 [ 99] A. The management team
@@ -606,7 +606,7 @@
 [ 99] D. environmental hazards.
 
 ===== PAGE 14 (612x792) =====
-[ 60] Test 1143 FINANCE CLUSTER EXAM 13
+[ 60] Test 1143  ||  [252] FINANCE CLUSTER EXAM  ||  [531] 13
 [ 61] 97. CopyIt Printing Company employs several delivery drivers. Last year, the local police cited two of the
 [ 81] company's new drivers for causing accidents that resulted in passenger injuries and vehicular damage.
 [ 81] The printing company later discovered that the drivers were cited for numerous traffic violations while
@@ -642,7 +642,7 @@
 [ 99] D. Directing
 
 ===== PAGE 15 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 14
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 14
 [ 67] 1. B
 [ 81] Ensure that it is following government regulations. Government regulations affect the way that
 [ 81] businesses record and report financial data. To ensure that the business is following all of the
@@ -698,7 +698,7 @@
 [135] responsiblity.asp?ad=dirN&qo=investopediaSiteSearch&qsrc=0&o=40186
 
 ===== PAGE 16 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 15
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 15
 [ 67] 6. A
 [ 81] Charitable donation. Gifts are money, financial products, or property given to an individual or
 [ 81] organization. Some gifts, such as charitable donations, are tax deductible. This means that the donor
@@ -753,7 +753,7 @@
 [135] communicate-and-give-directions.html
 
 ===== PAGE 17 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 16
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 16
 [ 61] 11. C
 [ 81] Ask questions to clarify other participants' comments. Asking clarifying questions assists the entire group
 [ 81] in learning about the topic. No one in the group knows everything about the topic. Talking together
@@ -803,7 +803,7 @@
 [ 81] SOURCE: CR LAP 4—Set Your Mind to It (Customer-Service Mindset)
 
 ===== PAGE 18 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 17
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 17
 [ 61] 16. D
 [ 81] Salesperson. The salesperson is the point of contact for customers in most situations. If the problem
 [ 81] originated on the sales floor, the salesperson would be the person most likely to be approached by the
@@ -853,7 +853,7 @@
 [135] www.nedarc.org/tutorials/analyzingData/cleanTheData/purposeDataCleaning.html
 
 ===== PAGE 19 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 18
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 18
 [ 61] 20. B
 [ 81] Shopping. Shopping goods are consumer products that are purchased by consumers after comparing
 [ 81] products and stores to get the best quality, price, and/or service. Capital goods are manufactured or
@@ -901,7 +901,7 @@
 [ 81] SOURCE: EC LAP 4—Beyond US (Global Trade)
 
 ===== PAGE 20 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 19
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 19
 [ 61] 26. D
 [ 81] It will decrease. A country's economic and political stability can affect the value of its currency. If a
 [ 81] country is experiencing civil unrest, its political environment is volatile. Because foreign business partners
@@ -955,7 +955,7 @@
 [ 81] SOURCE: EI LAP 4—Work Right (Demonstrating Ethical Work Habits)
 
 ===== PAGE 21 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 20
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 20
 [ 61] 31. A
 [ 81] Resentment. Sara is experiencing resentment, or a feeling of bitterness that other people have treated
 [ 81] her unfairly. People often become resentful when they fail to take responsibility for their decisions and
@@ -1011,7 +1011,7 @@
 [ 81] SOURCE: EI LAP 19—It's a Group Thing (Consensus Building)
 
 ===== PAGE 22 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 21
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 21
 [ 61] 37. A
 [ 81] Internet-based companies can easily become involved in international trade. A company that has a
 [ 81] website can easily be found by people in foreign countries, and online services like eBay make
@@ -1063,7 +1063,7 @@
 [135] http://www.investopedia.com/terms/c/cagr.asp
 
 ===== PAGE 23 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 22
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 22
 [ 61] 42. C
 [ 81] Transaction fees. Reconciling bank statements involves comparing the entries in a checkbook with the
 [ 81] entries listed on the bank statement. It is important to make these comparisons to determine
@@ -1113,7 +1113,7 @@
 [135] financial-services.html
 
 ===== PAGE 24 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 23
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 23
 [ 61] 46. C
 [ 81] Increase. During an economic expansion, production, employment, income, sales, the demand for
 [ 81] money, and interest rates rapidly increase. As a result, businesses borrow more money (at higher rates)
@@ -1169,7 +1169,7 @@
 [135] http://www.allbusinessschools.com/accounting/job-description/
 
 ===== PAGE 25 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 24
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 24
 [ 61] 51. C
 [ 81] Owners. Stockholders, who have part ownership of a business, use the income statement to monitor the
 [ 81] business's profit levels. Stockholders have money invested in the business and monitor how much profit
@@ -1213,7 +1213,7 @@
 [135] Retrieved September 14, 2016, from https://blog.udemy.com/incremental-analysis/
 
 ===== PAGE 26 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 25
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 25
 [ 61] 55. A
 [ 81] Conducting a cost analysis and explaining the findings to management. Managerial accountants conduct
 [ 81] many types of financial analyses. A cost analysis involves measuring direct expenses such as materials
@@ -1267,7 +1267,7 @@
 [135] http://www.investopedia.com/terms/m/managerialaccounting.asp
 
 ===== PAGE 27 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 26
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 26
 [ 61] 59. B
 [ 81] $282.23. Interest is the amount of money the investment issuer pays an investor for using the investor's
 [ 81] money. Depending on the type of investment (e.g., savings account), interest is compounded at certain
@@ -1320,7 +1320,7 @@
 [135] September 14, 2016, from http://www.oracle.com/us/products/middleware/bus-int/064080.pdf
 
 ===== PAGE 28 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 27
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 27
 [ 61] 63. C
 [ 81] Financial outcomes. Computer spreadsheet software has the ability to calculate formulas and organize
 [ 81] numerical data. When a business inputs different values or sets of numerical data in a spreadsheet, the
@@ -1373,7 +1373,7 @@
 [ 81] SOURCE: HR LAP 35—People Pusher (Nature of Human Resources Management)
 
 ===== PAGE 29 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 28
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 28
 [ 61] 67. D
 [ 81] Getting a job at a publishing company. Getting a job at a publishing company would be considered a
 [ 81] long-term goal. Goals are statements that clearly describe tasks to be accomplished. Some goals are
@@ -1429,7 +1429,7 @@
 [135] Columbus, OH: Glencoe/McGraw-Hill.
 
 ===== PAGE 30 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 29
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 29
 [ 61] 72. D
 [ 81] Templates. The template feature of presentation software allows the user to enter information into a set
 [ 81] of standardized slides that all have a similar look. The wizard uses already-prepared slide shows to
@@ -1485,7 +1485,7 @@
 [135] it-employees-first-why-managers-should-encourage-whistleblowers
 
 ===== PAGE 31 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 30
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 30
 [ 61] 77. B
 [ 81] Tom checks the amount and date on all personal checks. To reduce the risk of identity theft, the cashier
 [ 81] should make sure that customers' checks are filled out correctly and include the proper amounts and
@@ -1537,7 +1537,7 @@
 [ 81] SOURCE: OP LAP 17—Can You Make It? (Nature of Production)
 
 ===== PAGE 32 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 31
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 31
 [ 61] 82. D
 [ 81] It must be measured in some way to be effective. To truly monitor your quality control progress, it's
 [ 81] important to have some sort of measurement system in place. The type of measurement you use
@@ -1589,7 +1589,7 @@
 [135] 2016, from http://www.forbes.com/sites/lizryan/2014/07/07/1132/#7402f920740a
 
 ===== PAGE 33 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 32
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 32
 [ 61] 87. B
 [ 81] Networking. Networking is an effort to connect with individuals who might help an individual to
 [ 81] accomplish personal career and professional goals. Because Jan acted on a tip from a friend, she was
@@ -1643,7 +1643,7 @@
 [135] http://www.investopedia.com/terms/c/corporategovernance.asp
 
 ===== PAGE 34 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 33
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 33
 [ 61] 92. A
 [ 81] More ethical. Governance objectives are often based on integrity and ethical principles. Therefore, if a
 [ 81] company has strong governance practices, it is likely to be ethical in its investment decisions. Good
@@ -1700,7 +1700,7 @@
 [135] (7th ed.) [pp. 262-265]. New York: McGraw-Hill.
 
 ===== PAGE 35 (612x792) =====
-[ 63] Test 1143 FINANCE CLUSTER EXAM—KEY 34
+[ 63] Test 1143  ||  [235] FINANCE CLUSTER EXAM—KEY  ||  [528] 34
 [ 61] 97. B
 [ 81] Conduct background checks on job applicants. Because hiring and training employees is an expense for
 [ 81] businesses, they should ensure that the applicants' previous work experiences do not present business

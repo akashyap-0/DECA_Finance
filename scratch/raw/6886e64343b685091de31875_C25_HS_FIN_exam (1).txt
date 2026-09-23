@@ -725,7 +725,7 @@
 [ 72] and including disqualification of competitors and chapters from further participation.
 
 ===== PAGE 19 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 1
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 1
 [ 49] 1. B
 [ 61] Has a sense of humor. You don’t have to be a stand-up comedian, but a sense of humor can help you adapt to
 [ 61] life’s hurdles without breaking a sweat. Adaptable people like Kara are able to keep things in perspective and
@@ -768,7 +768,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 20 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 2
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 2
 [ 49] 5. D
 [ 61] Secondary. In investing, the secondary market is a place where investors can buy and sell securities that have
 [ 61] been issued by a corporation. The secondary market is the stock market and includes the New York Stock
@@ -818,7 +818,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 21 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 3
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 3
 [ 44] 10. B
 [ 61] Ready and willing to act. Initiative is the willingness to act without having to be told to do so. People who
 [ 61] demonstrate initiative are willing to accept and seek out additional or even unpleasant duties. Initiative does not
@@ -863,7 +863,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 22 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 4
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 4
 [ 44] 14. C
 [ 61] Duplication. Duplication involves creating a backup plan, often by using technology. A company that has a
 [ 61] readily available backup server has utilized duplication. Avoidance is a risk control method that involves
@@ -910,7 +910,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 23 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 5
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 5
 [ 44] 18. C
 [ 61] Stock mutual funds. Investors who are not afraid of risk often put their money into ownership investments—
 [ 61] investments that provide owners’ rights in return. Stock mutual funds are a combination of stocks from different
@@ -955,7 +955,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 24 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 6
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 6
 [ 44] 22. D
 [ 61] Avoidance. By purchasing ingredients from suppliers with high quality standards, Camilla’s Cookies is avoiding
 [ 61] the risk of gluten contamination altogether. Risk improvement is not a recognized term in enterprise risk
@@ -1004,7 +1004,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 25 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 7
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 7
 [ 44] 26. C
 [ 61] HTML; CSS. Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS) serve as the foundation
 [ 61] of web pages. HTML provides the structure or skeleton, while CSS provides the visual appearance or skin of
@@ -1050,7 +1050,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 26 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 8
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 8
 [ 44] 30. C
 [ 61] Larger companies often have more complex governance structures. Large companies generally require more
 [ 61] complex governance structures due to their size, operational capacity, and need to manage a diverse range of
@@ -1098,7 +1098,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 27 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 9
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [548] 9
 [ 44] 34. B
 [ 61] It has a definite beginning and end. A project is a short-term undertaking that creates a unique good or service.
 [ 61] Taking on a project is not the same as running a business’s day-to-day operations. A project has a definite
@@ -1140,7 +1140,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 28 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 10
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 10
 [ 44] 38. A
 [ 61] Identify tasks. Project management is the process of planning, scheduling, and monitoring the progress of a
 [ 61] project to achieve a specific goal. One component of project management is managing all the things, or
@@ -1189,7 +1189,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 29 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 11
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 11
 [ 44] 42. B
 [ 61] 10-Q. A 10-Q report, also called a quarterly report, provides content about a company's fiscal quarter. A 10-K
 [ 61] report, also known as an annual report, gives an overview of a company's fiscal year and includes financial
@@ -1233,7 +1233,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 30 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 12
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 12
 [ 44] 46. A
 [ 61] Mining. Data mining is the process of searching, collecting, and analyzing large amounts of data to extract
 [ 61] actionable information. In this scenario, the company collects and analyzes customer data to extract actionable
@@ -1280,7 +1280,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 31 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 13
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 13
 [ 44] 50. B
 [ 61] Vertical. Vertical analyses are used in comparing companies within the same industry, even companies of
 [ 61] vastly different sizes. Horizontal analyses compare the information from a single company's income statements
@@ -1328,7 +1328,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 32 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 14
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 14
 [ 44] 54. B
 [ 61] It slows down the decision-making process. While the requirement ensures that decisions are aligned with the
 [ 61] corporation’s objectives and standards, having to go through the board of directors before making a financial
@@ -1374,7 +1374,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 33 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 15
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 15
 [ 44] 58. A
 [ 61] Cash flow. Cash flow budgets are a means of projecting how and when cash will flow in and out of a company
 [ 61] over a specific period of time. Companies use cash flow budgets to determine whether they are managing their
@@ -1419,7 +1419,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 34 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 16
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 16
 [ 44] 62. D
 [ 61] Economic activity decreases for six months. A business cycle refers to periods of expansion and contraction in
 [ 61] economic activities. The four parts of a business cycle are contraction, trough, expansion, and peak. A
@@ -1468,7 +1468,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 35 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 17
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 17
 [ 44] 66. A
 [ 61] To reassure stakeholders about the company’s commitment to ethical practices. The board of directors issued a
 [ 61] public statement condemning the CEO’s actions as unethical to reassure stakeholders about the company’s
@@ -1521,7 +1521,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 36 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 18
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 18
 [ 44] 70. A
 [ 61] Inflation targeting. Most governments strive to keep their country’s inflation rate (annual percentage change in
 [ 61] inflation) somewhere above 0% and below 3%. When a government decides to pursue a specific inflation rate,
@@ -1569,7 +1569,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 37 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 19
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 19
 [ 44] 75. C
 [ 61] Competition. During environmental scanning, businesses gather information about their surroundings, analyze
 [ 61] that information, and determine the future impact of that information. Six main categories of information are
@@ -1616,7 +1616,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 38 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 20
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 20
 [ 44] 79. D
 [ 61] Participate in discussions and actively listen. Building professional relationships requires meaningful
 [ 61] engagement and active listening. By doing this, Kevin can establish trust and demonstrate a genuine interest in
@@ -1660,7 +1660,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 39 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 21
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 21
 [ 44] 83. C
 [ 61] $4,449.98. Present value (PV) is the current value of a future sum of money. The PV of the $5,000 payment in
 [ 61] this scenario is $4,449.98. The formula for calculating present value is: PV = Future Value / (1 + rate of return) ^
@@ -1708,7 +1708,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 40 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 22
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 22
 [ 44] 87. A
 [ 61] Rent and payroll. Indirect costs are costs that are not directly related to a specific cost object such as a function,
 [ 61] product, or department. These costs are needed for the sake of a company's operations. Examples of indirect
@@ -1757,7 +1757,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 41 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 23
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 23
 [ 44] 91. B
 [ 61] To ensure it is following regulations. Compliance refers to fulfilling the requirements of the law. Because
 [ 61] government regulations affect the way that businesses record and report financial data, businesses should
@@ -1801,7 +1801,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 42 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 24
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 24
 [ 44] 95. A
 [ 61] Inaccurate reporting. When companies demonstrate poor financial information management and fail to maintain
 [ 61] and update their financial information, they are typically left with inaccurate data. Companies look at several
@@ -1847,7 +1847,7 @@
 [141] Copyright © 2025 by MBA Research and Curriculum Center , Columbus, Ohio
 
 ===== PAGE 43 (612x792) =====
-[ 40] 2025 HS ICDC FINANCE CLUSTER EXAM—KEY 25
+[ 40] 2025 HS ICDC  ||  [238] FINANCE CLUSTER EXAM—KEY  ||  [543] 25
 [ 44] 99. C
 [ 61] Resolution. The five key functions of a compliance department are identification, prevention, monitoring and
 [ 61] detection, resolution, and advisory. The resolution function resolves compliance difficulties as they occur. The
