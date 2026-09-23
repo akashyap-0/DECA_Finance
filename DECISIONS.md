@@ -60,3 +60,8 @@ Judgment calls made while building without the owner available.
     accuracy and attempt count, so colour is never the only signal.
 24. **Weakest PIs** need at least 2 attempts and at least one miss, and are ranked by smoothed accuracy.
     One unlucky answer doesn't top the list.
+25. **Reset needs typing RESET**, and it keeps settings. Import asks for confirmation because it replaces
+    all progress, and it validates the file first: bad files are rejected with a message and nothing is changed.
+26. **Mocks can be abandoned** (from the Submit panel). Nothing is saved from an abandoned mock.
+27. **`npm run smoke`** is an end-to-end check using Playwright. It is a dev dependency only and is not
+    part of `npm test`, so the unit tests stay fast and need no browser.

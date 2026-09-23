@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "extract-raw": "tsx scripts/extract-raw.ts",
     "parse": "tsx scripts/parse-exams.ts",
-    "test": "vitest run"
+    "test": "vitest run",
+    "smoke": "tsx scripts/smoke.ts"
   },
   "dependencies": {
     "react": "^19.2.8",

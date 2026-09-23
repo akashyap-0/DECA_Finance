@@ -284,10 +284,19 @@ function Runner({ mock }: { mock: ActiveMock }) {
               : 'All questions answered.'}
             {flagged > 0 && ` ${flagged} flagged.`}
           </p>
-          <div className="mt-3 flex gap-2">
+          <div className="mt-3 flex flex-wrap gap-2">
             <Button onClick={submit}>Submit now</Button>
             <Button variant="secondary" onClick={() => setConfirming(false)}>
               Keep working
+            </Button>
+            <Button
+              variant="ghost"
+              className="sm:ml-auto"
+              onClick={() => {
+                if (window.confirm('Abandon this mock exam? Nothing from it will be saved.')) store.setActiveMock(null);
+              }}
+            >
+              Abandon exam
             </Button>
           </div>
         </Card>
