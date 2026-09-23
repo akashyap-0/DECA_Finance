@@ -3,7 +3,9 @@ import { exams, areas, examLabel, visibleQuestions } from '../data/bank';
 import { Feedback, QuestionView } from '../components/QuestionView';
 import { Button, Card, Toggle, cx } from '../components/ui';
 import { activeFilterCount, filterPool, NO_FILTERS, pickRandom, type PracticeFilters } from '../lib/practice';
-import { questionStats } from '../lib/stats';
+import { answeredToday, questionStats, streakDays } from '../lib/stats';
+import { dueReviews, pickSmart, reviewQueueSize, type SmartPick } from '../lib/smart';
+import { ProgressBar } from '../components/ui';
 import { store, useAppState } from '../lib/storage';
 import type { Letter, Question } from '../lib/types';
 import { keyToLetter, useKeys } from '../lib/useKeys';
@@ -20,8 +22,13 @@ function filtersFromParams(params: URLSearchParams): PracticeFilters {
   };
 }
 
+type Mode = 'smart' | 'custom';
+
 export function PracticePage({ params }: { params: URLSearchParams }) {
   const state = useAppState();
+  const [mode, setMode] = useState<Mode>(() =>
+    activeFilterCount(filtersFromParams(params)) > 0 || params.get('mode') === 'custom' ? 'custom' : 'smart',
+  );
   const [filters, setFilters] = useState<PracticeFilters>(() => filtersFromParams(params));
   const [showFilters, setShowFilters] = useState(() => activeFilterCount(filtersFromParams(params)) > 0);
   const questions = useMemo(() => visibleQuestions(state.settings.includeFlagged), [state.settings.includeFlagged]);
@@ -35,26 +42,38 @@ export function PracticePage({ params }: { params: URLSearchParams }) {
 
   const shown = useRef(new Set<string>());
   const [current, setCurrent] = useState<Question | null>(null);
+  const [why, setWhy] = useState<SmartPick | null>(null);
   const [selected, setSelected] = useState<Letter | null>(null);
   const shownAt = useRef(Date.now());
 
-  function next() {
-    // Re-filter with fresh stats so "missed"/"unseen" reflect the answer just given.
-    const fresh = filterPool(questions, filters, questionStats(store.get().attempts), store.get().bookmarks);
-    const q = pickRandom(
-      fresh.filter((x) => x.id !== current?.id),
-      shown.current,
-    ) ?? (fresh.length ? fresh[0] : null);
+  function next(m: Mode = mode) {
+    let q: Question | null;
+    if (m === 'smart') {
+      const pick = pickSmart(questions, store.get().attempts, { exclude: shown.current });
+      setWhy(pick);
+      q = pick?.question ?? null;
+    } else {
+      setWhy(null);
+      // Re-filter with fresh stats so "missed"/"unseen" reflect the answer just given.
+      const fresh = filterPool(questions, filters, questionStats(store.get().attempts), store.get().bookmarks);
+      q = pickRandom(
+        fresh.filter((x) => x.id !== current?.id),
+        shown.current,
+      ) ?? (fresh.length ? fresh[0] : null);
+    }
     if (q) shown.current.add(q.id);
     setCurrent(q);
     setSelected(null);
     shownAt.current = Date.now();
   }
 
-  // New pool -> new question if the current one no longer fits.
+  // New pool (custom mode) -> new question if the current one no longer fits.
   useEffect(() => {
-    if (!current || !pool.some((q) => q.id === current.id)) next();
+    if (mode === 'custom' && current && !pool.some((q) => q.id === current.id)) next('custom');
   }, [pool]); // eslint-disable-line react-hooks/exhaustive-deps
+  useEffect(() => {
+    next(mode);
+  }, [mode]); // eslint-disable-line react-hooks/exhaustive-deps
 
   function answer(l: Letter) {
     if (!current || selected) return;
@@ -65,7 +84,7 @@ export function PracticePage({ params }: { params: URLSearchParams }) {
       correct: l === current.correct,
       ts: Date.now(),
       ms: Date.now() - shownAt.current,
-      mode: 'practice',
+      mode: mode === 'smart' ? 'smart' : 'practice',
     });
   }
 
@@ -89,16 +108,41 @@ export function PracticePage({ params }: { params: URLSearchParams }) {
 
   return (
     <div className="space-y-4">
+      <DailyBar />
       <Card className="!p-3 sm:!p-4">
         <div className="flex flex-wrap items-center justify-between gap-2">
-          <div className="text-sm text-slate-600 dark:text-slate-400">
-            <span className="font-semibold text-slate-900 dark:text-slate-100">{pool.length}</span> questions match
+          <div className="inline-flex rounded-lg bg-slate-100 p-1 dark:bg-slate-800" role="tablist">
+            {(['smart', 'custom'] as const).map((m) => (
+              <button
+                key={m}
+                role="tab"
+                aria-selected={mode === m}
+                onClick={() => setMode(m)}
+                className={cx(
+                  'rounded-md px-3 py-1.5 text-sm font-semibold transition',
+                  mode === m
+                    ? 'bg-white text-slate-900 shadow-sm dark:bg-slate-950 dark:text-white'
+                    : 'text-slate-500 hover:text-slate-800 dark:hover:text-slate-200',
+                )}
+              >
+                {m === 'smart' ? 'Smart' : 'Custom'}
+              </button>
+            ))}
           </div>
-          <Button variant="secondary" onClick={() => setShowFilters((v) => !v)} aria-expanded={showFilters}>
-            Filters{nFilters ? ` (${nFilters})` : ''}
-          </Button>
+          {mode === 'custom' ? (
+            <div className="flex items-center gap-3">
+              <span className="text-sm text-slate-600 dark:text-slate-400">
+                <span className="font-semibold text-slate-900 dark:text-slate-100">{pool.length}</span> match
+              </span>
+              <Button variant="secondary" onClick={() => setShowFilters((v) => !v)} aria-expanded={showFilters}>
+                Filters{nFilters ? ` (${nFilters})` : ''}
+              </Button>
+            </div>
+          ) : (
+            <span className="text-xs text-slate-500 dark:text-slate-400">Reviews missed questions, then your weakest areas</span>
+          )}
         </div>
-        {showFilters && <FilterPanel filters={filters} setFilters={setFilters} />}
+        {mode === 'custom' && showFilters && <FilterPanel filters={filters} setFilters={setFilters} />}
       </Card>
 
       {!current ? (
@@ -125,7 +169,7 @@ export function PracticePage({ params }: { params: URLSearchParams }) {
                   <span>
                     {examLabel(current.exam)} #{current.number}
                   </span>
-                  {qs && (
+                  {qs && why?.reason !== 'new' && (
                     <>
                       <span>·</span>
                       <span>
@@ -133,10 +177,14 @@ export function PracticePage({ params }: { params: URLSearchParams }) {
                       </span>
                     </>
                   )}
-                  {!qs && (
-                    <span className="rounded bg-sky-100 px-1.5 font-semibold text-sky-700 dark:bg-sky-900/50 dark:text-sky-300">
-                      new
-                    </span>
+                  {why ? (
+                    <ReasonChip pick={why} />
+                  ) : (
+                    !qs && (
+                      <span className="rounded bg-sky-100 px-1.5 font-semibold text-sky-700 dark:bg-sky-900/50 dark:text-sky-300">
+                        new
+                      </span>
+                    )
                   )}
                 </div>
                 <BookmarkButton on={bookmarked} onClick={() => store.toggleBookmark(current.id)} />
@@ -150,7 +198,7 @@ export function PracticePage({ params }: { params: URLSearchParams }) {
                 <span className="hidden text-xs text-slate-500 sm:inline">
                   <kbd>Enter</kbd> next · <kbd>S</kbd> bookmark
                 </span>
-                <Button onClick={next} className="w-full sm:w-auto">
+                <Button onClick={() => next()} className="w-full sm:w-auto">
                   Next question →
                 </Button>
               </div>
@@ -164,6 +212,55 @@ export function PracticePage({ params }: { params: URLSearchParams }) {
         </Card>
       )}
     </div>
+  );
+}
+
+const REASON_STYLE: Record<SmartPick['reason'], string> = {
+  review: 'bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-300',
+  weak: 'bg-rose-100 text-rose-700 dark:bg-rose-900/40 dark:text-rose-300',
+  new: 'bg-sky-100 text-sky-700 dark:bg-sky-900/50 dark:text-sky-300',
+  refresh: 'bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-300',
+};
+
+function ReasonChip({ pick }: { pick: SmartPick }) {
+  return <span className={cx('rounded px-1.5 font-semibold', REASON_STYLE[pick.reason])}>{pick.detail}</span>;
+}
+
+/** Today's progress toward the daily goal, the streak, and reviews waiting. */
+export function DailyBar() {
+  const state = useAppState();
+  const goal = state.settings.dailyGoal;
+  const today = answeredToday(state.attempts);
+  const streak = streakDays(state.attempts, goal);
+  const questions = visibleQuestions(state.settings.includeFlagged);
+  const stats = questionStats(state.attempts);
+  const due = dueReviews(questions, stats, Date.now()).length;
+  const queue = reviewQueueSize(questions, stats);
+  return (
+    <Card className="!p-3 sm:!p-4">
+      <div className="flex flex-wrap items-center gap-x-6 gap-y-2">
+        <div className="min-w-40 flex-1">
+          <div className="mb-1 flex items-baseline justify-between text-sm">
+            <span className="font-semibold">Today</span>
+            <span className="tabular-nums text-slate-600 dark:text-slate-400">
+              {today} / {goal}
+              {today >= goal && <span className="ml-1 text-brand-600 dark:text-brand-400">✓ goal met</span>}
+            </span>
+          </div>
+          <ProgressBar value={today} max={goal} />
+        </div>
+        <div className="flex gap-5 text-sm">
+          <div title="Days in a row you met your daily goal">
+            <span className="text-lg font-bold tabular-nums">{streak}</span>{' '}
+            <span className="text-slate-500 dark:text-slate-400">day streak</span>
+          </div>
+          <div title={`${queue} missed questions are in the review cycle`}>
+            <span className="text-lg font-bold tabular-nums">{due}</span>{' '}
+            <span className="text-slate-500 dark:text-slate-400">reviews due</span>
+          </div>
+        </div>
+      </div>
+    </Card>
   );
 }
 

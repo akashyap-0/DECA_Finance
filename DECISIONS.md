@@ -39,3 +39,13 @@ Judgment calls made while building without the owner available.
     The build then works offline with no fetches. The bundle is about 2.6 MB (635 kB gzipped), which is fine locally.
 15. **Hash routing** (`#/practice`, `#/mock`, …) with no router dependency. This works from `vite preview`
     and any static server.
+16. **Spaced repetition:** a miss schedules a review 1 day later. Each correct review moves it to the next
+    interval (3 days, then 7). The third correct review graduates it. Another miss restarts at 1 day.
+    Missed questions are held back until due, so a miss does not come back in the same session.
+17. **Smart weighting:** weight = base × (1 + 3·weakArea + 3·weakPI)², where weak = 1 − smoothed accuracy
+    ((correct+1)/(attempts+2)). base is 1 for unseen questions and 0.15 for ones already answered correctly,
+    so unseen and weak-area questions dominate while occasional refreshers still appear.
+18. **Streak = consecutive days on which the daily goal was met.** Today counts once the goal is met.
+    If today's goal isn't met yet, the streak still shows the run up to yesterday.
+19. **Mock-exam answers count as attempts** in accuracy stats, the daily goal and spaced repetition,
+    because they are real answers.
