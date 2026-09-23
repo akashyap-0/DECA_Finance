@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { mkQ } from './testutil';
 import { buildContext, dueReviews, pickSmart, questionWeight } from './smart';
-import { DAY_MS, questionStats, srsState, streakDays } from './stats';
+import { DAY_MS, groupStats, questionStats, srsState, streakDays, weakestPis } from './stats';
 import type { Attempt } from './storage';
 
 const T0 = new Date('2026-09-01T12:00:00').getTime();
@@ -112,5 +112,18 @@ describe('streakDays', () => {
   it('breaks on a missed day', () => {
     const a = [...many(day(-3), 3), ...many(day(-1), 2), ...many(day(0), 3)];
     expect(streakDays(a, 3, day(0))).toBe(1);
+  });
+});
+
+describe('weakestPis', () => {
+  it('ranks PIs with 2+ attempts and at least one miss, lowest accuracy first', () => {
+    const qs = [mkQ('a', { piCode: 'FI:001' }), mkQ('b', { piCode: 'FI:002' }), mkQ('c', { piCode: 'FI:003' })];
+    const a = [
+      att('a', false, 1), att('a', false, 2), att('a', true, 3), // 1/3
+      att('b', true, 1), att('b', true, 2), // never missed -> excluded
+      att('c', false, 1), // only 1 attempt -> excluded
+    ];
+    const pis = groupStats(qs, a, (q) => q.piCode);
+    expect(weakestPis(pis).map((g) => g.key)).toEqual(['FI:001']);
   });
 });

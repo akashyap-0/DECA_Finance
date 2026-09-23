@@ -27,3 +27,21 @@ body {
 kbd {
   @apply rounded border border-slate-300 bg-white px-1.5 py-0.5 font-mono text-[0.7rem] text-slate-600 dark:border-slate-600 dark:bg-slate-800 dark:text-slate-300;
 }
+
+/* Chart tokens. Diverging heatmap: weak (red) <- neutral gray -> strong (blue). */
+:root {
+  --heat-weak: #e66767;
+  --heat-mid: #f0efec;
+  --heat-strong: #5598e7;
+  --series-1: #2a78d6;
+}
+.dark {
+  --heat-weak: #9e2f2f;
+  --heat-mid: #383835;
+  --heat-strong: #1c5cab;
+  --series-1: #5598e7;
+}
+/* No data yet: texture instead of a color, so "unattempted" never reads as a score. */
+.heat-empty {
+  background-image: repeating-linear-gradient(135deg, transparent 0 6px, rgb(148 163 184 / 0.18) 6px 7px);
+}

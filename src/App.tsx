@@ -3,12 +3,14 @@ import { Logo } from './components/Logo';
 import { cx } from './components/ui';
 import { PracticePage } from './pages/Practice';
 import { MockPage } from './pages/Mock';
+import { DashboardPage } from './pages/Dashboard';
 import { navigate, useRoute } from './lib/router';
 import { useAppState } from './lib/storage';
 
 const NAV = [
   { path: '/practice', label: 'Practice', icon: 'M4 6h16M4 12h10M4 18h7' },
   { path: '/mock', label: 'Mock exam', icon: 'M12 7v5l3 2M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0z' },
+  { path: '/dashboard', label: 'Dashboard', icon: 'M4 20V10M10 20V4M16 20v-7M22 20H2' },
 ];
 
 function useTheme() {
@@ -28,6 +30,9 @@ export default function App() {
   const route = useRoute();
   let page: React.ReactNode;
   switch (route.path) {
+    case '/dashboard':
+      page = <DashboardPage />;
+      break;
     case '/mock':
       page = <MockPage params={route.params} />;
       break;

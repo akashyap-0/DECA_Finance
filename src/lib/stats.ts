@@ -139,3 +139,11 @@ export function overall(attempts: Attempt[]) {
   const correct = attempts.filter((a) => a.correct).length;
   return { answered: attempts.length, correct, accuracy: attempts.length ? correct / attempts.length : null };
 }
+
+/** PIs with at least 2 attempts, lowest smoothed accuracy first. */
+export function weakestPis(piStats: Map<string, GroupStat>, n = 5): GroupStat[] {
+  return [...piStats.values()]
+    .filter((g) => g.attempts >= 2 && g.correct < g.attempts)
+    .sort((a, b) => smoothedAccuracy(a) - smoothedAccuracy(b) || b.attempts - a.attempts)
+    .slice(0, n);
+}

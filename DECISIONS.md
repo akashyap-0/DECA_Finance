@@ -55,3 +55,8 @@ Judgment calls made while building without the owner available.
     with the correct time left. When time runs out the exam submits automatically. Unanswered questions count as wrong.
 22. **Mock attempts are timestamped at submit time**, with per-question time taken from the time spent
     viewing each question.
+23. **Heatmap colour = diverging scale centred on 70%** (red below, gray at 70%, blue above). No attempts
+    = a hatched cell with "—", so an unattempted area never reads as a score. Every cell also prints its
+    accuracy and attempt count, so colour is never the only signal.
+24. **Weakest PIs** need at least 2 attempts and at least one miss, and are ranked by smoothed accuracy.
+    One unlucky answer doesn't top the list.
