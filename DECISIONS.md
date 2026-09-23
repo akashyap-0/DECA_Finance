@@ -49,3 +49,9 @@ Judgment calls made while building without the owner available.
     If today's goal isn't met yet, the streak still shows the run up to yesterday.
 19. **Mock-exam answers count as attempts** in accuracy stats, the daily goal and spaced repetition,
     because they are real answers.
+20. **Mock mixed-exam distribution** = the average per-area share across all distinct real exams, scaled to
+    100 with largest-remainder rounding (currently FI 25, PD 14, EI 11, FM 10, …).
+21. **Mocks can't be paused.** The timer runs from the start time (like the real exam), so a reload resumes
+    with the correct time left. When time runs out the exam submits automatically. Unanswered questions count as wrong.
+22. **Mock attempts are timestamped at submit time**, with per-question time taken from the time spent
+    viewing each question.
