@@ -33,3 +33,9 @@ Judgment calls made while building without the owner available.
 12. **Consistency check used for flagging:** the rationale always restates the correct option. If a rationale
     restated a different option, the question would be flagged needsReview. 1530/1531 match, and the one
     non-match is a typo in the source ("Understating" vs "Understanding"), so it is noted but not flagged.
+13. **"Missed" means answered wrong at least once**, even if it was later answered right. Smart mode's
+    spaced repetition decides when a missed question has been reviewed enough.
+14. **The question bank is bundled into the app** (imported as a raw string and JSON-parsed at startup).
+    The build then works offline with no fetches. The bundle is about 2.6 MB (635 kB gzipped), which is fine locally.
+15. **Hash routing** (`#/practice`, `#/mock`, …) with no router dependency. This works from `vite preview`
+    and any static server.

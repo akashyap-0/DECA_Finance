@@ -26,6 +26,7 @@
     "jsdom": "^30.1.1",
     "oxlint": "^1.81.0",
     "pdfjs-dist": "^6.3.289",
+    "playwright": "^1.63.0",
     "tailwindcss": "^4.3.3",
     "tsx": "^4.23.15",
     "typescript": "~6.0.2",
