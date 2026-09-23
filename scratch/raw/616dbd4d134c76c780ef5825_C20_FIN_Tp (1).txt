@@ -1,0 +1,1612 @@
+
+===== PAGE 1 (612x792) =====
+[421] Competency-Based
+[422] Competitive Events
+[432] *Written Exam*
+[405] 2020 HS ICDC
+[405] Booklet Number _____
+[158] Finance Cluster Exam
+[162] ACT – Accounting Applications Series Event
+[162] BFS – Business Finance Series Event
+[162] FCE – Financial Consulting Event
+[162] FTDM – Financial Services Team Decision Making Event
+[108] INSTRUCTIONS: This is a timed, comprehensive exam for the occupational area
+[130] identified above. Do not open this booklet until instructed to do so by the
+[133] testing monitor. You will have _____ minutes to complete all questions.
+[ 72] CAUTION: Posting these materials on a website is a copyright violation.
+[ 72] This comprehensive exam was developed by the MBA Research and Curriculum Center
+[ 72] exclusively for DECA’s 2019-2020 Competitive Events Program. Items in this exam were written
+[ 72] expressly for use at DECA’s ICDC. Performance indicators for this exam are at the prerequisite,
+[ 72] career-sustaining, and specialist levels.
+[158] Copyright © 2020 by Marketing & Business Administration Research and Curriculum
+[102] ®
+[ 72] Center , Columbus, Ohio (dba MBA Research). Each individual test item contained herein is the exclusive
+[ 72] property of MBA Research. Items are licensed to DECA only for use as configured within this exam, in its
+[ 72] entirety. Use of individual items for any purpose other than as specifically authorized is prohibited.
+[ 72] Possession of this exam, without written authorization, under any other circumstances is a
+[ 72] copyright violation. Posting to inter- or intranet sites is specifically forbidden unless written permission is
+[ 72] obtained prior to posting. Report violations to DECA at 703.860.5000 and MBA Research at
+[ 72] 800.448.0398.
+[ 72] DECA Inc. will impose sanctions on chapters and chartered associations for violations of this policy up to
+[ 72] and including disqualification of competitors and chapters from further participation.
+
+===== PAGE 2 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 1
+[ 67] 1. Sheree, who owns a popular family-style restaurant, recently asked her attorney to prepare a document
+[ 81] to protect her famous chicken noodle soup recipe. Sheree signed the document containing the recipe
+[ 81] and had it notarized. This document is designed to protect Sheree's
+[ 99] A. copyright.  ||  [324] C. trademark.
+[ 99] B. trade secret.  ||  [324] D. patent.
+[ 67] 2. What is typically the most significant role of a compliance officer in a bank, investment company, or
+[ 81] insurance company?
+[ 99] A. To ensure that the company is following financial laws
+[ 99] B. To enforce the business's code of conduct
+[ 99] C. To educate employees on industry ethics
+[ 99] D. To ensure employees follow company policies and procedures
+[ 67] 3. An annual audit is an example of a(n) __________ internal control.
+[ 99] A. corrective  ||  [324] C. reconciliation
+[ 99] B. detective  ||  [324] D. preventative
+[ 67] 4. Which of the following is a benefit of using artificial intelligence in compliance:
+[ 99] A. Increases costs  ||  [324] C. Reduces human error
+[ 99] B. Increases false positives  ||  [324] D. Reduces efficiency
+[ 67] 5. Mooreshead Bank has placed a claim on Marc's property to protect Mooreshead from financial loss if
+[ 81] Marc is unable to pay back his bank loan. Mooreshead has secured a __________ against Marc's
+[ 81] property.
+[ 99] A. license  ||  [324] C. label
+[ 99] B. lien  ||  [324] D. ledger
+[ 67] 6. Charlotte, an investment advisor, does more than simply sell stocks and bonds. She also provides
+[ 81] investing advice to her clients on an ongoing basis. She talks with clients about their short-term and long-
+[ 81] term investing goals and helps them select the investments that are best for them. Charlotte acts as her
+[ 81] clients'
+[ 99] A. credit analyst.  ||  [324] C. fiduciary.
+[ 99] B. accountant.  ||  [324] D. institutional investor.
+[ 67] 7. Robert has learned that his company will announce a round of layoffs in two weeks. Robert decides to
+[ 81] sell some of the stock options he had in the company before the news of the layoffs goes public. He tells
+[ 81] his friends to do the same. This is an example of
+[ 99] A. extortion.  ||  [324] C. corporate fraud.
+[ 99] B. corporate espionage.  ||  [324] D. insider trading.
+[ 67] 8. Raheem recently sold an investment that he had owned for five years. He sold the investment for
+[ 81] considerably more money than he had spent on it originally. Raheem is likely to owe __________ tax on
+[ 81] the profit that he made from the sale of the investment.
+[ 99] A. income  ||  [324] C. short-term capital gains
+[ 99] B. long-term capital gains  ||  [324] D. excise
+[ 67] 9. What is a benefit of having established policies for taking breaks and requesting time off?
+[ 99] A. Less confusion among employees  ||  [324] C. More open door policies
+[ 99] B. More power for management  ||  [324] D. Fewer government incentives
+[ 61] 10. Which of the following is a good way to end a business phone call:
+[ 99] A. Offer your email address if the caller needs additional information.
+[ 99] B. List all of the points made in the call.
+[ 99] C. Make small talk about the caller's day.
+[ 99] D. Wait for the caller to speak before deciding the call is over.
+[383] ®
+[145] Copyright © 2020 by MBA Research and Curriculum Center , Columbus, Ohio
+
+===== PAGE 3 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 2
+[ 61] 11. What should be included early in a written report?
+[ 99] A. A description of the research method and findings
+[ 99] B. A broad sentence detailing numerous arguments
+[ 99] C. A listing of the printed and online sources cited in the report
+[ 99] D. A specific sentence that highlights the main idea of the report
+[ 61] 12. A video conference call is a __________ channel of communication.
+[ 99] A. lean  ||  [324] C. slight
+[ 99] B. rich  ||  [324] D. detailed
+[ 61] 13. A magazine advertisement is an example of
+[ 99] A. word-of-mouth marketing.  ||  [324] C. a touchpoint.
+[ 99] B. publicity.  ||  [324] D. a brand promise.
+[ 61] 14. Which of the following forms of customer management is most likely to look outward and have a
+[ 81] customer-centric focus:
+[ 99] A. Customer relationship management  ||  [324] C. Structured customer management
+[ 99] B. Customer experience management  ||  [324] D. Inverse customer management
+[ 61] 15. What is the primary role of financial planners?
+[ 99] A. To ensure businesses are compliant with government regulation
+[ 99] B. To make the most money for their own firms
+[ 99] C. To trade with other planners in the stock market
+[ 99] D. To help clients make wise investments and prepare for the future
+[ 61] 16. What is the primary purpose of customer-relationship management technology?
+[ 99] A. To compile a mass email list
+[ 99] B. To make phone calls to keep customers interested
+[ 99] C. To archive past sales only
+[ 99] D. To establish stronger connections with customers
+[ 61] 17. Businesses use marginal analysis for the purpose of
+[ 99] A. maximizing profit.  ||  [324] C. eliminating mistakes.
+[ 99] B. increasing productivity.  ||  [324] D. maintaining reputation.
+[ 61] 18. Valerie used to wait all year for her family's trip to the beach, where she bought saltwater taffy and
+[ 81] homemade fudge. Now, she can order the sweets online and have them whenever she wants. This is an
+[ 81] example of how
+[ 99] A. utility is constant and unchanging.  ||  [324] C. business can create form utility.
+[ 99] B. place utility is not important.  ||  [324] D. the Internet has changed utility.
+[ 61] 19. A company moves its manufacturing facilities to another country, where it is able to pay employees much
+[ 81] less money. Many people see this action as unethical, but what reason might the company use to defend
+[ 81] itself?
+[ 99] A. The action is acceptable in a foreign culture.
+[ 99] B. The action is committed by unethical employees.
+[ 99] C. The action is beneficial for employees.
+[ 99] D. The action results in a negative public image.
+[ 61] 20. A company's board of directors is often responsible for __________ and __________ the top executives.
+[ 99] A. encouraging; shadowing  ||  [324] C. replacing; auditing
+[ 99] B. supporting; assessing  ||  [324] D. promoting; networking
+
+===== PAGE 4 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 3
+[ 61] 21. In the 1970s, OPEC (Organization of the Petroleum-Exporting Countries) increased the price of oil as a
+[ 81] form of political protest against the United States. This pushed up the costs of many goods and services
+[ 81] in the United States. This is an example of
+[ 99] A. cost-push inflation.  ||  [324] C. cost-push deflation.
+[ 99] B. demand-pull deflation.  ||  [324] D. demand-pull inflation.
+[ 61] 22. The biggest traders of currency on the foreign exchange market are
+[ 99] A. individual traders.  ||  [324] C. investment funds.
+[ 99] B. commercial and investment banks.  ||  [324] D. businesses and corporations.
+[ 61] 23. Jackson is sure that no one will notice if he steals merchandise from his employer. Jackson is facing an
+[ 81] ethical dilemma because of
+[ 99] A. a bad role model.  ||  [324] C. pressure from others.
+[ 99] B. a lack of consequences.  ||  [324] D. a desire to prove himself.
+[ 61] 24. Which of the following strategies can help you develop cultural sensitivity in the workplace:
+[ 99] A. Reading about different cultures  ||  [324] C. Asking everyone to dress the same
+[ 99] B. Pretending cultural differences do not exist  ||  [324] D. Joking about every culture equally
+[ 61] 25. Which of the following is an advantage of transparent communication in the workplace:
+[ 99] A. Increased information security  ||  [324] C. Increased employee turnover
+[ 99] B. Increased worker productivity  ||  [324] D. Increased manager turnover
+[ 61] 26. Which of the following is an effective approach to negotiation:
+[ 99] A. Be willing to adjust your strategy based on the other side's approach.
+[ 99] B. Do not have a specific goal or target in mind.
+[ 99] C. Display strong emotional reactions.
+[ 99] D. Try to trick the other side with carefully chosen language.
+[ 61] 27. Which of the following statements best describes office politics:
+[ 99] A. Engaging in office politics will advance your career.
+[ 99] B. Office politics are negative and should be avoided.
+[ 99] C. Engaging in office politics can be beneficial.
+[ 99] D. Office politics are damaging to work relationships.
+[ 61] 28. How are vote taking and consensus building different?
+[ 99] A. In consensus building, every group member must agree on a decision.
+[ 99] B. In vote taking, every group member must agree on a decision.
+[ 99] C. In vote taking, a minority of group members make a decision.
+[ 99] D. In consensus building, a minority of group members make a decision.
+[ 61] 29. Why do active listeners paraphrase what a speaker or presenter has said?
+[ 99] A. To help the listeners recognize the speaker's nonverbal cues
+[ 99] B. To help the speaker learn how to speak more clearly
+[ 99] C. To show that they agree with the speaker's message
+[ 99] D. To confirm the speaker's message and show understanding
+[ 61] 30. Which of the following is most likely to limit your ability to assess the long-term impact of a decision:
+[ 99] A. Negative outcomes  ||  [324] C. Positive outcomes
+[ 99] B. Personal experience  ||  [324] D. Personal bias
+[ 61] 31. What do open-end investment funds and closed-end investment funds have in common?
+[ 99] A. They can issue an unlimited number of shares over time.
+[ 99] B. They are run by professional portfolio managers.
+[ 99] C. Their pricing is determined by supply and demand.
+[ 99] D. They are also known as mutual funds.
+
+===== PAGE 5 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 4
+[ 61] 32. Sam participates in the London Stock Exchange, where investors trade stock amongst themselves
+[ 81] without involvement from the issuing companies. Which of the following best describes this type of
+[ 81] market:
+[ 99] A. Virtual market  ||  [324] C. Secondary market
+[ 99] B. Primary market  ||  [324] D. Tertiary market
+[ 61] 33. Which of the following is true about the debt market:
+[ 99] A. It is known for being unstable by nature.  ||  [324] C. Its participants may benefit from dividends.
+[ 99] B. It is commonly called the stock market.  ||  [324] D. Its investments typically involve less risk.
+[ 61] 34. One risk of business consolidation is
+[ 99] A. growth of market share.  ||  [324] C. diversification of products.
+[ 99] B. elimination of redundancy.  ||  [324] D. clashes in corporate culture.
+[ 61] 35. Clara works for a bank that has just developed an arrangement with an insurance company, allowing it to
+[ 81] sell its products to the bank's clients. This is known as a __________ arrangement.
+[ 99] A. bait-and-switch  ||  [324] C. brick-and-click
+[ 99] B. BATNA  ||  [324] D. bancassurance
+[ 61] 36. A country's unemployment rate impacts the economy because when people are unemployed, they lose
+[ 81] their
+[ 99] A. absolute advantage.  ||  [324] C. purchasing power.
+[ 99] B. individual identity.  ||  [324] D. corporate connection.
+[ 61] 37. James demonstrates home bias in his investments, which means he
+[ 99] A. is limited by the markets of foreign countries.
+[ 99] B. maintains a diversified investment portfolio.
+[ 99] C. takes advantage of increased financial globalization.
+[ 99] D. could be heavily affected by a domestic market event.
+[ 61] 38. Ann-Marie is preparing an annual report. While many people might look at the report, Ann-Marie needs to
+[ 81] remember that this report's main audience is
+[ 99] A. the CEO.  ||  [324] C. possible employees.
+[ 99] B. customers.  ||  [324] D. shareholders.
+[ 61] 39. If a company wants to list its securities on the New York Stock Exchange, it must select a __________
+[ 81] ticker symbol.
+[ 99] A. 4-letter  ||  [324] C. unique
+[ 99] B. double digit  ||  [324] D. color
+[ 61] 40. Corinne has recently decided to put her money into a lending investment. Which of the following might
+[ 81] she choose:
+[ 99] A. Collectibles  ||  [324] C. Bonds
+[ 99] B. Stocks  ||  [324] D. Real estate
+[ 61] 41. How can accountants demonstrate due care?
+[ 99] A. Request competitive compensation  ||  [324] C. Refrain from making any mistakes
+[ 99] B. Serve local communities for free  ||  [324] D. Engage in professional development
+[ 61] 42. Which of the following is a source of cash that flows into a business:
+[ 99] A. Loans  ||  [324] C. Taxes
+[ 99] B. Payroll  ||  [324] D. Rent
+[ 61] 43. Jane examined the equity statement for a company in which she invested to see her
+[ 99] A. par value.  ||  [324] C. treasury stock.
+[ 99] B. retained earnings.  ||  [324] D. dividends.
+
+===== PAGE 6 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 5
+[ 61] 44. The Kodiak Company does not pay dividends to its shareholders. In which of the following equity
+[ 81] statement components would this money appear instead:
+[ 99] A. Treasury stock  ||  [324] C. Retained earnings
+[ 99] B. Outstanding shares  ||  [324] D. Cash flow
+[ 61] 45. In general, what is the relationship between finance managers and accountants?
+[ 99] A. Finance managers determine what monetary records accountants keep.
+[ 99] B. Accountants approve the decisions that finance managers make about money.
+[ 99] C. Accountants record the information that finance managers need to make decisions.
+[ 99] D. Finance managers rely on accountants to decide on the acquisition of funds.
+[ 61] 46. One key difference between out-of-pocket costs and sunk costs is
+[ 99] A. value.  ||  [324] C. accessibility.
+[ 99] B. timing.  ||  [324] D. ownership.
+[ 61] 47. A manager must decide whether to make products in-house or outsource manufacturing. In this scenario,
+[ 81] the company's committed costs are likely to be
+[ 99] A. relevant costs.  ||  [324] C. cash inflows.
+[ 99] B. irrelevant costs.  ||  [324] D. cash receipts.
+[ 61] 48. A company needs a new customer relationship management system, and it is choosing between two
+[ 81] software companies. One has a more expensive monthly fee but no startup costs. The other has a lower
+[ 81] monthly cost but includes a startup fee. Which of the following techniques would help the company
+[ 81] determine which option is more cost-effective:
+[ 99] A. Marginal analysis  ||  [324] C. Vertical analysis
+[ 99] B. Return on investment  ||  [324] D. Sales forecasting
+[ 61] 49. What is one way in which customer relationship management (CRM) data cleansing is useful to
+[ 81] businesses?
+[ 99] A. Data cleansing helps businesses create duplicate data.
+[ 99] B. CRM software has a limited data capacity.
+[ 99] C. Data cleansing helps businesses archive old data.
+[ 99] D. CRM software lengthens sales cycles.
+[ 61] 50. Managerial accountants provide assistance to management by
+[ 99] A. calculating probability of risky events.
+[ 99] B. preparing financial statements for public review.
+[ 99] C. gathering information on social media trends.
+[ 99] D. accumulating data on costs and profits.
+[ 61] 51. Variance analysis documents the difference between actual and planned behavior and
+[ 99] A. investigates why that discrepancy occurred.
+[ 99] B. arranges this information for public review.
+[ 99] C. changes operations to address any issues.
+[ 99] D. suspends activity until numbers are aligned.
+[ 61] 52. Material, labor, and overhead are all components that might be the focus of
+[ 99] A. performance evaluation.  ||  [324] C. variance analysis.
+[ 99] B. marketing management.  ||  [324] D. sales reporting.
+[ 61] 53. Cost accounting budgets allow __________ to __________.
+[ 99] A. management; anticipate future advertising costs
+[ 99] B. management; consider a business's total cost of production
+[ 99] C. stakeholders; anticipate future advertising costs
+[ 99] D. stakeholders; consider a business's total cost of production
+
+===== PAGE 7 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 6
+[ 61] 54. The main difference between managerial accounting and financial accounting is the __________ of the
+[ 81] information.
+[ 99] A. arrangement  ||  [324] C. audience
+[ 99] B. scope  ||  [324] D. quality
+[ 61] 55. In a company of 100 people, Tess's department has 10 employees. This department is responsible for
+[ 81] 10% of the cost of insurance. This is an example of
+[ 99] A. cost estimate.  ||  [324] C. cost per contact.
+[ 99] B. cost allocation.  ||  [324] D. cost-effective pricing.
+[ 61] 56. A successful budget should be
+[ 99] A. rigid.  ||  [324] C. secret.
+[ 99] B. well planned.  ||  [324] D. aggressive.
+[ 61] 57. When calculating the future value of money, you will need to know the
+[ 99] A. par value and interest rate.  ||  [324] C. present value and exchange rate.
+[ 99] B. present value and interest rate.  ||  [324] D. par value and exchange rate.
+[ 61] 58. Ajay just won a school prize drawing and is awarded $100. To maximize the value of his money, when
+[ 81] should he accept the $100?
+[ 99] A. Now  ||  [324] C. In one year
+[ 99] B. In six months  ||  [324] D. In five years
+[ 61] 59. Without accurate financial records, it is difficult to demonstrate __________ to __________.
+[ 99] A. incentives; tax collectors  ||  [324] C. product specifications; vendors
+[ 99] B. product benefits; customers  ||  [324] D. profitability; investors
+[ 61] 60. Which of the following is a common challenge for financial-information management:
+[ 99] A. Financial managers typically use Microsoft Office applications for financial recordkeeping.
+[ 99] B. Many financial data are stored in custom, task-specific software and are not easily accessible.
+[ 99] C. Financial-information management's focus is on protection of customer financial data.
+[ 99] D. Managerial accountants prepare financial information for use by external stakeholders.
+[ 61] 61. Which of the following is a potential consequence of a company being accused of unethical accounting
+[ 81] practices:
+[ 99] A. Increased employee loyalty  ||  [324] C. Increased public faith
+[ 99] B. Stock price instability  ||  [324] D. Shareholder incentives
+[ 61] 62. What is a way in which technology has improved the management of financial information?
+[ 99] A. Data are transferred instantly from information management to point-of-sale systems.
+[ 99] B. The security of financial information is no longer a concern.
+[ 99] C. Calculations can be completed more quickly and efficiently.
+[ 99] D. The amount of time required to compare financial records thoroughly has increased.
+[ 61] 63. What are the basic components of a business budget?
+[ 99] A. Fixed costs, variable costs, and semi-variable costs
+[ 99] B. Total revenues, total costs, and profit
+[ 99] C. Inventory, variable costs, and profits
+[ 99] D. Fixed assets, inventory, and investments
+[ 61] 64. Which type of financial analysis is best for comparing a single company's historical financial information
+[ 81] to determine trends?
+[ 99] A. Vertical analysis  ||  [324] C. Leverage analysis
+[ 99] B. Horizontal analysis  ||  [324] D. Liquidity analysis
+
+===== PAGE 8 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 7
+[ 61] 65. Which of the following is a reason to calculate a company's debt-to-equity (D/E) ratio:
+[ 99] A. To compare multiple companies in different industries
+[ 99] B. To assess the level of risk involved in investing in the company
+[ 99] C. To compare the current year's performance to a previous year's
+[ 99] D. To assess the ability of a company to hire more employees
+[ 61] 66. In the lean approach to accounting, inventory is treated as a(n)
+[ 99] A. asset.  ||  [324] C. revenue.
+[ 99] B. liability.  ||  [324] D. equity.
+[ 61] 67. Obtaining a credit score, contacting references, and calculating financial ratios are all ways to
+[ 99] A. determine whether a customer is worthy of purchasing on trade credit.
+[ 99] B. determine whether an investor is capable of financing a startup.
+[ 99] C. help a financial manager decide whether to open a new location.
+[ 99] D. help a financial manager decide whether to take a company public.
+[ 61] 68. Liquidity ratios are most often used to determine whether a company
+[ 99] A. has controlled its expenses and is in a position to generate a profit.
+[ 99] B. has the resources to pay its short-term debts.
+[ 99] C. is likely to be successful in the long term.
+[ 99] D. is going to be a good investment.
+[ 61] 69. A company uses its social media sites to improve its response time to customer complaints. Doing so
+[ 81] helps the company directly
+[ 99] A. achieve stability.  ||  [324] C. improve customer satisfaction.
+[ 99] B. develop new goods and services.  ||  [324] D. improve profitability.
+[ 61] 70. Mira is reviewing a financial statement for a local business. During her analysis of data, she uses
+[ 81] Benford's Law. What can this help her do?
+[ 99] A. Estimate business viability  ||  [324] C. Identify personnel issues
+[ 99] B. Find opportunities for profit  ||  [324] D. Detect the possibility of fraud
+[ 61] 71. Which of the following statements about data analytics is true:
+[ 99] A. Descriptive analytics provide forecasts of the future.
+[ 99] B. Descriptive analytics recommend specific courses of action.
+[ 99] C. Prescriptive analytics recommend specific courses of action.
+[ 99] D. Predictive analytics provide descriptions of the past.
+[ 61] 72. Which of the following methods of data mining, often used in market segmentation, involves placing
+[ 81] observable data into naturally occurring groups:
+[ 99] A. Forecasting  ||  [324] C. Market basket analysis
+[ 99] B. Prediction  ||  [324] D. Cluster analysis
+[ 61] 73. Which of the following types of business records includes information on deductions, withholdings, and
+[ 81] employee pay:
+[ 99] A. Tax records  ||  [324] C. Customer records
+[ 99] B. Asset records  ||  [324] D. Legal records
+[ 61] 74. Regulations are a factor relating to which of the following categories of an environmental scan:
+[ 99] A. Demographics  ||  [324] C. Technology
+[ 99] B. Competition  ||  [324] D. Government
+[ 61] 75. Which operations activity involves ensuring that a business has a large enough supply that it does not
+[ 81] run out of products and also a small enough supply that holding costs are not too high?
+[ 99] A. Quality control  ||  [324] C. Scheduling
+[ 99] B. Inventory control  ||  [324] D. Logistics
+
+===== PAGE 9 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 8
+[ 61] 76. If Saeed is concerned that a data breach altered the completeness of his information, he is concerned
+[ 81] about the __________ of the data.
+[ 99] A. availability  ||  [324] C. integrity
+[ 99] B. confidentiality  ||  [324] D. privacy
+[ 61] 77. A company in which each department performs completely separate functions and has its own budget
+[ 81] and staff has an organizational structure based on __________ interdependence.
+[ 99] A. reciprocal  ||  [324] C. pooled
+[ 99] B. sequential  ||  [324] D. mutual
+[ 61] 78. Which of the following examples illustrates the importance of monitoring a project's scope:
+[ 99] A. Mateo asked his staff members how they were coping with their workloads.
+[ 99] B. Zander is making sure he doesn't spend too much on supplies for the party he is throwing.
+[ 99] C. Erin spent an hour selecting fonts when she should have been practicing her speech.
+[ 99] D. Bethany wants to know if there is a chance her team won't meet its deadlines.
+[ 61] 79. A company's full-time employees are asked to work overtime until a project is complete. As a result, the
+[ 81] company's overall wages go from a __________ cost to a __________ cost.
+[ 99] A. semi-variable; variable  ||  [324] C. fixed; semi-variable
+[ 99] B. variable; fixed  ||  [324] D. semi-fixed; semi-variable
+[ 61] 80. Who is responsible for making sure employees maintain a good work-life balance?
+[ 99] A. Coworkers  ||  [324] C. Employees
+[ 99] B. Employers  ||  [324] D. Customers
+[ 61] 81. A business has added automation to its assembly line process. This addition is most likely an example of
+[ 99] A. invention.  ||  [324] C. creativity.
+[ 99] B. innovation.  ||  [324] D. problem-solving.
+[ 61] 82. Jamel is an employee responsible for making sure that his company's business initiatives and
+[ 81] computer/IT processes work smoothly together. What area of business is Jamel working in?
+[ 99] A. Accounting  ||  [324] C. Operations management
+[ 99] B. Business information management  ||  [324] D. Securities and investments
+[ 61] 83. A worker who records, classifies, summarizes, analyzes, and communicates a business's financial
+[ 81] information is a(n)
+[ 99] A. compliance analyst.  ||  [324] C. accountant.
+[ 99] B. bank manager.  ||  [324] D. insurance agent.
+[ 61] 84. Which of the following careers is likely to involve finding money for a company and then making sure that
+[ 81] the money is managed correctly:
+[ 99] A. Insurance agent  ||  [324] C. Financial analyst
+[ 99] B. Mutual fund manager  ||  [324] D. Financial accountant
+[ 61] 85. Casey's Tree Removal Services has a set of rules, practices, and processes by which the organization is
+[ 81] controlled. Because of the company's strict adherence to these rules and processes, it has never had
+[ 81] any major problems with unethical behavior or mismanagement. Instead, the company enjoys a positive
+[ 81] relationship with its customers, employees, and the public. This example demonstrates the benefits of
+[ 99] A. ethics training in the workplace.  ||  [324] C. public relations initiatives.
+[ 99] B. good corporate governance.  ||  [324] D. setting SMART goals.
+[ 61] 86. Employee involvement in company decisions often leads to greater employee
+[ 99] A. sales.  ||  [324] C. satisfaction.
+[ 99] B. burnout.  ||  [324] D. relocation.
+
+===== PAGE 10 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 9
+[ 61] 87. In a well-governed organization, what typically helps employees understand their roles and encourages
+[ 81] positive public impressions?
+[ 99] A. Transparency  ||  [324] C. Flexibility
+[ 99] B. Efficiency  ||  [324] D. Anonymity
+[ 61] 88. It is important that businesses stay on top of their governance reports to ensure compliance because
+[ 81] __________ can change frequently.
+[ 99] A. regulations  ||  [324] C. the economy
+[ 99] B. personnel  ||  [324] D. technology
+[ 61] 89. Who typically has the greatest influence on a company's corporate governance?
+[ 99] A. Chief financial officer  ||  [324] C. Board of directors
+[ 99] B. Shareholders  ||  [324] D. HR director
+[ 61] 90. Bailey has $50 to spend. She can either buy a new pair of jeans or concert tickets, but not both. This is
+[ 81] an example of
+[ 99] A. governmental control.  ||  [324] C. limits to economic freedom.
+[ 99] B. competition in the marketplace.  ||  [324] D. private property.
+[ 61] 91. Which of the following is a primary reason for a financial advisor to join a professional organization:
+[ 99] A. To have more time for work responsibilities
+[ 99] B. To reduce the organization's membership dues
+[ 99] C. To obtain professional development
+[ 99] D. To increase his/her work responsibilities
+[ 61] 92. Maria and Laura, who are both accountants, met at a conference that they both attended. The two
+[ 81] exchanged contact information and promised to keep in touch regarding professional opportunities in
+[ 81] their industry. What skill did Maria and Laura demonstrate in this situation?
+[ 99] A. Problem solving  ||  [324] C. Advertising
+[ 99] B. Networking  ||  [324] D. Co-branding
+[ 61] 93. Which of the following typically addresses conflicts of interest, harassment, discrimination, and
+[ 81] confidentiality:
+[ 99] A. Code of conduct  ||  [324] C. Operating statement
+[ 99] B. Annual report  ||  [324] D. Mission statement
+[ 61] 94. Which of the following is a way that organizations can encourage transparency and reduce risk:
+[ 99] A. Offer rewards based on job performance  ||  [324] C. Carefully monitor employees' resource use
+[ 99] B. Give employees a way to voice concerns  ||  [324] D. Guard against digital security threats
+[ 61] 95. Johnny notices a strange smell in the warehouse that he manages, so he asks an inspector to determine
+[ 81] the source of the smell. The inspector traces the odor to remodeling work being done to the warehouse
+[ 81] office and concludes that the smell poses no health risk to any of Johnny's staff. Which of the following is
+[ 81] a risk that Johnny must consider when deciding if he should attempt to fix the issue:
+[ 99] A. Employee dissatisfaction  ||  [324] C. Employee conflicts of interest
+[ 99] B. Company bankruptcy  ||  [324] D. Company insurance
+[ 61] 96. Which of the following is a potential negative effect that technology has had on risk management:
+[ 99] A. There is too much information for any risk management system to process efficiently.
+[ 99] B. The newest software processes information more slowly than risk managers could do
+[117] unassisted.
+[ 99] C. Cloud-based storage systems make confidential information vulnerable to a privacy breach.
+[ 99] D. AI-based systems are less adaptable than traditional risk management technologies.
+
+===== PAGE 11 (612x792) =====
+[ 57] 2020 HS ICDC  ||  [246] FINANCE CLUSTER EXAM  ||  [533] 10
+[ 61] 97. A company that wishes to lower its risk management costs might start its own __________ insurance
+[ 81] company, which is a type of corporate self-insurance.
+[ 99] A. medical malpractice  ||  [324] C. captive
+[ 99] B. professional liability  ||  [324] D. compulsory
+[ 61] 98. What risk control technique seeks to contain the effect of a catastrophic event to a particular geographic
+[ 81] location and limit the event's effect on other locations?
+[ 99] A. Avoidance  ||  [324] C. Loss prevention
+[ 99] B. Separation  ||  [324] D. Loss reduction
+[ 61] 99. Antonia is starting a wedding cake bakery. Before she opens for business, she spends a whole day
+[ 81] identifying any potential dangers and hazards that might interfere with her work. Once she has identified
+[ 81] all of the potential issues, she creates a plan of response for each one that she intends to distribute to
+[ 81] her investors. Antonia is engaging in
+[ 99] A. enterprise risk management.  ||  [324] C. organizational goal setting.
+[ 99] B. business objective planning.  ||  [324] D. preliminary quality management.
+[ 55] 100. Which of the following types of risk is generally uninsurable:
+[ 99] A. Customer injury  ||  [324] C. Employee health
+[ 99] B. Property damage  ||  [324] D. Business failure
+
+===== PAGE 12 (612x792) =====
+[448] KEY
+[433] 2020 HS ICDC
+[158] Finance Cluster Exam
+[162] ACT – Accounting Applications Series Event
+[162] BFS – Business Finance Series Event
+[162] FCE – Financial Consulting Event
+[162] FTDM – Financial Services Team Decision Making Event
+[ 72] CAUTION: Posting these materials on a website is a copyright violation.
+[ 72] This comprehensive exam was developed by the MBA Research and Curriculum Center
+[ 72] exclusively for DECA’s 2019-2020 Competitive Events Program. Items in this exam were written
+[ 72] expressly for use at DECA’s ICDC. Performance indicators for this exam are at the prerequisite,
+[ 72] career-sustaining, and specialist levels.
+[158] Copyright © 2020 by Marketing & Business Administration Research and Curriculum
+[102] ®
+[ 72] Center , Columbus, Ohio (dba MBA Research). Each individual test item contained herein is the exclusive
+[ 72] property of MBA Research. Items are licensed to DECA only for use as configured within this exam, in its
+[ 72] entirety. Use of individual items for any purpose other than as specifically authorized is prohibited.
+[ 72] Possession of this exam, without written authorization, under any other circumstances is a
+[ 72] copyright violation. Posting to inter- or intranet sites is specifically forbidden unless written permission is
+[ 72] obtained prior to posting. Report violations to DECA at 703.860.5000 and MBA Research at
+[ 72] 800.448.0398.
+[ 72] DECA Inc. will impose sanctions on chapters and chartered associations for violations of this policy up to
+[ 72] and including disqualification of competitors and chapters from further participation.
+
+===== PAGE 13 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 11
+[ 67] 1. B
+[ 81] Trade secret. A trade secret is undisclosed information within a particular business or industry that
+[ 81] typically gives the business a competitive advantage. Sheree's famous chicken noodle soup, for
+[ 81] instance, is likely a reason for her restaurant's popularity. If Sheree's competitors were to gain access to
+[ 81] her recipe and begin serving her chicken noodle soup at their restaurants, Sheree's business would likely
+[ 81] suffer. Copyright is the legal protection of books and other artistic works granted by government and
+[ 81] giving their creators sole rights to them for a certain period of years. A trademark is a symbol, design, or
+[ 81] word used by a producer to identify a good or service and registered with the government to prevent use
+[ 81] by others. A patent is legal protection of an invention or process.
+[ 81] SOURCE: BL:051
+[ 81] SOURCE: Entrepreneur.com. (n.d.) Intellectual property. Retrieved January 13, 2020, from
+[135] https://www.entrepreneur.com/encyclopedia/intellectual-property
+[ 67] 2. A
+[ 81] To ensure that the company is following financial laws. Compliance officers in the financial services
+[ 81] industry are typically responsible for ensuring that their company is following financial laws and external
+[ 81] regulations. A compliance officer may play a role in enforcing a business's code of conduct, educating
+[ 81] employees on industry ethics, and/or ensuring that employees follow company policies and procedures,
+[ 81] but these responsibilities are secondary. The primary role is ensuring that the business complies with
+[ 81] financial laws and regulations.
+[ 81] SOURCE: BL:148
+[ 81] SOURCE: International Compliance Association. (n.d.). What is compliance? Retrieved January 15,
+[135] 2020, from https://www.int-comp.org/careers/your-career-in-compliance/what-is-compliance/
+[ 67] 3. B
+[ 81] Detective. Businesses use a variety of internal accounting controls to ensure the reliability of accounting
+[ 81] systems and compliance with financial laws and regulations. Detective controls such as annual audits are
+[ 81] meant to help identify existing financial problems. Preventive controls are designed to prevent errors or
+[ 81] fraud from happening. Corrective controls are intended to correct errors after they are identified.
+[ 81] Reconciliation is a comparison of a business's internal accounting records to external records of some
+[ 81] kind.
+[ 81] SOURCE: BL:148
+[ 81] SOURCE: Furlong, M. (2019, January 25). What are the types of internal controls? Retrieved February
+[135] 3, 2020, from https://bizfluent.com/info-8046701-types-internal-controls.html
+[ 67] 4. C
+[ 81] Reduces human error. Compliance officers can benefit from artificial intelligence (AI) in a number of
+[ 81] ways. AI technology helps increase the efficiency and effectiveness of the compliance function, lowers
+[ 81] the chance for human error, and decreases false positives in the system. While adopting artificial
+[ 81] intelligence can be costly at first, companies can save money long-term as AI reduces the human capital
+[ 81] required to carry out compliances processes and procedures.
+[ 81] SOURCE: BL:149
+[ 81] SOURCE: Rottner, S. (2019, January 15). Three ways artificial intelligence improves compliance.
+[135] Retrieved February 3, 2020, from https://a-teaminsight.com/three-ways-artificial-intelligence-
+[135] improves-compliance/?brand=rti
+[ 67] 5. B
+[ 81] Lien. A lien is a legal claim to an item of property that protects the seller if the buyer does not complete
+[ 81] his/her payments. Liens are designed to protect creditors from financial loss. A license is a permit that
+[ 81] allows a business to operate. A label is printed information affixed to a consumer good. A ledger is the
+[ 81] accounting record for a specific department or area of a business.
+[ 81] SOURCE: BL:071
+[ 81] SOURCE: Upcounsel. (n.d.). Debtor and creditor in contract law. Retrieved January 13, 2020, from
+[135] https://www.upcounsel.com/debtor-and-creditor-in-contract-law
+
+===== PAGE 14 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 12
+[ 67] 6. C
+[ 81] Fiduciary. A fiduciary is someone who acts on behalf of another person or organization. In most cases,
+[ 81] fiduciaries are responsible for managing their clients' financial assets and making decisions in the best
+[ 81] interest of their clients. Because Charlotte does more than simply sell investments to her clients, she is
+[ 81] considered a fiduciary. An accountant gathers, records, organizes, and reports financial data. A credit
+[ 81] analyst assesses the requests of individuals and businesses applying for loans, makes reports to the
+[ 81] loan committee, and helps decide if the requests should be granted. Institutional investors are mutual
+[ 81] fund managers, large investment firms, and significant holding companies who invest in the stock market.
+[ 81] SOURCE: BL:133
+[ 81] SOURCE: Kagan, J. (2019, June 25). Fiduciary. Retrieved February 4, 2020, from
+[135] https://www.investopedia.com/terms/f/fiduciary.asp
+[ 67] 7. D
+[ 81] Insider trading. Insider trading occurs when a company's owners, directors, or key management trade its
+[ 81] stock. Insider trading is illegal when those individuals make trades based on information that has not
+[ 81] been disclosed to the public. Corporate fraud involves deception purposely carried out so that a company
+[ 81] can secure an unfair or unlawful gain. Corporate espionage involves spying on a competitor and/or theft
+[ 81] of a competitor's proprietary information. Extortion involves using force to obtain another person's or
+[ 81] company's property or money.
+[ 81] SOURCE: BL:133
+[ 81] SOURCE: Ganti, A. (2019, March 29). Insider trading. Retrieved January 15, 2020, from
+[135] https://www.investopedia.com/terms/i/insidertrading.asp
+[ 67] 8. B
+[ 81] Long-term capital gains. Capital gains are earnings from the appreciation of an investment. When an
+[ 81] investor sells his/her investment for more money than what s/he spent on it originally, the investor is likely
+[ 81] to owe capital gains tax. Investors pay long-term capital gains tax if they owned the asset for more than a
+[ 81] year. If investors owned the asset for a year or less, they are likely to owe short-term capital gains tax.
+[ 81] Income tax is a tax levied on an individual's or business's earnings. Excise taxes are indirect taxes
+[ 81] charged on specific goods such as gasoline and alcohol.
+[ 81] SOURCE: BL:134
+[ 81] SOURCE: Kagan, J. (2019, June 25). Capital gains tax. Retrieved January 15, 2020, from
+[135] https://www.investopedia.com/terms/c/capital_gains_tax.asp
+[ 67] 9. A
+[ 81] Less confusion among employees. Businesses use established policies and procedures to set clear
+[ 81] expectations for employee conduct. Employees who have a clear understanding of how and when to take
+[ 81] breaks or request time off, for instance, are likely to be more productive. Although some policies and
+[ 81] procedures give power to managers, established policies for taking breaks and requesting time off don't
+[ 81] necessarily do so. An open door policy is a business practice whereby management encourages
+[ 81] communication between employees and their superiors; however, open door policies are typically
+[ 81] unrelated to policies for taking breaks and requesting time off. An incentive is something that motivates or
+[ 81] encourages someone to behave a certain way. Government incentives are unrelated to policies for taking
+[ 81] breaks and requesting time off.
+[ 81] SOURCE: CO:057
+[ 81] SOURCE: Moore, M. (n.d.). Why have personnel policies & procedures. Retrieved January 13, 2020,
+[135] from https://smallbusiness.chron.com/personnel-policies-procedures-1234.html
+[ 61] 10. A
+[ 81] Offer your email address if the caller needs additional information. By providing your email address, you
+[ 81] create another line of communication for the caller in case s/he needs additional information. Providing
+[ 81] your email address is also a good way to indicate that you would like to end the call without being abrupt.
+[ 81] While summarizing the key points made in the call can be helpful, it is unnecessary to list every point
+[ 81] made. You are more likely to make small talk about a caller's day at the beginning of a call versus at the
+[ 81] end. Waiting for the caller to speak can cause confusion, especially if you are leading the call.
+[ 81] SOURCE: CO:114
+[ 81] SOURCE: Bucki, J. (2019, November 20). How to end a business phone call. Retrieved January 13,
+[135] 2020, from https://www.thebalancesmb.com/end-phone-calls-professionally-2533712
+
+===== PAGE 15 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 13
+[ 61] 11. D
+[ 81] A specific sentence that highlights the main idea of the report. The introduction to a written report should
+[ 81] include a specific sentence detailing the main idea or purpose of the report. Arguments for and against
+[ 81] the main idea should be included in the body of the report. Sources should also be cited in the body of
+[ 81] the report as information from the different sources is introduced. The research method and findings
+[ 81] should be included throughout the report, rather than right at the beginning.
+[ 81] SOURCE: CO:094
+[ 81] SOURCE: Reed, J. (2019, November 13). Top report writing tips: How to make a great report. Retrieved
+[135] January 13, 2020, from https://custom-writing.org/blog/report-writing-top-tips
+[ 61] 12. B
+[ 81] Rich. A rich channel of communication involves multiple senses such as sight and hearing. A video
+[ 81] conference call is an example of a rich communication channel because it includes seeing other
+[ 81] participants' faces and hearing what others are saying. A lean channel of communication generally only
+[ 81] uses sight. Slight and detailed channels of communication are not generally recognized terms.
+[ 81] SOURCE: CO:092
+[ 81] SOURCE: Encyclopedia.com. (2019, December 11). Communication channels. Retrieved January 13,
+[135] 2020, from https://www.encyclopedia.com/finance/finance-and-accounting-
+[135] magazines/communication-channels
+[ 61] 13. C
+[ 81] A touchpoint. A touchpoint is any interaction between a business and a customer or potential customer.
+[ 81] The sum of the touchpoints that a customer experiences becomes the company's communication of its
+[ 81] brand promise to that customer. Advertisements, publicity (unsponsored mentions of the brand or
+[ 81] business in the news), and word-of-mouth marketing (what other customers are saying) are all examples
+[ 81] of touchpoints that occur before a customer does business with a company. A brand promise is the
+[ 81] specific benefit that customers can expect from using the good/service and interacting with the company.
+[ 81] SOURCE: CR:001
+[ 81] SOURCE: LAP-CR-006—Share the Promise (Identifying Brand Promise)
+[ 61] 14. B
+[ 81] Customer experience management. Customer experience management (CEM) includes the strategies,
+[ 81] processes, and policies a business uses to meet or exceed customer expectations and to provide
+[ 81] customers with outstanding experiences at every touchpoint. CEM looks outward, focuses on customer
+[ 81] needs and wants, and uses touchpoints to allow the customer to learn something valuable about the
+[ 81] company. Customer relationship management (CRM) includes the strategies, processes, technology,
+[ 81] and people that a business uses to build, maintain, and maximize the long-term value of customer
+[ 81] relationships. CRM tends to look inward, focuses on the business itself, and uses touchpoints to learn
+[ 81] something valuable about the customer. Structured customer management and inverse customer
+[ 81] management are not types of customer management. Structured relationships are characterized by
+[ 81] rules, well-defined positions, and clear lines of authority. Inverse relationships exist when one value in a
+[ 81] pair increases when the other decreases.
+[ 81] SOURCE: CR:016
+[ 81] SOURCE: LAP-CR-016—Know When To Hold 'Em (Nature of Customer Relationship Management)
+[ 61] 15. D
+[ 81] To help clients make wise investments and prepare for the future. Generally, financial planners help their
+[ 81] clients make smart financial choices. More specifically, they assist clients in making wise investments
+[ 81] and help clients prepare for the future financially. They also need to make money for their firms, but the
+[ 81] client should come first. Financial planners assist clients in buying and selling stocks, but they don't
+[ 81] purposefully trade with other planners in the stock market. Financial planners have different
+[ 81] responsibilities than compliance agents who are responsible for ensuring that businesses are compliant
+[ 81] with government regulations.
+[ 81] SOURCE: CR:012
+[ 81] SOURCE: Investopedia. (2019, December 19). Should you use a financial advisor? Retrieved January
+[135] 17, 2020, from https://www.investopedia.com/articles/basics/07/financial-advice.asp
+
+===== PAGE 16 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 14
+[ 61] 16. D
+[ 81] To establish stronger connections with customers. Customer relationship management (CRM)
+[ 81] incorporates the strategies, processes, technology, and people a business uses to build, maintain, and
+[ 81] maximize the long-term value of customer relationships. CRM technology provides businesses with
+[ 81] information about their customers and helps those businesses establish better relationships with top
+[ 81] customers. Although businesses can use CRM technology to make phone calls to customers, archive
+[ 81] past sales, and compile mass email lists, those are not the primary purpose of CRM technology.
+[ 81] SOURCE: CR:024
+[ 81] SOURCE: Ferrell, O.C., & Pride, W. (2020) Marketing 2020. (20th ed). [pp. 1-6]. Boston, MA: Cengage
+[135] Learning Inc.
+[ 61] 17. A
+[ 81] Maximizing profit. Marginal analysis is an assessment of the potential benefits of a business activity
+[ 81] compared to the costs incurred from that same activity. Businesses use marginal analysis to make
+[ 81] decisions and maximize profit. Marginal analysis is not directly related to increasing productivity,
+[ 81] eliminating mistakes, or maintaining an organization's reputation.
+[ 81] SOURCE: FI:659
+[ 81] SOURCE: Hayes, A. (2019, June 25). Marginal analysis. Retrieved January 13, 2020, from
+[135] https://www.investopedia.com/terms/m/marginal-analysis.asp
+[ 61] 18. D
+[ 81] The Internet has changed utility. The Internet impacts utility in many ways. One of these is by making it
+[ 81] easier for products to have place utility. Online ordering means that customers can get the products they
+[ 81] want regardless of their physical distance from the business, as is the case with Valerie and her sweets.
+[ 81] This example does not demonstrate that place utility is not important; rather, the use of the Internet has
+[ 81] enhanced place utility. This example is not related to form utility. Finally, this example does not
+[ 81] demonstrate that utility is constant and unchanging.
+[ 81] SOURCE: EC:004
+[ 81] SOURCE: LAP-EC-013—Use It (Economic Utility)
+[ 61] 19. A
+[ 81] The action is acceptable in a foreign culture. What many Americans would consider unethical may be
+[ 81] perfectly acceptable in another culture. A major example of this deals with working conditions and wages.
+[ 81] In many developing countries, manufacturing standards and pay expectations are much lower than they
+[ 81] are in more developed parts of the world. Because of this, some American companies move their
+[ 81] operations overseas in an effort to cut costs. These companies are able to pay foreign workers a fraction
+[ 81] of the wages they were paying American workers for doing the same work. The company may assume
+[ 81] that since its actions are acceptable in the other culture, they are ethical. However, many others may
+[ 81] disagree. The company would not say that the action is committed by unethical employees, since that
+[ 81] would involve admitting wrongdoing. The action is likely not beneficial for employees. The action could
+[ 81] result in a negative public image, but this is not a reason the company can use to defend itself.
+[ 81] SOURCE: EC:106
+[ 81] SOURCE: LAP-EC-106—On the Up and Up (Business Ethics)
+[ 61] 20. B
+[ 81] Supporting; assessing. The board of directors is responsible for helping an organization reach its goals
+[ 81] while meeting stakeholder needs. This often includes hiring, supporting, and assessing the performance
+[ 81] of the organization's top executives. The board of directors does not usually shadow or audit the top
+[ 81] executives. While it's possible for members of a board of directors to encourage, promote, and make
+[ 81] networking connections for top executives, those are not necessarily responsibilities of the board.
+[ 81] SOURCE: PD:303
+[ 81] SOURCE: Chen, J. (2019, September 27). Board of directors (B of D). Retrieved January 15, 2020,
+[135] from https://www.investopedia.com/terms/b/boardofdirectors.asp
+
+===== PAGE 17 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 15
+[ 61] 21. A
+[ 81] Cost-push inflation. Inflation can occur when certain commodities become more limited and more
+[ 81] expensive, driving up the prices of all related goods and services. This is called cost-push inflation. When
+[ 81] OPEC increased the price of oil in the 1970s, the result was an increase in the cost of several other
+[ 81] goods and services. This was an example of cost-push inflation. Demand-pull inflation is a different type
+[ 81] of inflation in which demand is greater than supply, "pulling" inflation higher. Deflation is a steady decline
+[ 81] in the general price levels of goods and services over time. There is no such thing as demand-pull
+[ 81] deflation or cost-push deflation.
+[ 81] SOURCE: EC:083
+[ 81] SOURCE: LAP-EC-083—Up, Up, and Away (Inflation)
+[ 61] 22. B
+[ 81] Commercial and investment banks. Banks are the biggest traders of currency on the foreign exchange
+[ 81] market, making up about half of its trading volume. They often trade with each other exclusively on their
+[ 81] own interbank market, a series of electronic networks used only by commercial banking institutions.
+[ 81] Banks may use the forex to make transactions for clients or to engage in speculative trading for their own
+[ 81] profit. Investment funds are the second biggest traders of currency on the foreign exchange market.
+[ 81] Investment funds use the forex to exchange currency when buying or selling foreign securities and to
+[ 81] engage in speculative trading on behalf of their clients. Businesses and corporations also participate in
+[ 81] the forex. Companies that buy foreign goods and/or sell their goods in foreign markets participate in the
+[ 81] forex as a means to complete these business transactions. Individual traders represent the lowest
+[ 81] volume of trading on the foreign exchange market, but the practice of speculative trading for personal
+[ 81] profit is quickly gaining popularity.
+[ 81] SOURCE: EC:100
+[ 81] SOURCE: LAP-EC-100—Get Your Money's Worth (Exchange Rate)
+[ 61] 23. B
+[ 81] A lack of consequences. The threat of punishment is one reason why most people behave properly. If
+[ 81] Jackson knows that he will not be caught, he may be tempted to steal merchandise from his employer.
+[ 81] Jackson is not dealing with a bad role model, pressure from others, or a desire to prove himself.
+[ 81] SOURCE: EI:124
+[ 81] SOURCE: LAP-EI-124—What's the Situation? (Reasons for Ethical Dilemmas)
+[ 61] 24. A
+[ 81] Reading about different cultures. One of the best strategies for acquiring cultural sensitivity is to educate
+[ 81] yourself about other cultures. This can be achieved by politely asking a person about their culture,
+[ 81] educating yourself through reading or attending cultural events, or attending diversity training workshops.
+[ 81] Ignoring cultural differences or pretending they do not exist can have the opposite effect from displaying
+[ 81] cultural sensitivity. Rather than asking everyone in the workplace to dress the same, a culturally sensitive
+[ 81] workplace would allow each employee to wear his/her culture's garb if s/he desires to do so. Joking
+[ 81] about a person's culture does not lead to cultural sensitivity; even if you only joke about your own culture,
+[ 81] you may not realize how those jokes can affect others.
+[ 81] SOURCE: EI:033
+[ 81] SOURCE: LAP-EI-033—Getting To Know You (Cultural Sensitivity)
+[ 61] 25. B
+[ 81] Increased worker productivity. When people are able to communicate more openly with each other, they
+[ 81] will be more productive. Businesses that encourage transparency allow employees to ask questions
+[ 81] when they are confused or struggling, which can lead to less wasted time. Transparency also leads to
+[ 81] fewer misunderstandings, which can create a more productive work environment. Honesty and
+[ 81] transparency should not affect an organization's information security. Being transparent does not mean
+[ 81] sharing private or restricted information. Both employee and manager turnover are more likely to be
+[ 81] decreased in a transparent work environment than increased. This is because transparency leads to trust
+[ 81] among coworkers and between employees and managers. If a person trusts the people s/he works with
+[ 81] and for, s/he is less likely to want to change jobs, which results in less turnover, not more.
+[ 81] SOURCE: EI:129
+[ 81] SOURCE: LAP-EI-129—Can We Talk? (Fostering Open, Honest Communication)
+
+===== PAGE 18 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 16
+[ 61] 26. A
+[ 81] Be willing to adjust your strategy based on the other side's approach. Because people and situations
+[ 81] differ, you need to be aware of the other side's negotiating tactics and respond appropriately. You might
+[ 81] need to change your strategy during the negotiation process. As long as you have established clear
+[ 81] objectives ahead of time, you can adjust your strategy and still negotiate effectively. If you do not have a
+[ 81] specific goal or target in mind, it will likely be very difficult to know if you have accomplished what you
+[ 81] wanted out of a negotiation. It is always important to keep your emotions out of a negotiation. An outburst
+[ 81] could easily derail the conversation and hurt your credibility. Any attempts to “trick” the other side could
+[ 81] also affect your credibility, which is one of the most important factors in a negotiation. If the other side
+[ 81] does not consider you to be credible or trustworthy, it can be very difficult to have a successful
+[ 81] negotiation.
+[ 81] SOURCE: EI:062
+[ 81] SOURCE: LAP-EI-062—Make It a Win-Win (Negotiation in Business)
+[ 61] 27. C
+[ 81] Engaging in office politics can be beneficial. Office politics are activities performed by people in a
+[ 81] workplace with the intention of furthering their personal or professional goals. These activities exist in
+[ 81] almost every workplace environment. While office politics can sometimes be detrimental to the workplace
+[ 81] or work relationships, participating in them could also be beneficial. Positive examples of office politics
+[ 81] include networking or improving relationships with coworkers or supervisors. Because they exist in
+[ 81] almost every workplace, ignoring office politics or trying to avoid or "steer clear" of them might be
+[ 81] damaging to career prospects or workplace productivity. Being able to detect office politics might also
+[ 81] protect you from being taken advantage of. On the other hand, being seen as too self-serving in the office
+[ 81] might hurt your career prospects as well. Finding the right balance of office politics participation can be
+[ 81] beneficial to your career, your workplace relationships, and your productivity.
+[ 81] SOURCE: EI:109
+[ 81] SOURCE: Corporate Financial Institute. (2015-2019). Office politics: Self-serving activities for personal
+[135] advancement. Retrieved December 31, 2019, from
+[135] https://corporatefinanceinstitute.com/resources/careers/soft-skills/office-politics/
+[ 61] 28. A
+[ 81] In consensus building, every group member must agree on a decision. In both vote taking and consensus
+[ 81] building, each group member has the power to say “no” to a possible decision. However, in vote taking,
+[ 81] the decision is made by the majority of the group members' votes—even if an individual group member
+[ 81] votes against that decision. In consensus building, each group member must agree before a decision is
+[ 81] made. In consensus building, although each individual group member has the power to decide that an
+[ 81] option should not be selected, no amount of group members gets to make a decision unless the entire
+[ 81] group agrees.
+[ 81] SOURCE: EI:011
+[ 81] SOURCE: LAP-EI-019—It's a Group Thing (Consensus Building)
+[ 61] 29. D
+[ 81] To confirm the speaker's message and show understanding. By paraphrasing, or restating, what a
+[ 81] speaker has said, people who are actively listening can confirm the speaker's message and demonstrate
+[ 81] that they understand the speaker. Teaching the speaker to speak more clearly is not a goal of
+[ 81] paraphrasing. Paraphrasing what a speaker has said does not necessarily show that listeners agree with
+[ 81] the speaker's message. Active listeners pay attention to nonverbal cues, but that is not why they
+[ 81] paraphrase the speaker's message.
+[ 81] SOURCE: EI:041
+[ 81] SOURCE: LAP-EI-041—Bring Out the Best (Coaching Others)
+
+===== PAGE 19 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 17
+[ 61] 30. D
+[ 81] Personal bias. A bias is a prejudice you have either for or against something. Bias isn't always a bad
+[ 81] thing, but it can sometimes limit your ability to consider the full impact of your decisions. Because
+[ 81] everyone has biases, it is important to acknowledge the ones you have and try to not let those biases
+[ 81] impact your decision-making as best as you can. Personal experience can actually help you assess long-
+[ 81] term impacts of a decision. If you have been in a situation before, you will know more about what might
+[ 81] happen than if you have never been in that situation. Even though personal experience is helpful, it
+[ 81] should not be the only thing you consider when assessing long-term impacts. Both positive and negative
+[ 81] outcomes should be considered when evaluating the possible long-term impact of a decision.
+[ 81] SOURCE: EI:137
+[ 81] SOURCE: LAP-EI-137—Choose for the Future (Assessing the Long-Term Value and Impact of Actions
+[135] on Others)
+[ 61] 31. B
+[ 81] They are run by professional portfolio managers. Both closed-end funds and open-end funds must be
+[ 81] professionally managed by an advisor with registration from the U.S. Securities and Exchange
+[ 81] Commission (SEC). Only an open-end fund can issue an unlimited number of shares; closed-end funds
+[ 81] issue a fixed number of shares. Closed-end funds are unique because their pricing is determined by
+[ 81] supply and demand. Only open-end funds are also known as mutual funds.
+[ 81] SOURCE: FI:336
+[ 81] SOURCE: Chen, J. (2019. July 7). What is an investment company? Retrieved January 8, 2020, from
+[135] https://www.investopedia.com/terms/i/investmentcompany.asp
+[ 61] 32. C
+[ 81] Secondary market. The secondary market is where investors are able to trade securities after companies
+[ 81] have sold their offerings on the primary market. The secondary market is often called the “stock market”
+[ 81] and includes the London Stock Exchange, New York Stock Exchange, and Nasdaq. Primary markets are
+[ 81] where companies sell securities to the public for the first time. A virtual market is where products are
+[ 81] purchased and sold electronically, with no physical interaction between buyer and seller. Tertiary market
+[ 81] can refer to a smaller market.
+[ 81] SOURCE: FI:337
+[ 81] SOURCE: Beers, B. (2019, June 25). A look at primary and secondary markets. Retrieved January 8,
+[135] 2020, from https://www.investopedia.com/investing/primary-and-secondary-markets/
+[ 61] 33. D
+[ 81] Its investments typically involve less risk. The debt market is where participants can buy or sell loans.
+[ 81] Compared with the equity market, the debt market is known for having lower risk and lower reward. The
+[ 81] equity market is known for having higher risk and reward and being unstable as a result of vulnerability to
+[ 81] political, social, and economic events. It is also referred to as the stock market. Dividends are payments
+[ 81] made by companies to their shareholders, so they are potential benefits of the equity market, not the debt
+[ 81] market.
+[ 81] SOURCE: FI:337
+[ 81] SOURCE: Maverick, J.B. (2019, June 25). Debt market vs. equity market: What's the difference?
+[135] Retrieved January 8, 2020, from https://www.investopedia.com/ask/answers/071415/what-
+[135] are-differences-between-debt-and-equity-markets.asp
+[ 61] 34. D
+[ 81] Clashes in corporate culture. When two businesses merge, it is crucial to think about the differences in
+[ 81] company culture. Employees are often the essence of a company. If two diverse companies with different
+[ 81] philosophies, processes, and experiences merge without proper consideration of and response to these
+[ 81] differences, then the consolidation might fail. Eliminating redundancy, diversifying goods and services,
+[ 81] and growing market share are all potential benefits of business consolidation, not risks.
+[ 81] SOURCE: FI:573
+[ 81] SOURCE: Taylor, J. (n.d.) Why do businesses consolidate? Retrieved January 9, 2020, from
+[135] https://smallbusiness.chron.com/businesses-consolidate-5114.html
+
+===== PAGE 20 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 18
+[ 61] 35. D
+[ 81] Bancassurance. A bancassurance arrangement is mutually beneficial for banks and insurance
+[ 81] companies. Insurance companies are able to sell insurance to the bank's clients, and banks are able to
+[ 81] profit from the additional revenue, plus increased customer satisfaction. BATNA stands for Best
+[ 81] Alternative to a Negotiated Agreement. Brick-and-click refers to a business with both a brick-and-mortar
+[ 81] (physical) store and an online store. Bait-and-switch refers to a form of advertising in which businesses
+[ 81] promote a low-priced item to attract customers before trying to sell a higher priced item.
+[ 81] SOURCE: FI:573
+[ 81] SOURCE: Banton, C. (2020, January 7). Bancassurance. Retrieved January 9, 2020, from
+[135] https://www.investopedia.com/terms/b/bancassurance.asp
+[ 61] 36. C
+[ 81] Purchasing power. When people are unemployed, they don't just lose their income. They also lose the
+[ 81] opportunity to purchase and contribute to a country's economy through their purchasing power. While
+[ 81] those who are unemployed might lose a sense of individual identity and their connection to corporations,
+[ 81] these losses do not impact the economy. Absolute advantage is the advantage achieved when a nation
+[ 81] can produce a good or service at a lower cost than another nation.
+[ 81] SOURCE: FI:574
+[ 81] SOURCE: Picardo, E. (2019, June 25). How the unemployment rate affects everybody. Retrieved
+[135] January 9, 2020, from https://www.investopedia.com/articles/economics/10/unemployment-
+[135] rate-get-real.asp
+[ 61] 37. D
+[ 81] Could be heavily affected by a domestic market event. Home bias means a preference for investing a
+[ 81] majority of a portfolio in domestic equities. This concentration of investments can be risky because a
+[ 81] single event in the domestic market can affect a majority of an investment portfolio. A diverse investment
+[ 81] portfolio would take advantage of increased financial globalization and be spread across different
+[ 81] countries. He is not limited by the markets of foreign countries because he does not invest in foreign
+[ 81] markets.
+[ 81] SOURCE: FI:575
+[ 81] SOURCE: Chen, J. (2019, June 7). Home bias. Retrieved January 9, 2020, from
+[135] https://www.investopedia.com/terms/h/homebias.asp
+[ 61] 38. D
+[ 81] Shareholders. The annual report is a document that reviews a company's activities each year. It contains
+[ 81] financial information that must be shared with stakeholders, who have invested in the company, and
+[ 81] includes other items like a letter from the chief executive officer, new product plans, and plans for future
+[ 81] programming. It is possible that customers, employees, and potential employees see this document
+[ 81] because reporting companies must post their annual reports, but they are not the target audience of this
+[ 81] document.
+[ 81] SOURCE: FI:274
+[ 81] SOURCE: U.S. Securities and Exchange Commission. (2014, October 15). Annual report. Retrieved
+[135] January 9, 2020, from https://www.sec.gov/fast-answers/answers-annrephtm.html
+[ 61] 39. C
+[ 81] Unique. A ticker symbol is a unique series of characters, often letters, that represents a security.
+[ 81] Because each symbol is assigned to a different security, there cannot be any repetition. The New York
+[ 81] Stock Exchange uses alphabetical symbols with up to three letters. The ticker symbol is not an actual
+[ 81] graphic and therefore would not be in color.
+[ 81] SOURCE: FI:275
+[ 81] SOURCE: Barone, A. (2019, June 25). Ticker symbol. Retrieved January 9, 2020, from
+[135] https://www.investopedia.com/terms/t/tickersymbol.asp
+
+===== PAGE 21 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 19
+[ 61] 40. C
+[ 81] Bonds. A bond is a low-risk lending investment offered by a government, municipality, or corporation at a
+[ 81] set interest rate for a particular period of time. With a bond, you don't pay a penalty if you withdraw the
+[ 81] invested amount before the end of the time frame. Other types of lending investments include savings
+[ 81] accounts, money market accounts, and certificates of deposit. Stocks, collectibles, and real estate are all
+[ 81] types of ownership investments, which provide opportunities for a return by letting you own something of
+[ 81] significance.
+[ 81] SOURCE: FI:077
+[ 81] SOURCE: LAP-FI-077—Invest for Success (Types of Investments)
+[ 61] 41. D
+[ 81] Engage in professional development. The principle of due care means performing the role of accountant
+[ 81] as well as possible. Because of the nature of the profession, accountants need to be competent in all
+[ 81] aspects of the job. They must strive for continuous improvement and excellence. Demonstrating due care
+[ 81] doesn't mean that accounts have to be perfect—everyone makes mistakes. However, it does mean that
+[ 81] accountants must try to do the best job they can. Accountants can pursue the principle of due care by
+[ 81] engaging in professional development and dedicating themselves to deepening their accounting
+[ 81] knowledge and skills. Serving local communities for free and requesting competitive compensation are
+[ 81] not demonstrations of due care.
+[ 81] SOURCE: FI:351
+[ 81] SOURCE: LAP-FI-351—With Due Care (The Role of Ethics in Accounting)
+[ 61] 42. A
+[ 81] Loans. Businesses often obtain loans from banks or investors. A thriving business may use loan money
+[ 81] to expand its operations. On the other hand, an ailing business might use borrowed money simply to
+[ 81] survive. Other sources of cash that flow into a business include sale of assets, interest, sale of products,
+[ 81] and startup money. Payroll, taxes, and rent are examples of cash that flow out of a business.
+[ 81] SOURCE: FI:091
+[ 81] SOURCE: LAP-FI-091—Count the Cash (Cash Flow Statements)
+[ 61] 43. D
+[ 81] Dividends. Dividends are payments made to those who have invested in a company. These payments
+[ 81] can be made on a recurring basis or infrequently. Dividends are included on an equity statement, a
+[ 81] financial document released as a common component of the annual financial statement. Retained
+[ 81] earnings reflect the income the company has chosen to keep. Treasury stock is the number of shares
+[ 81] that have been repurchased by the company. Retained earnings and treasury stock are other
+[ 81] components that appear on an equity statement, but they do not belong to Jane or other investors. Par
+[ 81] value refers to the value of a bond, not an investor.
+[ 81] SOURCE: FI:630
+[ 81] SOURCE: Horton, M. (2017, December 7). What are the components of shareholders' equity?
+[135] Retrieved January 9, 2020, from https://www.investopedia.com/ask/answers/012115/what-
+[135] are-components-shareholders-equity.asp
+[ 61] 44. C
+[ 81] Retained earnings. The retained earnings component of an equity statement reflects the income earned
+[ 81] and kept by the company. Dividends are payments made to shareholders. If a company decides not to
+[ 81] pay dividends, then that money would be considered retained earnings. Outstanding shares and treasury
+[ 81] stock are other components of an equity statement, but they are not affected if dividends are not paid.
+[ 81] Cash flow is not a recognized label on an equity statement.
+[ 81] SOURCE: FI:630
+[ 81] SOURCE: Horton, M. (2017, December 7). What are the components of shareholders' equity?
+[135] Retrieved January 9, 2020, from https://www.investopedia.com/ask/answers/012115/what-
+[135] are-components-shareholders-equity.asp
+
+===== PAGE 22 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 20
+[ 61] 45. C
+[ 81] Accountants record the information that finance managers need to make decisions. The accounting and
+[ 81] finance functions have distinct primary focuses and purposes. The accounting function records and
+[ 81] generates the information needed to plan and make decisions in the finance function. Accountants do not
+[ 81] approve the decisions finance managers make about money. Finance managers do not have total control
+[ 81] over what records accountants keep. The acquisition of funds is a main responsibility of a company's
+[ 81] finance department.
+[ 81] SOURCE: FI:354
+[ 81] SOURCE: LAP-FI-354—Money Matters (Role of Finance)
+[ 61] 46. B
+[ 81] Timing. Out-of-pocket costs are those that must be paid now or in the future, using resources that have
+[ 81] yet to be spent. Sunk costs, on the other hand, are those that have already been incurred. Sunk cost
+[ 81] refers to money that has already been spent and is unable to be regained. Value, accessibility, and
+[ 81] ownership do not represent the difference between out-of-pocket and sunk costs.
+[ 81] SOURCE: FI:658
+[ 81] SOURCE: Tuovila, A. (2019, September 30). Sunk cost. Retrieved January 10, 2020, from
+[135] https://www.investopedia.com/terms/s/sunkcost.asp
+[ 61] 47. B
+[ 81] Irrelevant costs. Committed costs are those that have already been set aside for a future expense and
+[ 81] cannot be altered. Because these costs are already expected and cannot be changed, they are not
+[ 81] relevant to business decisions a manager may make. Cash inflow is the money going into a business.
+[ 81] Cash receipts are the money that a business collects (e.g., business income).
+[ 81] SOURCE: FI:658
+[ 81] SOURCE: Kenton, W. (2019, October 6). Irrelevant cost. Retrieved January 13, 2020, from
+[135] https://www.investopedia.com/terms/i/irrelevantcost.asp
+[ 61] 48. A
+[ 81] Marginal analysis. Marginal analysis is a technique used to make financial decisions by comparing the
+[ 81] relevant costs of each alternative to determine the difference in cost. The company should perform
+[ 81] marginal analysis to see the difference in cost between the two software options. Return on investment,
+[ 81] vertical analysis, and sales forecasting would not help the company compare the difference in cost
+[ 81] between the two software options.
+[ 81] SOURCE: FI:659
+[ 81] SOURCE: CliffsNotes. (2016). Introduction to incremental analysis. Retrieved February 11, 2020, from
+[135] https://www.cliffsnotes.com/study-guides/accounting/accounting-principles-ii/incremental-
+[135] analysis/introduction-to-incremental-analysis
+[ 61] 49. C
+[ 81] Data cleansing helps businesses archive old data. CRM technology provides businesses with information
+[ 81] about their customers and helps those businesses establish better relationships with top customers.
+[ 81] However, to optimize their use of CRM technology, businesses must cleanse the data in CRM
+[ 81] applications. This typically involves identifying and removing inaccurate and/or duplicate data.
+[ 81] Businesses also cleanse their CRM data to archive old data. Doing so typically reduces wasted time and
+[ 81] shortens sales cycles. CRM software can be built to suit a business's needs, so data caps are not likely a
+[ 81] concern.
+[ 81] SOURCE: CR:024
+[ 81] SOURCE: BuzzBoard. (2020). What is data cleansing. Retrieved January 20, 2020, from
+[135] buzzboard.com/crm-data-cleansing
+
+===== PAGE 23 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 21
+[ 61] 50. D
+[ 81] Accumulating data on costs and profits. Managerial accountants provide financial information to
+[ 81] managers to help managers make informed business decisions. The financial information that
+[ 81] managerial accountants provide can vary from manager to manager, but a large part of managerial
+[ 81] accounting work is accumulating data on business costs and profits. Preparing financial statements for
+[ 81] public review is a responsibility of a financial accountant; managerial accounting is not for external use.
+[ 81] Gathering social media trends and calculating risk probability are not accounting activities.
+[ 81] SOURCE: FI:660
+[ 81] SOURCE: Tuovila, A. (2019, October 6). Managerial accounting. Retrieved January 13, 2020, from
+[135] https://www.investopedia.com/terms/m/managerialaccounting.asp
+[ 61] 51. A
+[ 81] Investigates why that discrepancy occurred. Variance analysis identifies any discrepancies between
+[ 81] actual and planned behavior and provides an explanation for why and how that difference happened.
+[ 81] This information helps business leaders make decisions and potentially change operations to address
+[ 81] any issues; variance analysis itself does not automatically make those changes or suspend activity.
+[ 81] Some variation can be expected. Variance analysis helps business leaders maintain control of an
+[ 81] organization and does not typically publish discrepancies for external perusal.
+[ 81] SOURCE: FI:661
+[ 81] SOURCE: Bragg, S. (2018, December 21). Variance analysis. Retrieved January 13, 2020, from
+[135] https://www.accountingtools.com/articles/what-is-variance-analysis.html
+[ 61] 52. C
+[ 81] Variance analysis. Variance analysis provides any discrepancies between actual and planned behavior
+[ 81] and an explanation for why and how that difference happened. Focuses of a variance analysis can
+[ 81] include material, labor, and overhead as well as purchase price, selling price, etc. Marketing
+[ 81] management is a career area in which employees focus on all marketing functions. Performance
+[ 81] evaluation is a formal assessment by the supervisor of a worker's job performance that lets the worker
+[ 81] know how s/he is doing on the job. A sales report is a comprehensive record of sales activities over a
+[ 81] period of time.
+[ 81] SOURCE: FI:661
+[ 81] SOURCE: Bragg, S. (2018, December 21). Variance analysis. Retrieved January 13, 2020, from
+[135] https://www.accountingtools.com/articles/what-is-variance-analysis.html
+[ 61] 53. B
+[ 81] Management; consider a business's total cost of production. Cost accounting is a form of managerial
+[ 81] accounting, which provides financial information to leadership that makes business decisions. It does not
+[ 81] typically provide information to external parties, such as stakeholders. Cost accounting considers a
+[ 81] company's cost of production, which can include labor, materials, overhead, etc. It does not include
+[ 81] advertising costs.
+[ 81] SOURCE: FI:662
+[ 81] SOURCE: Tuovila, A. (2019, September 30.) Cost accounting. Retrieved January 14, 2020, from
+[135] https://www.investopedia.com/terms/c/cost-accounting.asp
+[ 61] 54. C
+[ 81] Audience. While financial accounting provides financial information to audiences outside of an
+[ 81] organization, managerial accounting provides financial information to company leadership that makes
+[ 81] business decisions. While it is possible that the scope, arrangement, and quality of provided information
+[ 81] may differ between a financial accountant and a managerial accountant, none are the distinguishing
+[ 81] factor between the two types of accounting.
+[ 81] SOURCE: FI:657
+[ 81] SOURCE: Tuovila, A. (2019, October 6). Managerial accounting. Retrieved January 10, 2020, from
+[135] https://www.investopedia.com/terms/m/managerialaccounting.asp
+
+===== PAGE 24 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 22
+[ 61] 55. B
+[ 81] Cost allocation. Cost allocation involves splitting up and assigning cost to smaller entities within a
+[ 81] business. These smaller entities vary based on the goals and needs of an organization, but they can be
+[ 81] split up by headcount, space, labor hours, usage, etc. In this scenario, Tess's business is allocating
+[ 81] insurance costs by headcount. Because the department is made of 10% of the company's employees, it
+[ 81] pays 10% of the costs. Cost estimate is a ballpark figure (or guess) of how much will be spent on a given
+[ 81] activity. Cost per contact is the total cost per interaction with a member of a target audience. Cost-
+[ 81] effective means economical—good value in relation to the price or cost.
+[ 81] SOURCE: FI:663
+[ 81] SOURCE: Accounting Tools. (2019, May 4). Cost allocation. Retrieved January 14, 2020, from
+[135] https://www.accountingtools.com/articles/what-is-cost-allocation.html
+[ 61] 56. B
+[ 81] Well planned. Money is a limited resource. Therefore, when developing a budget, a business must plan
+[ 81] how best to support each department and budget category in accomplishing the company's overall goals.
+[ 81] This planning process is based on the manager's knowledge, on past budgets, and on external factors,
+[ 81] such as economic trends and the level of competition. Instead of rigid, secret, and aggressive, budgets
+[ 81] should be flexible, clearly communicated, and realistic.
+[ 81] SOURCE: FI:106
+[ 81] SOURCE: LAP-FI-106—Money Tracks (Nature of Budgets)
+[ 61] 57. B
+[ 81] Present value and interest rate. The formula for calculating the future value of money is Future Value =
+[ 81] Present Value X (1 + Interest Rate). In order to determine the future value of money, you must know the
+[ 81] present value and interest rate. Par value refers to the value of a bond. Exchange rate is the value at
+[ 81] which one currency can be converted to another.
+[ 81] SOURCE: FI:238
+[ 81] SOURCE: Chen, J. (2019, September 25). Time value of money (TVM). Retrieved January 10, 2020,
+[135] from https://www.investopedia.com/terms/t/timevalueofmoney.asp
+[ 61] 58. A
+[ 81] Now. The time value of money explains the idea that money available now is worth more than the
+[ 81] identical amount in the future because of its earning potential. If Ajay accepts the money now, it has the
+[ 81] potential to earn interest over time. If he accepts the money at any later point (six months, one year, five
+[ 81] years, etc.), then Ajay is missing out on the earning potential of the original $100.
+[ 81] SOURCE: FI:238
+[ 81] SOURCE: Chen, J. (2019, September 25). Time value of money (TVM). Retrieved January 10, 2020,
+[135] from https://www.investopedia.com/terms/t/timevalueofmoney.asp
+[ 61] 59. D
+[ 81] Profitability; investors. One of the many reasons to maintain accurate financial information is to
+[ 81] demonstrate a business's profitability to potential investors. Investors want to see accurate information
+[ 81] and some assurance of profitability before choosing to help finance the company. Financial records are
+[ 81] unlikely to demonstrate product benefits or specifications to anyone. Tax collectors may be interested to
+[ 81] see financial records, but they are unlikely to be interested in anything involving incentives.
+[ 81] SOURCE: FM:002
+[ 81] SOURCE: Jefferson, L. (2017, August 2). Are you maintaining accurate records? Retrieved January 8,
+[135] 2020, from https://strategiccfo.com/are-you-maintaining-accurate-records/
+
+===== PAGE 25 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 23
+[ 61] 60. B
+[ 81] Many financial data are stored in custom, task-specific software and are not easily accessible. Financial-
+[ 81] information management involves accessing, processing, maintaining, evaluating, and disseminating
+[ 81] financial data to assist in business decision-making, as well as supporting budgeting activities and storing
+[ 81] and protecting customer financial information. Challenges for financial-information management include
+[ 81] inadequate information, multiple master sources of data, inaccuracies, inefficiencies, and disparate data
+[ 81] structures. Unfortunately, many companies house their financial data in custom, task-specific software,
+[ 81] making it difficult for others in the organization to access that data if they do not have that specialized
+[ 81] software. Financial managers may use Microsoft Office applications to prepare reports, but they don't
+[ 81] typically use such software for financial recordkeeping. Financial accountants, not managerial
+[ 81] accountants, prepare financial information for use by external stakeholders.
+[ 81] SOURCE: FM:002
+[ 81] SOURCE: Mancini, J. (2018, October 4). 5 startling stats about information management in the financial
+[135] services industry. Retrieved February 3, 2020, from https://www.m-files.com/blog/5-startling-
+[135] stats-information-management-financial-services-industry/
+[ 61] 61. B
+[ 81] Stock price instability. When a company is accused of unethical accounting practices, investors and
+[ 81] shareholders often sell their stock in the company to avoid losing their investment. The resulting rapid
+[ 81] drop in stock prices can lead to further instability as more investors begin to sell their shares. Employee
+[ 81] loyalty and public faith in the company are likely to drop in event of such an accusation. Shareholders are
+[ 81] not incentivized by bad accounting practices, but rather by accurate reporting of profitability.
+[ 81] SOURCE: FM:003
+[ 81] SOURCE: Carty, S. (2020). What are the advantages of financial accounting ethics? Retrieved January
+[135] 8, 2020, from https://smallbusiness.chron.com/advantages-financial-accounting-ethics-
+[135] 32960.html
+[ 61] 62. C
+[ 81] Calculations can be completed more quickly and efficiently. Technology has improved financial-
+[ 81] information management in a number of ways. An important benefit resulting from this technology is
+[ 81] faster, more efficient calculations. Although there are added security features of modern-day information
+[ 81] management systems, the security of financial information is still very important. Even cloud-based
+[ 81] financial management systems are subject to the possibility of hacking. In some ways, the movement of
+[ 81] financial information to cloud-based management systems has opened up new possibilities for security
+[ 81] breaches. Calculating, comparing, and transferring information have all been greatly improved by recent
+[ 81] technological advances in the field of financial-information management. Data does not typically flow
+[ 81] from information management systems to point-of-sale systems; the flow of data is usually from point-of-
+[ 81] sale systems to information management systems.
+[ 81] SOURCE: FM:011
+[ 81] SOURCE: Dlabay, L., Burrow, J.L., & Kleindl, B. (2019). Principles of business (9th ed.) [Lesson 12.2].
+[135] Boston, MA: Cengage Learning, Inc.
+[ 61] 63. B
+[ 81] Total revenues, total costs, and profits. The basic budgeting equation is Total Revenues - Total Costs =
+[ 81] Profit. The total costs identified in this equation include all costs and expenses. Total revenues include all
+[ 81] sales revenues from all sources. Profit is the difference between the two. Fixed, variable, and semi-
+[ 81] variable costs are the three main types of costs that combine to make total costs. Inventory is not a basic
+[ 81] component in budgeting, although aspects involving inventory do appear in a budget. Fixed assets and
+[ 81] investments are important aspects of accounting and therefore do impact budgets, but they are not
+[ 81] among the basic components of a business budget.
+[ 81] SOURCE: FM:013
+[ 81] SOURCE: Inc.com Encyclopedia. (n.d.) How to start a business budget. Retrieved January 8, 2020,
+[135] from https://www.inc.com/encyclopedia/businessbudget.html
+
+===== PAGE 26 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 24
+[ 61] 64. B
+[ 81] Horizontal analysis. Horizontal analyses compare the information from a single company's income
+[ 81] statements over multiple years. This allows analysts to determine trends and make forecasts for future
+[ 81] performance. Vertical analyses are used in comparing companies within the same industry, even
+[ 81] companies of vastly different sizes. This is because a vertical analysis of an income statement results in
+[ 81] the calculation of multiple ratios, which are more easily compared across multiple companies of different
+[ 81] sizes than are dollars. Leverage analyses are effective at determining company performance by resulting
+[ 81] in a debt-to-equity ratio. These are typically performed with income statement information for a single
+[ 81] year. Liquidity analyses are performed with information from a company's balance sheet to determine if a
+[ 81] company is able to meet its short-term debts.
+[ 81] SOURCE: FM:014
+[ 81] SOURCE: Corporate Finance Institute. (2020). Types of financial analysis. Retrieved January 8, 2020,
+[135] from https://corporatefinanceinstitute.com/resources/knowledge/finance/types-of-financial-
+[135] analysis/
+[ 61] 65. B
+[ 81] To assess the level of risk involved in investing in the company. The debt-to-equity (D/E) ratio measures
+[ 81] the degree to which a company has financed its activities through debt as opposed to using shareholder
+[ 81] equity in the company. Typically, a high D/E ratio suggests that the company is a higher risk for investors
+[ 81] because a lot of the financing has been done through borrowing. The D/E ratio is a particularly poor
+[ 81] metric for evaluating companies in different industries as standard D/E ratios differ by industry. Other
+[ 81] metrics are also better for comparing current and past performance, such as horizontal analyses. The
+[ 81] ability of a company to hire more employees could not be determined from its D/E ratio.
+[ 81] SOURCE: FM:014
+[ 81] SOURCE: Hayes, A. (2019, June 13). Debt-to-equity ratio - d/e. Retrieved January 9, 2020, from
+[135] https://www.investopedia.com/terms/d/debtequityratio.asp
+[ 61] 66. B
+[ 81] Liability. Unlike traditional accounting, in which inventory is considered an asset, lean accounting treats
+[ 81] inventory as a liability because having an inventory requires labor, storage, and other expenses.
+[ 81] Inventory is viewed as an asset in traditional accounting methods because it is a value owned and not
+[ 81] owed. Inventory cannot be considered a revenue until it is sold and ceases to be inventory. Equity refers
+[ 81] to the amount of value that a shareholder has invested in a business.
+[ 81] SOURCE: FM:016
+[ 81] SOURCE: Antony, D. (2020). Benefits of lean accounting in a lean manufacturing company. Retrieved
+[135] January 9, 2020, from https://smallbusiness.chron.com/benefits-lean-accounting-lean-
+[135] manufacturing-company-4924.html
+[ 61] 67. A
+[ 81] Determine whether a customer is worthy of purchasing on trade credit. Many business-to-business
+[ 81] transactions are financed using trade credit, which simplifies the sales process. However, not all
+[ 81] companies are able to repay their creditors for the products they purchase on credit. Before offering
+[ 81] another business the opportunity to purchase on credit, it is important to do the research necessary to
+[ 81] ensure that the company is likely to be able to pay. One strategy for helping to make this judgement is to
+[ 81] collect references. Also, as is the case with individuals, companies have credit scores which indicate their
+[ 81] level of creditworthiness. Finally, financial ratios can give some insight into whether the company's
+[ 81] finances are strong enough that it will be in a position to pay its debts. While many of these methods are
+[ 81] used by potential investors to determine if a company is worth the investment, they are not as useful in
+[ 81] determining which investors a company should turn to. Financial managers calculate financial ratios to
+[ 81] help them make decisions about their own companies, but they are not likely to contact references or
+[ 81] obtain their own credit score in order to do so.
+[ 81] SOURCE: FM:009
+[ 81] SOURCE: Fowler, S. (2017, September 26). How to analyze customer credit worthiness. Retrieved
+[135] January 9, 2020, from https://bizfluent.com/how-8543910-analyze-customer-credit-
+[135] worthiness.html
+
+===== PAGE 27 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 25
+[ 61] 68. B
+[ 81] Has the resources to pay its short-term debts. Liquidity ratios measure a company's ability to turn its
+[ 81] short-term assets into enough cash to cover its short-term liabilities (amounts the company owes in the
+[ 81] short term). Companies with low liquidity ratios are likely to encounter problems paying short-term debts
+[ 81] like purchases made on credit. Profitability ratios help evaluate the company's ability to control its
+[ 81] expenses to the point where profit can be generated. Long-term success and the likely return on
+[ 81] investment can be assessed through a variety of methods, but neither necessarily involve liquidity ratios.
+[ 81] SOURCE: FM:009
+[ 81] SOURCE: Avenir, R. (2020). The effects of liquidity ratios. Retrieved January 9, 2020, from
+[135] https://smallbusiness.chron.com/effects-liquidity-ratios-57308.html
+[ 61] 69. C
+[ 81] Improve customer satisfaction. When a company improves its response time to customer complaints, it
+[ 81] also improves customer satisfaction. Responding to customer complaints does not help a company
+[ 81] develop new goods and services or achieve stability. Companies desiring to improve profitability typically
+[ 81] focus on increasing sales, reducing costs, and improving efficiency.
+[ 81] SOURCE: MK:015
+[ 81] SOURCE: LAP-MK-015—Act Now! (Employee Actions and Company Goals)
+[ 61] 70. D
+[ 81] Detect the possibility of fraud. Benford's Law explores the distribution of digits in a large, randomly
+[ 81] generated set of natural numbers. In this data set, the most frequent leading digit is 1, followed by 2, 3, 4,
+[ 81] etc., exponentially decreasing until the least frequent leading digit, 9. When applied to data analytics and
+[ 81] financial statements, this law helps identify possible deviations from this pattern, which could indicate
+[ 81] fraudulently manufactured numbers. Benford's Law does not directly find opportunities for profit, identify
+[ 81] personnel issues, or estimate business viability.
+[ 81] SOURCE: NF:124
+[ 81] SOURCE: Sarkar, T. (2018, October 25). What is Benford's Law and why is it important for data
+[135] science? Retrieved January 14, 2020, from https://towardsdatascience.com/what-is-
+[135] benfords-law-and-why-is-it-important-for-data-science-312cb8b61048
+[ 61] 71. C
+[ 81] Prescriptive analytics recommend specific courses of action. Descriptive analytics use existing data to
+[ 81] provide descriptions of the past. Predictive analytics, on the other hand, use existing, past data to predict
+[ 81] a variety of possible futures. These descriptions of possible futures, however, cannot themselves arrive
+[ 81] at a recommended decision. Since data analytics in business are often utilized to aid in decision-making,
+[ 81] predictive analytics have limits in their applicability to decision-making. Where predictive analytics offer a
+[ 81] forecast for the future, they do not recommend a specific course of action. Instead, predictive analytics
+[ 81] can be combined with a rule or set of constraints to become prescriptive analytics, which take predictive
+[ 81] analytics a step further by providing the rule and set of constraints. In this way, they limit the number of
+[ 81] “possible futures” down to those that are most likely to result in the preferred outcomes. In this way,
+[ 81] prescriptive analytics aid in decision-making by suggesting which decision is likely to be best.
+[ 81] SOURCE: NF:139
+[ 81] SOURCE: Camm, J.D., Cochran, J.J., Fry, M.J., Ohlmann, J.W., Anderson, D.R., Sweeney, D.J., &
+[135] Williams, T.A. (2019). Business analytics (3rd ed.) [Lesson 1.3]. Boston, MA: Cengage
+[135] Learning, Inc.
+
+===== PAGE 28 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 26
+[ 61] 72. D
+[ 81] Cluster analysis. Cluster analysis is intended to group data points into groups or clusters. The goal here
+[ 81] is to allow observable data to naturally collect into groups that are largely homogenous, share a set of
+[ 81] characteristics, and are unlike the data in other groups or clusters. These clusters, when used to sort
+[ 81] consumers, create market segments that can be targeted with marketing. Market basket analysis focuses
+[ 81] on establishing links between data points that tend to occur together. This is often used in determining
+[ 81] which items tend to be purchased (placed in a “market basket” together). Prediction analyses, such as
+[ 81] regression analysis, involves using independent or predictor variables to anticipate a response of
+[ 81] dependent variable. Forecasting analysis seeks to make predictions about specific time periods based on
+[ 81] historical observations and other considerations.
+[ 81] SOURCE: NF:148
+[ 81] SOURCE: Camm, J.D., Cochran, J.J., Fry, M.J., Ohlmann, J.W., Anderson, D.R., Sweeney, D.J., &
+[135] Williams, T.A. (2019). Business analytics (3rd ed.) [Lesson 4.1]. Boston, MA: Cengage
+[135] Learning, Inc.
+[ 61] 73. A
+[ 81] Tax records. For tax purposes, businesses must record everything they pay their employees and the
+[ 81] deductions that are made, including withholdings. Companies also keep track of their assets such as
+[ 81] furniture and equipment. These asset records allow companies to track the depreciation of their assets
+[ 81] for accounting purposes. Customer records include clients' names, addresses, contact information, and
+[ 81] possibly information about purchases made by the customer. Legal records include items such as
+[ 81] contracts and agreements, intellectual property records, and work orders.
+[ 81] SOURCE: NF:001
+[ 81] SOURCE: LAP-NF-001—Record It (Business Records)
+[ 61] 74. D
+[ 81] Government. Governments can have an important impact on any organization. One of the ways they can
+[ 81] do so is through regulation. For example, a company that is considering whether to buy or construct a
+[ 81] new building would need to consider zoning regulations. Likewise, a company that is involved in
+[ 81] manufacturing might be required to adhere to regulations involving emissions or product safety. A
+[ 81] business's competitors would also need to adhere to regulations. Technology may involve regulations,
+[ 81] but these factors are unlikely to affect the ways in which technology is handled in an environmental scan.
+[ 81] Demographics would not involve regulations.
+[ 81] SOURCE: NF:015
+[ 81] SOURCE: LAP-NF-015—Get the 4-1-1 (Conducting an Environmental Scan)
+[ 61] 75. B
+[ 81] Inventory control. Inventory control involves tracking the amount, kind, and value of the items that a
+[ 81] business possesses. This involves maximizing the amount of inventory to the point where there is no risk
+[ 81] of stockout costs (costs associated with running out of inventory) while limiting holding costs (the costs
+[ 81] associated with keeping inventory in stock) to a minimum. Quality control involves ensuring that a product
+[ 81] meets a degree of excellence. Scheduling involves establishing a timeline to be followed in the
+[ 81] production of a product. Logistics involves managing the flow of products from production to
+[ 81] consumption.
+[ 81] SOURCE: OP:189
+[ 81] SOURCE: LAP-OP-189—Smooth Operations (Nature of Operations)
+[ 61] 76. C
+[ 81] Integrity. Data integrity involves the wholeness or completeness of data and information. A breach of data
+[ 81] integrity is sometimes referred to as data corruption. Corruption may be the result of an attack, but it may
+[ 81] also occur at various points during the entering, storing, or transmitting of information. Data confidentiality
+[ 81] is threatened when unauthorized users gain access to the data. Confidentiality is related to data privacy,
+[ 81] although data privacy also involves the intended use of specific types of data. Data availability refers to
+[ 81] the usability or the delivery format of data.
+[ 81] SOURCE: OP:064
+[ 81] SOURCE: Whitman, M.S., & Mattord, H.J. (2019). Management of information Security (6th ed.)
+[135] [Lesson 1-1b]. Boston, MA: Cengage Learning, Inc.
+
+===== PAGE 29 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 27
+[ 61] 77. C
+[ 81] Pooled. Pooled interdependence is the lowest form of interdependence in which departments operate
+[ 81] with little to no interaction. Departments in this organizational structure may impact each other's
+[ 81] operations at the highest level of organizational budget, success, or failure but do not generally interact
+[ 81] beyond that. Sequential interdependence refers to an organizational structure in which one department
+[ 81] relies on the work completed by another department. One way to think of this type of interdependence is
+[ 81] as though departments perform tasks in an assembly-line relationship in which the output from one
+[ 81] department becomes the input for the next. Reciprocal interdependence is the most complex form of
+[ 81] interdependence. Reciprocal interdependence occurs when tasks flow both ways between departments.
+[ 81] Information that is taken in by one department is processed and shared with others, which is in turn
+[ 81] processed and shared back. Each department's functioning depends on the functioning of the others.
+[ 81] Mutual interdependence is not a major form of organizational interdependence.
+[ 81] SOURCE: OP:196
+[ 81] SOURCE: Griffin, R.W. (2018). Fundamentals of management (8th ed.) [Lesson 6-1e]. Boston, MA:
+[135] Cengage Learning, Inc.
+[ 61] 78. C
+[ 81] Erin spent an hour selecting fonts when she should have been practicing her speech. Monitoring a
+[ 81] project's scope is important because it helps you stay on task and do the work you are supposed to be
+[ 81] doing, rather than getting distracted by unimportant tasks. Erin needs to monitor the scope of her project
+[ 81] because she is spending too much time on a task that she did not need to do. Zander is monitoring
+[ 81] budget. Mateo is monitoring people. Finally, Bethany is monitoring schedule.
+[ 81] SOURCE: OP:520
+[ 81] SOURCE: LAP-OP-520—Check Your (Project) Pulse (Monitoring Projects and Taking Corrective
+[135] Actions)
+[ 61] 79. C
+[ 81] Fixed; semi-variable. Fixed costs do not increase or decrease based on changes in production. Variable
+[ 81] costs fluctuate based on changes in production. Semi-variable costs are those in which part of the cost
+[ 81] does not change and part of the cost does. If a company pays it workers a set wage and its employees
+[ 81] work a set 40-hour work week, then those wages are fixed costs. If, however, workers are asked to work
+[ 81] overtime, their regular wage remains the same. However, the amount of overtime paid to the employees
+[ 81] will change based on the amount of overtime hours worked. The combination of a fixed cost with a
+[ 81] variable cost is called a semi-variable cost. Semi-fixed cost is another name for semi-variable cost.
+[ 81] SOURCE: OP:024
+[ 81] SOURCE: LAP-OP-009—Watch Your (Over) Head (Overhead/Operating Costs)
+[ 61] 80. C
+[ 81] Employees. Employees are ultimately responsible for making sure that they maintain an appropriate
+[ 81] work-life balance. While there is no perfect balance, this might include setting boundaries, unplugging
+[ 81] from company technology at predetermined times, and taking breaks as needed. While employers can
+[ 81] help with work-life balance, they are not responsible for ensuring employees maintain this balance.
+[ 81] Coworkers and customers do not have control over the work-life balance that employees maintain.
+[ 81] SOURCE: PD:179
+[ 81] SOURCE: Schooley, S. (2019, June 19). 8 ways to improve your work-life balance today. Retrieved
+[135] January 14, 2020, from https://www.businessnewsdaily.com/5244-improve-work-life-balance-
+[135] today.html
+[ 61] 81. B
+[ 81] Innovation. Innovation is the development of something new, such as a new product, method, strategy, or
+[ 81] process. Innovation can also involve an improvement of something that already exists. Adding
+[ 81] automation to an assembly line is an example of innovation because the automation is likely to improve
+[ 81] the efficiency of the assembly line process. An invention involves creating something entirely new that did
+[ 81] not exist prior to the invention. Creativity, which can be a part of developing innovative ideas, is the ability
+[ 81] to generate unique ideas, approaches, and solutions. People with problem-solving skills are often able to
+[ 81] innovate and find solutions to obstacles in their path.
+[ 81] SOURCE: PD:126
+[ 81] SOURCE: LAP-PD-126—Ideas in Action (Innovation Skills)
+
+===== PAGE 30 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 28
+[ 61] 82. B
+[ 81] Business information management. An employee making sure that business initiatives and computer/IT
+[ 81] processes work smoothly together is working in the area of business information management. Business
+[ 81] information management is an umbrella term covering those careers that provide a bridge between
+[ 81] business processes/initiatives and IT (information technology). Employees in this area help align
+[ 81] business and IT goals. Employees working in accounting collect, analyze, organize, and report
+[ 81] accounting information. Employees working in operations management focus on planning, organizing,
+[ 81] coordinating, and controlling the resources needed to produce/provide a business's goods and/or
+[ 81] services. Employees working in securities and investments typically work in brokerage firms, investment
+[ 81] banks, and stock exchanges to support the flow of funds from investors to companies and institutions.
+[ 81] SOURCE: PD:025
+[ 81] SOURCE: LAP-PD-025—Go for It! (Careers in Business)
+[ 61] 83. C
+[ 81] Accountant. An accountant records, classifies, summarizes, analyzes, and communicates a business's
+[ 81] financial information and business transactions for use in decision-making. A bank manager runs and
+[ 81] operates a bank, while a compliance analyst may analyze financial records to make sure they are in
+[ 81] accordance with legal requirements. A compliance analyst would not necessarily prepare financial
+[ 81] records. An insurance agent sells insurance and does not typically prepare and examine financial
+[ 81] records.
+[ 81] SOURCE: PD:152
+[ 81] SOURCE: LAP-PD-020—Career Opportunities in Finance
+[ 61] 84. C
+[ 81] Financial analyst. Careers in corporate finance such as financial analysts, cash managers, and capital
+[ 81] expenditure managers typically focus on finding money for a company and then making sure that the
+[ 81] money is managed correctly. This involves the implementation of capital structure, budgeting and
+[ 81] financial planning, acquisition and investment, funding, dividends, and taxation policies and decisions. A
+[ 81] mutual fund manager oversees a bundle of funds and is responsible for investing those funds to
+[ 81] maximum profit for investors. An insurance agent is someone who sells insurance that transfers risk from
+[ 81] an individual or business to an insurance company. A financial accountant records, classifies,
+[ 81] summarizes, and communicates a business's financial information to external stakeholders.
+[ 81] SOURCE: PD:152
+[ 81] SOURCE: LAP-PD-020—Career Opportunities in Finance
+[ 61] 85. B
+[ 81] Good corporate governance. Corporate governance is the combined set of rules, practices, and
+[ 81] processes by which an organization is managed. Benefits of effective corporate governance include
+[ 81] fewer incidents of misconduct, smoother day-to-day operations, and better relationships with
+[ 81] stakeholders. This example demonstrates how adherence to corporate governance policies can benefit
+[ 81] an organization. Ethics training, public relations initiatives, and SMART goals can also benefit
+[ 81] companies, but they are not demonstrated in this example.
+[ 81] SOURCE: PD:213
+[ 81] SOURCE: Chen, J. (2019, April 18). Corporate governance definition. Retrieved January 23, 2020, from
+[135] https://www.investopedia.com/terms/c/corporategovernance.asp
+[ 61] 86. C
+[ 81] Satisfaction. Involving employees in business decisions often leads to increased job satisfaction and
+[ 81] investment in the company, as employees see that their ideas are heard and valued. While not all
+[ 81] decisions require employee consultation, it is often to the benefit of the company that it take advantage of
+[ 81] employee involvement. It is less likely or not likely at all that employee involvement would lead to
+[ 81] employee burnout, sales, or relocation.
+[ 81] SOURCE: PD:301
+[ 81] SOURCE: Heathfield, S.M. (2019, July 26). What does employee involvement actually look like?
+[135] Retrieved January 14, 2020, from https://www.thebalancecareers.com/employee-
+[135] involvement-1918100
+
+===== PAGE 31 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 29
+[ 61] 87. A
+[ 81] Transparency. When a business is transparent, it means it maintains open and truthful communications.
+[ 81] If a business is transparent about company goals, values, and strategies, employees are better able to
+[ 81] understand their roles within the greater organization. The public also views the organization more
+[ 81] positively, because secretive businesses are sometimes viewed with suspicion or skepticism. Efficiency,
+[ 81] flexibility, and anonymity neither help employees better understand their roles nor encourage positive
+[ 81] public impression.
+[ 81] SOURCE: PD:214
+[ 81] SOURCE: Mack, S. (2019, March 8). Seven characteristics of good corporate governance. Retrieved
+[135] January 15, 2020, from https://smallbusiness.chron.com/seven-characteristics-good-
+[135] corporate-governance-57207.html
+[ 61] 88. A
+[ 81] Regulations. Governance reports detail activities completed and efforts taken by companies to make sure
+[ 81] their business operations are compliant with regulations. If regulations change, then governance reports
+[ 81] help business document any necessary changes and their response to these changes. While personnel,
+[ 81] the economy, and technology can and do change frequently, they are not related to governance reports
+[ 81] and compliance with business regulations.
+[ 81] SOURCE: PD:214
+[ 81] SOURCE: Price, N.J. (2019, January 19). How to improve governance reporting. Retrieved January 15,
+[135] 2020, from https://insights.diligent.com/entity-governance/how-to-improve-governance-
+[135] reporting
+[ 61] 89. C
+[ 81] Board of directors. Corporate governance includes the controls, policies, and guidelines needed to reach
+[ 81] organizational goals while meeting stakeholders' needs. While many people are affected by corporate
+[ 81] governance structures, the board of directors is the primary influence on corporate governance. The
+[ 81] board is selected by shareholders and has the responsibility of making important decisions for the
+[ 81] business. Shareholders, the chief financial officer (and most other executives), and the HR director do
+[ 81] not hold greater influence than the board on a company's corporate governance.
+[ 81] SOURCE: PD:302
+[ 81] SOURCE: Chen, J. (2019, April 18). Corporate governance definition. Retrieved January 14, 2020, from
+[135] https://www.investopedia.com/terms/c/corporategovernance.asp
+[ 61] 90. C
+[ 81] Limits to economic freedom. People in a private enterprise system are limited by their own choices.
+[ 81] Bailey has a finite amount of money to spend ($50), so she cannot purchase everything she wants. She
+[ 81] has to choose whether she wants jeans or concert tickets. This is not an example of competition in the
+[ 81] market place, governmental control, or private property.
+[ 81] SOURCE: EC:009
+[ 81] SOURCE: LAP-EC-015—People Power (The Private Enterprise System)
+[ 61] 91. C
+[ 81] To obtain professional development. Professional organizations and associations exist to help their
+[ 81] members succeed. They provide support to their members, help in networking efforts, create
+[ 81] opportunities to discuss best practices and job opportunities with others in the field, and hold professional
+[ 81] development events to help members grow their skills and knowledge. Professional organizations usually
+[ 81] require their members to pay membership dues. Financial advisors who are active in their professional
+[ 81] organizations may find that organizational duties take time that they could have used for their regular
+[ 81] work responsibilities. Finance professionals don't often join organizations to increase their work
+[ 81] responsibilities.
+[ 81] SOURCE: PD:153
+[ 81] SOURCE: Cussen, M. (2019, October 10). Four professional associations financial advisors should join.
+[135] Retrieved January 20, 2020, from https://www.investopedia.com/articles/financial-
+[135] advisors/121515/4-professional-associations-advisors-should-join.asp
+
+===== PAGE 32 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 30
+[ 61] 92. B
+[ 81] Networking. Networking involves exchanging information with others for the purpose of professional or
+[ 81] business development or advancement. Problem solving involves finding solutions to obstacles or
+[ 81] problems. Advertising is any paid form of nonpersonal presentation of ideas, images, goods, or services.
+[ 81] Co-branding is a brand strategy that involves businesses joining forces for mutual benefit to increase
+[ 81] brand recognition, customer loyalty, and sales for both brands. There is no indication that Maria and
+[ 81] Laura demonstrated problem solving, advertising, or co-branding in the situation.
+[ 81] SOURCE: PD:153
+[ 81] SOURCE: McQuerrey L. (n.d.) Fundamentals of business networking. Retrieved January 20, 2020, from
+[135] https://smallbusiness.chron.com/fundamentals-business-networking-39401.html
+[ 61] 93. A
+[ 81] Code of conduct. A code of conduct is a set of rules and standards that govern the expected practices,
+[ 81] decisions, procedures, and systems within an organization. Codes of conduct typically address topics
+[ 81] such as conflicts of interest, harassment, discrimination, use of property, confidentiality, etc. An operating
+[ 81] statement, also known as an income statement, summarizes a business's income and expenses over a
+[ 81] period of time. An annual report is a document outlining the financial status of a business. A mission
+[ 81] statement is a brief summary of what a business owner wants a business to be doing.
+[ 81] SOURCE: PD:251
+[ 81] SOURCE: LAP-PD-251—Know the Code (Following Rules of Conduct)
+[ 61] 94. B
+[ 81] Give employees a way to voice concerns. Transparency includes maintaining honest and open
+[ 81] communications. It means that everyone is informed about what is going on and has a way to express
+[ 81] him/herself. One important aspect of transparency is giving everyone the opportunity to voice concerns
+[ 81] without the fear of consequences. This means that employees have a safe way to report ethical issues,
+[ 81] which reduces risk. Offering rewards based on job performance, carefully monitoring employees'
+[ 81] resource use, and guarding against digital security threats are not related to transparency.
+[ 81] SOURCE: RM:041
+[ 81] SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+[ 61] 95. A
+[ 81] Employee dissatisfaction. Managers have an ethical responsibility to make a workplace comfortable for
+[ 81] employees. As a result, even though the odor won't hurt his staff, Johnny has an obligation to mitigate or
+[ 81] eliminate the smell if it bothers employees. Dissatisfied employees can be the source of a number of
+[ 81] risks for an organization. Workers may choose to leave for another job, costing time and money in hiring
+[ 81] and training new employees. Current and former employees' actions and any information that they share
+[ 81] could also affect the company's reputation. Company bankruptcy is unlikely to occur as a direct result of
+[ 81] a minor workplace discomfort. Conflicts of interest among employees would not be directly related to
+[ 81] workplace discomfort. It is unclear what kind of company insurance would result from the issue of an
+[ 81] environmental odor.
+[ 81] SOURCE: RM:041
+[ 81] SOURCE: LAP-RM-041—Manage Risk the Right Way (Ethics in Risk Management)
+[ 61] 96. C
+[ 81] Cloud-based storage systems make confidential information vulnerable to a privacy breach. The move to
+[ 81] cost- and labor-saving cloud-based storage systems can mean a better solution for data storage but has
+[ 81] the potential to bring other risks and vulnerabilities into a risk management system. Even though cloud-
+[ 81] based systems are routinely updated with new security protections, there will always be the possibility of
+[ 81] a data breach. There is no system that is completely free of potential vulnerabilities. Even non-cloud
+[ 81] based systems will likely require contracting with a third-party IT company, which can also leave
+[ 81] confidential information vulnerable. The newest software in risk management not only increases the
+[ 81] speed at which information can be processed but also increases the efficiency and adaptability of risk
+[ 81] management systems.
+[ 81] SOURCE: RM:042
+[ 81] SOURCE: Fadlallah, H. (2018, November 7). How information technologies influenced risk
+[135] management. Retrieved January 13, 2020, from https://towardsdatascience.com/how-
+[135] information-technologies-influenced-risk-management-7eb3a38d253
+
+===== PAGE 33 (612x792) =====
+[ 60] 2020 HS ICDC  ||  [229] FINANCE CLUSTER EXAM—KEY  ||  [530] 31
+[ 61] 97. C
+[ 81] Captive. A captive insurance company is one that is wholly owned by a parent company and is a form of
+[ 81] self-insurance. The parent company is able to pay its premiums to its own captive insurer to protect the
+[ 81] company against particular forms of risk. There are a number of reasons that a company may form its
+[ 81] own captive insurer, many of which are focused on lowering the costs of risk management. Professional
+[ 81] liability insurance protects businesses against claims of negligence. While it may be covered by a captive
+[ 81] insurer, it is most often covered by a third-party insurer. Medical malpractice insurance is a form of
+[ 81] professional liability insurance. Compulsory insurance is a term for any type of insurance that is required
+[ 81] by law.
+[ 81] SOURCE: RM:043
+[ 81] SOURCE: Kagan, J. (2019, June 25). Captive insurance company. Retrieved January 13, 2020, from
+[135] https://www.investopedia.com/terms/c/captive-insurance-company.asp
+[ 61] 98. B
+[ 81] Separation. Separation involves spreading a company's important assets across multiple geographic
+[ 81] locations so an event at one location will not affect the operations at other locations. Avoidance involves
+[ 81] choosing not to do something that is considered risky. Loss prevention and loss reduction involve
+[ 81] accepting the risk and limiting the damage done by it.
+[ 81] SOURCE: RM:058
+[ 81] SOURCE: Kenton, W. (2019, August 12). Risk control. Retrieved January 9, 2020, from
+[135] https://www.investopedia.com/terms/r/risk-control.asp
+[ 61] 99. A
+[ 81] Enterprise risk management. Enterprise risk management is a business strategy that involves identifying,
+[ 81] assessing, and preparing for any potential dangers or hazards. Enterprise risk management also involves
+[ 81] making the company's plan of action available to stakeholders. In this example, Antonia is engaging in
+[ 81] enterprise risk management—not business objective planning, organizational goal setting, or preliminary
+[ 81] quality management.
+[ 81] SOURCE: RM:062
+[ 81] SOURCE: Kenton, W. (2019, July 2). Enterprise risk management (ERM). Retrieved January 23, 2020,
+[135] from https://www.investopedia.com/terms/e/enterprise-risk-management.asp
+[ 55] 100. D
+[ 81] Business failure. While many risks that business face are insurable—including property damage,
+[ 81] employee health, and customer injury—uninsurable risks also exist. Most reputational risks, regulatory
+[ 81] risks, trade secret risks, political risks, and pandemic risks are uninsurable, as is the risk of business
+[ 81] failure. There is no insurance available to protect your business against bankruptcy; however, there is
+[ 81] insurance available to cover financial losses (caused by customer injuries, product recalls, etc.) that
+[ 81] might lead to business failure and bankruptcy.
+[ 81] SOURCE: RM:062
+[ 81] SOURCE: Kagan J. (2018, January 17). Uninsurable risk. Retrieved January 10, 2020, from
+[135] https://www.investopedia.com/terms/u/uninsurable-risk.asp

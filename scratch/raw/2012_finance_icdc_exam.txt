@@ -1,0 +1,1709 @@
+
+===== PAGE 1 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 1
+[ 67] 1. A contract is unenforceable if it
+[ 99] A. violates a statute.  ||  [324] C. requires collateral.
+[ 99] B. is unilateral.  ||  [324] D. contains stipulations.
+[ 67] 2. Jack is a senior executive at the Farkle Corporation. He recently told his sister that Farkle is getting ready
+[ 81] to declare bankruptcy. However, Farkle doesn't plan to announce this news to its general shareholders
+[ 81] until next week. If Jack's sister sells her shares of Farkle before the public learns about the bankruptcy,
+[ 81] Jack and his sister could be prosecuted for
+[ 99] A. affinity fraud.  ||  [324] C. insider trading.
+[ 99] B. accounting fraud.  ||  [324] D. market capitalization.
+[ 67] 3. Chris purchased 500 shares of microcap HRR stock. Then, he posted false information about HRR on
+[ 81] several investment web sites to "hype up" the stock. After driving up the price of HRR stock, Chris quickly
+[ 81] sold all of his stock in the company and earned a large profit. The price of the stock then fell, leaving
+[ 81] HRR investors with worthless stock. What type of investment scam did Chris commit?
+[ 99] A. Pump and dump  ||  [324] C. Ponzi scheme
+[ 99] B. Pyramid scheme  ||  [324] D. Phishing
+[ 67] 4. Which of the following is commonly used to reduce an investor's capital gains tax burden:
+[ 99] A. Value stocks  ||  [324] C. Puttable bonds
+[ 99] B. Short-term investments  ||  [324] D. Capital losses
+[ 67] 5. In addition to ensuring that the company is adhering to all rules and regulations affecting business
+[ 81] operations, what else is a chief compliance officer often responsible for doing?
+[ 99] A. Evaluating the company's different channels of distribution
+[ 99] B. Investigating possible conflicts of interest within the company
+[ 99] C. Determining the company's point of diminishing returns
+[ 99] D. Preparing and submitting the company's financial statements
+[ 67] 6. To evaluate the effectiveness of their compliance programs, many businesses conduct
+[ 99] A. direct trading.  ||  [324] C. marketing research.
+[ 99] B. training sessions.  ||  [324] D. internal audits.
+[ 67] 7. What virtual-auditor reasoning technique is most likely to detect segregation of duties violations?
+[ 99] A. Incremental  ||  [324] C. Temporal
+[ 99] B. Symbolic  ||  [324] D. Cross-source
+[ 67] 8. To be most effective, continuous-inspection compliance technology should have access to transactional
+[ 81] information
+[ 99] A. liquidity ratios.  ||  [324] C. samples.
+[ 99] B. biweekly.  ||  [324] D. at its source.
+[ 67] 9. It is important for employees to apply written directions in the order they are presented to
+[ 99] A. prioritize daily tasks.  ||  [324] C. perform tasks properly.
+[ 99] B. correct mistakes.  ||  [324] D. formulate plans.
+[ 61] 10. After a presentation about safety, robbery, and theft issues in the community's business district, Jeff
+[ 81] asked the speaker, “Did you say that the crime rate in the area decreased by 10 percent or 15 percent
+[ 81] last year?” What type of question did Jeff ask?
+[ 99] A. An open-ended question to obtain the speaker's personal opinion about an issue
+[ 99] B. A relevant question to clarify information that the speaker had provided
+[ 99] C. A follow-up question that had little to do with the topic at hand
+[ 99] D. A reflective question that required the speaker to carefully word his/her response
+[ 61] 11. Which of the following visual aids is often used to clearly illustrate company's sales by region:
+[ 99] A. Geographical map  ||  [324] C. Flowchart
+[ 99] B. Organizational chart  ||  [324] D. Venn diagram
+[383] ®
+[145] Copyright © 2012 by MBA Research and Curriculum Center , Columbus, Ohio
+
+===== PAGE 2 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 2
+[ 61] 12. Luke is writing a complex report that will be submitted to the company's board of directors. He has
+[ 81] collected relevant information that he would like to provide to the audience—information that is not
+[ 81] necessary to include in the body of the report. In what section of the report should Luke include this
+[ 81] supplemental information?
+[ 99] A. Executive summary  ||  [324] C. Appendix
+[ 99] B. Bibliography  ||  [324] D. Table of contents
+[ 61] 13. During a staff meeting, Lindsay started to ask Tom a question while he was presenting his report. What
+[ 81] did Lindsay do wrong?
+[ 99] A. She strayed from the topic at hand.  ||  [324] C. She used distracting gestures.
+[ 99] B. She expressed an opinion.  ||  [324] D. She interrupted the speaker.
+[ 61] 14. When Mr. Schwarz's order did not arrive at the expected time, he called Karl, the salesperson with whom
+[ 81] he had placed his order. Karl apologized for the delay and told Mr. Schwarz that he would check into the
+[ 81] issue. After Karl talked with the transportation company, he immediately called Mr. Schwarz to let him
+[ 81] know where the order was and when to expect delivery. Mr. Schwarz thanked Karl for getting back with
+[ 81] him so quickly. In this situation, Karl reinforced the company's image by
+[ 99] A. giving vague answers.  ||  [324] C. delegating work tasks.
+[ 99] B. providing efficient follow-up.  ||  [324] D. complimenting the customer.
+[ 61] 15. The advantage to businesses that use mobile-application technology is that their salespeople can obtain
+[ 81] and send customer information from their
+[ 99] A. fax machines.  ||  [324] C. data banks.
+[ 99] B. autoresponders.  ||  [324] D. smartphones.
+[ 61] 16. Before recommending specific products or services to clients, what should a finance professional do?
+[ 99] A. Place a stop or buy order  ||  [324] C. Conduct a needs analysis
+[ 99] B. Develop a proxy statement  ||  [324] D. Conduct dollar cost averaging
+[ 61] 17. What is the most common reason for a client to leave or fire his/her financial advisor?
+[ 99] A. Poor investment return  ||  [324] C. High commission fees
+[ 99] B. Lack of communication  ||  [324] D. Location of the office
+[ 61] 18. What customer-relationship-management analytic would be most suitable for sorting clients based on
+[ 81] how likely they are to repurchase a particular product?
+[ 99] A. Profitability analysis  ||  [324] C. Event monitoring
+[ 99] B. Account personalization  ||  [324] D. Customer segmentation
+[ 61] 19. Kaleb is removing duplicate records from his company's customer-relationship-management system.
+[ 81] Kaleb is conducting
+[ 99] A. exploratory research.  ||  [324] C. technical analysis.
+[ 99] B. environmental scanning.  ||  [324] D. data cleansing.
+[ 61] 20. Jacob will not sell the oak desk that he made for anything less than $235. This is an example of the
+[ 81] ___________ price.
+[ 99] A. demand  ||  [324] C. equilibrium
+[ 99] B. supply  ||  [324] D. market
+[ 61] 21. Which of the following is an example of a business involved in offshoring activities:
+[ 99] A. BVC Corporation and Tyrone Industries combine their resources to open a new company in
+[117] Belgium.
+[ 99] B. DigiTech moves its production facility from Los Angeles, California to Jaipur, India to cut costs.
+[ 99] C. Canadian-based Randall Enterprises purchases an existing firm that is located in Venezuela.
+[ 99] D. A German-based company operates offices in several countries including Japan, South Africa,
+[117] and Australia.
+
+===== PAGE 3 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 3
+[ 61] 22. When the government requires businesses to pay their employees a minimum hourly wage for the tasks
+[ 81] they perform, it is
+[ 99] A. regulating workplace conditions.  ||  [324] C. conserving the environment.
+[ 99] B. protecting business property.  ||  [324] D. providing public welfare programs.
+[ 61] 23. Consumer spending is most likely to increase when
+[ 99] A. the government tightens the money supply.  ||  [324] C. businesses expand and hire additional staff.
+[ 99] B. manufacturers scale back their production.  ||  [324] D. unemployment rates begin to increase.
+[ 61] 24. Which of the following is a characteristic of a society that has a low tolerance of uncertainty:
+[ 99] A. Engages in high risk taking  ||  [324] C. Values individual accomplishments
+[ 99] B. Embraces differing opinions  ||  [324] D. Prefers rules and structure
+[ 61] 25. Assessing your personal strengths and weaknesses in an objective way involves
+[ 99] A. working to improve most of your weaknesses at one time.
+[ 99] B. basing a strength or weakness on one isolated incident.
+[ 99] C. comparing your attributes with others' skills and talents.
+[ 99] D. looking for behavior patterns that occur regularly over time.
+[ 61] 26. Lara arrived at work on Tuesday to cover Martin's shift, just as she had promised she would. In terms of
+[ 81] ethical work habits, Lara demonstrated that she is
+[ 99] A. productive.  ||  [324] C. reliable.
+[ 99] B. empathic.  ||  [324] D. resourceful.
+[ 61] 27. During a negotiation, Dexter said, “Debra, our companies need to reach agreement on the contract terms
+[ 81] by next Tuesday, or we will need to find another supplier. Our project is already three weeks behind.”
+[ 81] What negotiation tactic is Dexter using?
+[ 99] A. Deadline driven  ||  [324] C. Bargaining
+[ 99] B. Limited authority  ||  [324] D. Good cop/Bad cop
+[ 61] 28. Parker, Lily, Paula, and David are members of different departments who are working together from
+[ 81] March to December to develop an intranet application that affects all of their departments. This is an
+[ 81] example of a(n)
+[ 99] A. quality circle.  ||  [324] C. standing committee.
+[ 99] B. project team.  ||  [324] D. short-term committee.
+[ 61] 29. Melanie has convinced her supervisor that the department should implement a new computer program to
+[ 81] increase efficiency. Unfortunately, not everyone in the department is on board with the change, including
+[ 81] Rita. Rita thinks that she will not be able to learn the program quickly and will make a lot of mistakes.
+[ 81] Rita's resistance to Melanie's proposed change is based on
+[ 99] A. indifference.  ||  [324] C. jealously.
+[ 99] B. anger.  ||  [324] D. fear.
+[ 61] 30. Emily and Becca are team members at work. Emily is married, lives on a farm, and likes sewing and
+[ 81] doing puzzles. Becca is single, lives in the city, and enjoys snow skiing and running in marathons. The
+[ 81] coworkers' differences are based on
+[ 99] A. personality.  ||  [324] C. education.
+[ 99] B. age.  ||  [324] D. lifestyles.
+[ 61] 31. Under which of the following circumstances is a co-signer held legally responsible for paying the balance
+[ 81] owed on a bank loan:
+[ 99] A. The lender's interest rate increases.  ||  [324] C. The borrower's interest rate increases.
+[ 99] B. The lender defaults on the loan.  ||  [324] D. The borrower defaults on the loan.
+
+===== PAGE 4 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 4
+[ 61] 32. Brandon is developing a financial plan, and one of his goals is to save enough money to buy a new car in
+[ 81] two years. Has Brandon set a SMART goal?
+[ 99] A. Yes, his goal is attainable and specific.
+[ 99] B. No, his goal is not attainable or results-oriented.
+[ 99] C. Yes, his goal is time-bounded and measureable.
+[ 99] D. No, his goal is not specific or measurable.
+[ 61] 33. Cheryl invested $6,000 in the stock market. During year one, her $6,000 grew to $6,600. The year after
+[ 81] that, her $6,600 turned into $7,260. Cheryl's monetary gains are the result of
+[ 99] A. compounding.  ||  [324] C. diversifying.
+[ 99] B. phishing.  ||  [324] D. market timing.
+[ 61] 34. Exactly one year ago, Kim’s dad gave her a $10 bill. Kim saved the money “for a rainy day.” Now, her
+[ 81] $10 bill has less buying power than it did a year ago. What caused the decline in the value of Kim’s
+[ 81] money?
+[ 99] A. Unemployment  ||  [324] C. Globalization
+[ 99] B. Taxes  ||  [324] D. Inflation
+[ 61] 35. Incorrect information on an individual's credit report may hinder his/her ability to
+[ 99] A. withdraw money from a savings account.  ||  [324] C. pay monthly credit-card balances.
+[ 99] B. obtain a bank loan.  ||  [324] D. earn interest on stock holdings.
+[ 61] 36. As financial intermediaries, what is all financial institutions' primary responsibility?
+[ 99] A. Investing clients' money in mid-cap growth companies
+[ 99] B. Transferring money from those who have it to those who need it
+[ 99] C. Calculating the opportunity costs of clients' potential investments
+[ 99] D. Conducting fundamental and technical analyses to evaluate securities
+[ 61] 37. Deposit-taking institutions are commonly responsible for
+[ 99] A. using funds from insurance premiums to offer loans.
+[ 99] B. raising funds for clients by issuing securities.
+[ 99] C. carrying out regulatory and supervisory functions.
+[ 99] D. making payments on behalf of savers to creditors.
+[ 61] 38. The largest, most liquid financial market in the world is the __________ market.
+[ 99] A. debt  ||  [324] C. equity
+[ 99] B. foreign exchange  ||  [324] D. commodity
+[ 61] 39. Which of the following are common categories of commodities:
+[ 99] A. Energy, metals, and grains  ||  [324] C. Energy, grains, and consumer goods
+[ 99] B. Energy, metals, and consumer goods  ||  [324] D. Metals, grains, and consumer goods
+[ 61] 40. Which of the following statements regarding convergence and consolidation in the finance industry is
+[ 81] true:
+[ 99] A. Financial companies often enjoy higher earnings as a result of convergence and consolidation.
+[ 99] B. When multiple financial firms merge, they often end up with less capital to invest.
+[ 99] C. A desire for lower costs has slowed the pace of convergence and consolidation.
+[ 99] D. Technological advancements have increased the costs of offering new and different products.
+[ 61] 41. What do bond yields typically do during an economic expansion?
+[ 99] A. Gradually decrease  ||  [324] C. Drop to near zero
+[ 99] B. Increase  ||  [324] D. Remain unchanged
+[ 61] 42. An economic trend that typically precedes an upturn in commodity prices is the __________ for at least a
+[ 81] year.
+[ 99] A. stock market in decline  ||  [324] C. growth of the money supply declining
+[ 99] B. dollar increasing in value  ||  [324] D. yield curve leveling out
+
+===== PAGE 5 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 5
+[ 61] 43. Which of the following securities is commonly used to help reduce the impact of significant fluctuations in
+[ 81] exchange rates and commodities:
+[ 99] A. Derivatives  ||  [324] C. Bonds
+[ 99] B. Stocks  ||  [324] D. Real estate
+[ 61] 44. By investing their funds in several different countries, investors
+[ 99] A. reduce foreigners' access to domestic financial markets.
+[ 99] B. demonstrate their liberalization and home biases.
+[ 99] C. easily avoid integrated and emerging financial markets.
+[ 99] D. reduce their exposure to business cycle risks.
+[ 61] 45. Which part of a company's annual report is most valuable for potential investors to examine?
+[ 99] A. Listing of management/directors  ||  [324] C. Financial statements
+[ 99] B. Auditor's report  ||  [324] D. Letter to the shareholders
+[ 61] 46. Before deciding whether to purchase any Upside Corporation stock, Anna wants to study the company's
+[ 81] financials. What part of Upside's web site is likely to contain the company's most recent annual report?
+[ 99] A. Sustainability  ||  [324] C. Public Relations
+[ 99] B. Investor Relations  ||  [324] D. Leadership
+[ 61] 47. Which of the following components of a securities table indicates the last price paid when trading ended
+[ 81] for the day:
+[ 99] A. Volume  ||  [324] C. Close
+[ 99] B. Net change  ||  [324] D. Yield
+[ 61] 48. Which of the following are types of lending investments:
+[ 99] A. Money market accounts, certificates of deposit, and bonds
+[ 99] B. Bonds, certificate of deposits, and collectibles
+[ 99] C. Savings accounts, collectibles, and stocks
+[ 99] D. Certificates of deposit, stocks, and real estate
+[ 61] 49. Ethan has health insurance through his employer. Each time Ethan needs medical attention, he must
+[ 81] write a check in the amount of $25.00 to the doctor's office to cover his out-of-pocket expense. This out-
+[ 81] of-pocket expense is Ethan's
+[ 99] A. total premium.  ||  [324] C. surrender charge.
+[ 99] B. copayment.  ||  [324] D. waiver.
+[ 61] 50. Which of the following is the first step in a business's accounting cycle:
+[ 99] A. Collecting the source documents  ||  [324] C. Balancing the books
+[ 99] B. Journalizing transactions  ||  [324] D. Preparing financial statements
+[ 61] 51. Which of the following is a common cause of disparate data structures within many large corporations'
+[ 81] financial-information management systems?
+[ 99] A. Channels of distribution  ||  [324] C. Capital structure
+[ 99] B. Mergers and acquisitions  ||  [324] D. Accounting method
+[ 61] 52. In addition to collecting, maintaining, and reporting data about financial transactions, financial-information
+[ 81] management is also responsible for analyzing and reporting
+[ 99] A. recent third-party agreements.  ||  [324] C. dominant buying motives.
+[ 99] B. participative decision-making.  ||  [324] D. market and competitive indicators.
+[ 61] 53. Alexei determines who in his company is permitted to read data within the financial-information
+[ 81] management system. Alexei has assumed responsibility for the __________ stewardship of the
+[ 81] company's financial information.
+[ 99] A. access  ||  [324] C. environmental
+[ 99] B. definition  ||  [324] D. geospatial
+
+===== PAGE 6 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 6
+[ 61] 54. Which of the following can be used to trace a financial transaction from beginning to end to ensure that
+[ 81] the data are accurate and have not been altered:
+[ 99] A. Supply chain  ||  [324] C. Accounting standards
+[ 99] B. Separation of duties  ||  [324] D. Audit trail
+[ 61] 55. More consistent and up-to-date data, faster response to queries, and economies of scale are all benefits
+[ 81] of using a(n)
+[ 99] A. intrusion detection system.  ||  [324] C. central data repository.
+[ 99] B. encryption technology.  ||  [324] D. principle of least authority.
+[ 61] 56. What data mining application is used to identify anomalies in a data set?
+[ 99] A. Visualization  ||  [324] C. Prediction
+[ 99] B. Regression  ||  [324] D. Outlier detection
+[ 61] 57. Rule-induction data mining techniques are commonly used to
+[ 99] A. create a set of if-then permutations that can be used to predict future behavior.
+[ 99] B. modify an existing set of solutions to create a new, more useful solution.
+[ 99] C. present complex data in readily understandable graphs and charts.
+[ 99] D. conduct statistical exploratory research and identify the distribution of variables.
+[ 61] 58. Because she is running out of space, Carrie wants to transition her home business to a paperless office.
+[ 81] Given her situation, she should use a budgeting software program with __________ capabilities.
+[ 99] A. internal-control  ||  [324] C. scanning
+[ 99] B. forecasting  ||  [324] D. variance
+[ 61] 59. Xavier is inputting several data to his budgeting software application, including the predicted cost of
+[ 81] vehicle maintenance and the predicted revenue from a particular asset. Xavier is entering __________
+[ 81] into the budgeting software.
+[ 99] A. internal controls  ||  [324] C. expense data
+[ 99] B. marketing data  ||  [324] D. key assumptions
+[ 61] 60. Lawrence's manager asked him to prepare a visual representation of key performance indicators,
+[ 81] including cash flow, liquidity, profitability, and liability. Lawrence should use his company's analytic
+[ 81] software to create a(n)
+[ 99] A. profit-and-loss statement.  ||  [324] C. cost standard.
+[ 99] B. financial scorecard.  ||  [324] D. operating agreement.
+[ 61] 61. Ginny set up two related tables in a database so that when an entry in the primary table is modified, the
+[ 81] database application automatically updates all matching entries in the related table. What type of
+[ 81] relationship did Ginny create?
+[ 99] A. Logical design  ||  [324] C. Object-oriented
+[ 99] B. Hyperlinked  ||  [324] D. Cascading upward
+[ 61] 62. Yvonne is running a query to create, delete, or modify other database objects. What type of query is
+[ 81] Yvonne running?
+[ 99] A. Pass-through  ||  [324] C. Crosstab
+[ 99] B. Select  ||  [324] D. Data-definition
+[ 61] 63. Investors and financial analysts are most likely to study a publicly-traded company's financial statements
+[ 81] to
+[ 99] A. measure the firm's competitiveness and performance.
+[ 99] B. identify new products that the firm plans to introduce next year.
+[ 99] C. determine the size and makeup of the firm's workforce.
+[ 99] D. assess the effectiveness of the firm's risk-management system.
+
+===== PAGE 7 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 7
+[ 61] 64. Which of the following individuals is an internal user of a business's financial data:
+[ 99] A. Tax collector  ||  [324] C. Creditor
+[ 99] B. Investor  ||  [324] D. Manager
+[ 61] 65. Which of the following statements about accounting and finance is true:
+[ 99] A. Accounting obtains business funds, and finance keeps business records.
+[ 99] B. Finance focuses on the past, while accounting focuses on the future.
+[ 99] C. Accounting focuses on the past, while finance focuses on the future.
+[ 99] D. The accounting business function is broader than the finance function.
+[ 61] 66. The emphases in accounting are on documenting and reporting financial data, while the emphasis in
+[ 81] finance is on
+[ 99] A. liquidity ratios.  ||  [324] C. closing the books.
+[ 99] B. bookkeeping.  ||  [324] D. decision making.
+[ 61] 67. What accounting method involves journalizing income and expenditures at the time they occur even if no
+[ 81] money changes hands at that time?
+[ 99] A. Cash  ||  [324] C. Tax
+[ 99] B. Accrual  ||  [324] D. Double entry
+[ 61] 68. What type of accounting involves preparing and reporting financial data to internal users who use the
+[ 81] data to plan, direct, and control business operations?
+[ 99] A. Tax  ||  [324] C. Cash
+[ 99] B. Financial  ||  [324] D. Cost
+[ 61] 69. Which of the following is often used to identify trends and patterns over time for a company:
+[ 99] A. Financial ratios  ||  [324] C. Opportunity cost
+[ 99] B. Bookkeeping  ||  [324] D. Market timing
+[ 61] 70. Stefania hopes to identify some meaningful trends by reviewing and comparing data on her small
+[ 81] business's financial statements for the last five years. Stefania is planning to conduct __________
+[ 81] analysis.
+[ 99] A. break-even  ||  [324] C. horizontal
+[ 99] B. vertical  ||  [324] D. competitive
+[ 61] 71. An automotive parts supplier must decide whether to extend a credit line to a new business customer.
+[ 81] Before approving or denying credit for the new customer, what should the supplier do?
+[ 99] A. Evaluate the qualifications and work histories of the customer's management team
+[ 99] B. Contact company shareholders and ask for permission to extend credit to the customer
+[ 99] C. Discuss the customer's request for credit with the supplier's financial accountants
+[ 99] D. Analyze the customer's credit application, credit report, bank information, and financial
+[117] statements
+[ 61] 72. Jack is studying the difference between the labor cost that his business budgeted for last quarter and the
+[ 81] actual amount that the business spent on labor during those three months. What type of analysis is Jack
+[ 81] conducting?
+[ 99] A. Variance  ||  [324] C. Fundamental
+[ 99] B. Break-even  ||  [324] D. Cash-flow
+[ 61] 73. The accounting treatment of capital expenditures should be __________ over multiple reporting periods.
+[ 99] A. consistent  ||  [324] C. hedged
+[ 99] B. flexible  ||  [324] D. callable
+
+===== PAGE 8 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 8
+[ 61] 74. A human-resources manager is working with the company's payroll-processing service to have a new
+[ 81] employee's paycheck directly deposited into the employee's checking account. What human-resources
+[ 81] activity is the manager carrying out?
+[ 99] A. Interviewing  ||  [324] C. Organizing
+[ 99] B. Recruiting  ||  [324] D. Onboarding
+[ 61] 75. Trevor is a small business owner who usually purchases his janitorial supplies from the store that is
+[ 81] located across the street from his office. In this situation, Trevor's buying behavior is most likely based on
+[ 99] A. brand insistence.  ||  [324] C. price.
+[ 99] B. convenience.  ||  [324] D. product dependability.
+[ 61] 76. The most efficient way to obtain the current interest rates on certificates of deposit purchased through
+[ 81] Main Street Community Bank is to
+[ 99] A. visit the bank's web site.  ||  [324] C. make an appointment with a bank teller.
+[ 99] B. call the bank's financial officer.  ||  [324] D. go to the bank to get product brochure.
+[ 61] 77. Stella has just finished designing the web page for her new business. Next, she needs to select a
+[ 81] ___________ and register the web site's ____________.
+[ 99] A. file link, ethernet  ||  [324] C. media permit, server
+[ 99] B. hyperlink, modem  ||  [324] D. web host, domain name
+[ 61] 78. Businesses may review invoices to evaluate their customers'
+[ 99] A. business plans.  ||  [324] C. storage needs.
+[ 99] B. purchasing habits.  ||  [324] D. selling policies.
+[ 61] 79. To remain competitive and reduce the risk of failure, a business should
+[ 99] A. monitor emerging trends.  ||  [324] C. appeal to all markets.
+[ 99] B. access competitors' records.  ||  [324] D. expand internationally.
+[ 61] 80. When a business has too much inventory on hand for an extended period of time, what type of business
+[ 81] cost increases?
+[ 99] A. Holding  ||  [324] C. Production
+[ 99] B. Maintenance  ||  [324] D. Stockout
+[ 61] 81. The FGH Company has received several warnings from a government agency to fix unsafe electrical
+[ 81] wiring throughout the company's facility. According to common law, the company has breached its duty
+[ 81] of
+[ 99] A. reasonable care.  ||  [324] C. general authority.
+[ 99] B. personal reform.  ||  [324] D. charitable trust.
+[ 61] 82. A business can protect its confidential computer information from unauthorized users by
+[ 99] A. developing Internet message boards.  ||  [324] C. conducting annual virus scans.
+[ 99] B. encrypting computer files.  ||  [324] D. classifying business data.
+[ 61] 83. Which of the following is a tool that is specifically designed to schedule and track their projects:
+[ 99] A. Venn diagram  ||  [324] C. Bubble chart
+[ 99] B. Pyramid diagram  ||  [324] D. Gantt chart
+[ 61] 84. Claire is responsible for maintaining an inventory of routine office supplies for a small business. To
+[ 81] determine the optimal level of inventory of each item to keep on hand, Claire should consider the
+[ 99] A. employees' individual preferences.  ||  [324] C. business's budgeting method.
+[ 99] B. average product usage amount per month.  ||  [324] D. vendors' daily sales promotions.
+[ 61] 85. What is a common activity that takes place during the “determining possible solutions” stage of the
+[ 81] problem-solving process?
+[ 99] A. Detecting issues  ||  [324] C. Brainstorming ideas
+[ 99] B. Collecting relevant data  ||  [324] D. Checking assumptions
+
+===== PAGE 9 (612x792) =====
+[ 60] 2012 HS ICDC  ||  [248] FINANCE CLUSTER EXAM  ||  [536] 9
+[ 61] 86. Margaret Holden is a wealthy woman who has financially supported other individuals' business ideas and
+[ 81] ventures. Now, Margaret is very interested in providing Marcus Williams with the financial support that he
+[ 81] needs to start his new business. Margaret is a(n) ____________ , and Marcus is a(n) ____________.
+[ 99] A. licensor, sponsor  ||  [324] C. manager, loan officer
+[ 99] B. franchisee, franchisor  ||  [324] D. angel investor, entrepreneur
+[ 61] 87. The reason to write a letter of application to submit with your résumé is to
+[ 99] A. list former employers who are willing to serve as references.
+[ 99] B. summarize why you are a good candidate for the job.
+[ 99] C. include critical information that was left out of the résumé.
+[ 99] D. indicate what days and times are available for an interview.
+[ 61] 88. Which of the following finance professionals typically oversees a company's cash management, capital
+[ 81] raising, and investment activities:
+[ 99] A. Treasurer  ||  [324] C. Cash manager
+[ 99] B. Risk manager  ||  [324] D. Underwriter
+[ 61] 89. Kyrie is licensed to buy and sell securities and offer financial advice to clients. She is most likely to find
+[ 81] employment with a(n)
+[ 99] A. insurance carrier.  ||  [324] C. brokerage house.
+[ 99] B. investment bank.  ||  [324] D. actuarial service.
+[ 61] 90. Who should be take continuing education classes to keep up with changes in tax regulations?
+[ 99] A. Gwen Colbert, Accounts Receivable Supervisor
+[ 99] B. Paul Stanton, Corporate Security Advisor
+[ 99] C. Martha Winters, Certified Public Accountant
+[ 99] D. Carlos Ramirez, Product Acquisition Manager
+[ 61] 91. Tosha prepares monthly financial reports for her company's senior executives, helps create company
+[ 81] budgets, reviews the company's tax returns, and analyzes the company's finances. Tosha is most likely
+[ 81] to be a
+[ 99] A. Certified Internal Auditor (CIA).  ||  [324] C. Certified Management Accountant (CMA).
+[ 99] B. Certified Public Accountant (CPA).  ||  [324] D. Certified Fraud Examiner (CFE).
+[ 61] 92. Hank would like to meet regularly in person with other financial planners in his geographic area to
+[ 81] discuss trends and issues impacting their profession. Which of the following professional organizations
+[ 81] would best meet Hank's needs:
+[ 99] A. National Association of Professional Financial Advisors
+[ 99] B. Federal Organization of Financial Planners
+[ 99] C. Local Society of Financial Planning Professionals
+[ 99] D. International Financial Planning Association
+[ 61] 93. A strong professional relationship is usually a(n) __________ relationship.
+[ 99] A. one-sided  ||  [324] C. majority-rule
+[ 99] B. reciprocal  ||  [324] D. easily maintained
+[ 61] 94. Which of the following is an ethical hazard in risk management:
+[ 99] A. Contracting with an insurer with a reputation of adequate claims reserving
+[ 99] B. Working with a public accounting firm that has a whistleblower mechanism
+[ 99] C. Understating loss experience and exposure to an insurance underwriter
+[ 99] D. Questioning a supplier's history of disobeying state and federal regulations
+[ 61] 95. Siobhan is utilizing risk-management technology to quantify the potential losses that her company would
+[ 81] incur if a tornado destroyed its largest manufacturing plant. What technique is Siobhan using to forecast
+[ 81] the likely losses?
+[ 99] A. Risk transference  ||  [324] C. Risk modeling
+[ 99] B. Cost-benefit analysis  ||  [324] D. Fundamental analysis
+
+===== PAGE 10 (612x792) =====
+[ 57] 2012 HS ICDC  ||  [246] FINANCE CLUSTER EXAM  ||  [533] 10
+[ 61] 96. What type of risk-management technology can track individual traders' risk limits and notify management
+[ 81] immediately if any trader exceeds her/his pre-set limit?
+[ 99] A. Data aggregation  ||  [324] C. Automated oversight
+[ 99] B. Stress testing  ||  [324] D. Corporate governance
+[ 61] 97. How does forming a captive insurance company typically impact a corporation's federal tax liability?
+[ 99] A. Eliminates the corporation's state tax liabilities
+[ 99] B. Increases tax due on the captive's loss reserves
+[ 99] C. Increases the corporation's sales tax liabilities
+[ 99] D. Reduces tax due on the captive's premiums
+[ 61] 98. Reggie recently learned that four consumers have injured themselves while using the 2X400 Chop It
+[ 81] Right blender, a kitchen appliance that his company sells. As a result, he is urging company
+[ 81] management to discontinue sales of the 2X400 Chop It Right. Reggie is attempting to limit the company's
+[ 81] __________ -liability exposure.
+[ 99] A. employment  ||  [324] C. product
+[ 99] B. employee  ||  [324] D. fiduciary
+[ 61] 99. Which of the following statements regarding internal control systems is true:
+[ 99] A. If a company has an internal control system, monitoring and reporting are unnecessary.
+[ 99] B. The purpose of an internal control system is to eliminate risk.
+[ 99] C. Many companies use internal control systems instead of risk management.
+[ 99] D. Internal controls are a component of enterprise risk management.
+[ 55] 100. What type of control is typically used to help company executives understand the impact of external risks
+[ 81] on the organization and its long-range plans?
+[ 99] A. Process  ||  [324] C. Strategic
+[ 99] B. Management  ||  [324] D. Variable
+
+===== PAGE 11 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 11
+[ 67] 1. A
+[ 81] Violates a statute. If the contract involves carrying out illegal activities, the contract is unenforceable
+[ 81] because it requires one or both parties to break laws. Unilateral contracts are contracts that involve
+[ 81] promises made by one party. Collateral is anything of value belonging to the borrower that is pledged to
+[ 81] the lender to guarantee that the loan (contract) will be repaid. A stipulation is a restriction or circumstance
+[ 81] that one party requires the other party to agree to. Unilateral contracts and contracts that require
+[ 81] collateral or other stipulations are legal if the contract meets all of the features of legal contracts
+[ 81] (agreement, consideration, capacity, genuineness of assent, and legality of purpose).
+[ 81] SOURCE: BL:002
+[ 81] SOURCE: McAdams, T., Neslund, N., & Neslund, K. (2007). Law, business, and society (8th ed.)
+[135] [pp. 210, 226]. Boston: McGraw-Hill/Irwin.
+[ 67] 2. C
+[ 81] Insider trading. If a corporate “insider” such as an owner, director, or high-level manager shares
+[ 81] confidential company information with someone who then buys or sells the company's stock as a result of
+[ 81] this knowledge, illegal insider trading occurs. Insider trading is not always illegal, though. Legal insider
+[ 81] trading takes place when corporate insiders buy or sell their own company's securities and report the
+[ 81] trades to the SEC. Accounting fraud occurs when a company or organization knowingly publishes
+[ 81] incorrect information on its financial statements. Affinity fraud, often in the form of a Ponzi or pyramid
+[ 81] scheme, is an investment scam in which the scammer claims to be a member of the group s/he is
+[ 81] targeting. Market capitalization is an indicator of the size of a public company as measured by the total
+[ 81] dollar value of its stock.
+[ 81] SOURCE: BL:133
+[ 81] SOURCE: QS LAP 50—Play by the Rules (Legal and Ethical Aspects of the Stock Market)
+[ 67] 3. A
+[ 81] Pump and dump. Pump and dump is an investment scam that takes place mostly online. It typically
+[ 81] involves scammers who buy a small stock and then hype it up to other investors, causing its price to rise.
+[ 81] The scammers sell when the price is high, leaving the victims to deal with the rapid price decline
+[ 81] afterwards. A pyramid scheme is an illegal form of multi-level marketing in which emphasis is placed on
+[ 81] collecting initial fees from as many people as possible. A Ponzi scheme is an investment scam that lures
+[ 81] in new investors by promising high rates of return with little to no risk. Phishing is an online identity-theft
+[ 81] scam that fools its victims into believing they are submitting sensitive, personal information (such as
+[ 81] credit card numbers or bank passwords) to a legitimate web site.
+[ 81] SOURCE: BL:133
+[ 81] SOURCE: QS LAP 50—Play by the Rules (Legal and Ethical Aspects of the Stock Market)
+[ 67] 4. D
+[ 81] Capital losses. An investor's capital gains are her/his earnings from the appreciation of investments. Most
+[ 81] federal governments collect taxes from investors on these capital gains. One way to reduce an investor's
+[ 81] capital gains tax burden is to subtract his/her capital losses (money that s/he has lost from the
+[ 81] depreciation of investments) from the capital gains. S/He would only pay taxes on the difference, if it is
+[ 81] positive. If her/his capital losses are greater than the capital gains, then s/he wouldn't pay any capital
+[ 81] gains tax at all. Long-term, rather than short-term, investments help investors to reduce their capital gains
+[ 81] tax burden, especially in the United States where long-term capital gains are taxed at a lower rate than
+[ 81] short-term capital gains. Puttable bonds and value stocks typically have no impact on an investor's
+[ 81] capital gains taxes.
+[ 81] SOURCE: BL:134
+[ 81] SOURCE: Roos, D. (1999-2012). Lowering your capital gains tax. Retrieved February 28, 2012, from
+[135] http://money.howstuffworks.com/personal-finance/personal-income-taxes/capital-gains-
+[135] tax3.htm
+
+===== PAGE 12 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 12
+[ 67] 5. B
+[ 81] Investigating possible conflicts of interest within the company. The chief compliance officer is responsible
+[ 81] for developing policies and procedures that ensure that her/his company is adhering to all rules and
+[ 81] regulations affecting business operations. In addition, s/he is often in charge of investigating and
+[ 81] managing conflicts of interest within the company. These conflicts of interest might arise between the
+[ 81] business and its customers, among the business's customers, or among business functions. Such
+[ 81] conflicts of interest have the potential to interfere with the business's compliance with organizational,
+[ 81] industry, and government regulations. Members of the business's marketing department are likely to
+[ 81] evaluate the company's different channels of distribution. Operations management determines the
+[ 81] company's point of diminishing returns, possibly with the accounting or finance department's assistance.
+[ 81] The accounting department prepares and submits the company's financial statements to interested
+[ 81] parties such as the SEC.
+[ 81] SOURCE: CC:003
+[ 81] SOURCE: Barclay Simpson Recruitment Consultants. (n.d.). An introduction to financial services
+[135] compliance. Retrieved February 28, 2012, from
+[135] http://www.barclaysimpson.com/document_uploaded/Intro%20FS%20Compl%20publication.
+[135] pdf
+[ 67] 6. D
+[ 81] Internal audits. Many businesses conduct independent internal audits to evaluate the effectiveness of
+[ 81] their compliance programs. Internal auditors are typically company employees who are responsible for
+[ 81] reviewing such things as reports, policies, procedures, training, and corrective actions to determine if the
+[ 81] company's compliance function is working properly. In essence, internal auditors conduct investigations
+[ 81] to find out if the compliance program is successfully ensuring that the firm and its employees are
+[ 81] following all rules and regulations impacting business operations. While it is important to stress
+[ 81] compliance during training, employee training sessions are not used to evaluate the effectiveness of a
+[ 81] business's compliance program. Marketing research and direct trading are typically not related to internal
+[ 81] audits or compliance programs in general.
+[ 81] SOURCE: CC:003
+[ 81] SOURCE: Compliance Action. (2003). The real role of compliance: Corporate governance. Retrieved
+[135] February 29, 2012, from http://www.bankersonline.com/articles/v08n07/v08n07a1.html
+[ 67] 7. B
+[ 81] Symbolic. One form of compliance technology is the virtual auditor, a computer application that monitors
+[ 81] financial transactions continuously to detect and analyze compliance violations. The virtual auditor uses
+[ 81] multiple reasoning techniques, including symbolic, incremental, temporal, cross-source, contextual, and
+[ 81] comparative, to identify these violations. Symbolic reasoning, which is based on the experiences and
+[ 81] expertise of actual internal auditors and fraud investigators, involves examining patterns of events and
+[ 81] looking for common signs of questionable activities. Compliance violations that symbolic reasoning is
+[ 81] likely to detect are segregation of duties violations and general ledger errors. Incremental reasoning
+[ 81] examines situations in which multiple questionable events seem to build on each other, leading to a
+[ 81] potentially significant compliance violation. Temporal reasoning considers the timing of an event or
+[ 81] transaction when determining questionable activities. Cross-source reasoning involves looking at data in
+[ 81] multiple financial systems to detect anomalies and potential compliance violations.
+[ 81] SOURCE: CC:004
+[ 81] SOURCE: Oversight Systems. (n.d.). A Sarbanes-Oxley compliance program that saves cash: Link
+[135] Sarbanes-Oxley requirements to business improvement. Retrieved February 29, 2012, from
+[135] http://www.oversightsystems.com/pdf/whitepapers/Compliance_to_Cash_060725.pdf
+
+===== PAGE 13 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 13
+[ 67] 8. D
+[ 81] At its source. To prevent an intermediary from tampering with transactional data, continuous-inspection
+[ 81] compliance technology such as a virtual auditor must have access to the information at its source.
+[ 81] Because continuous-inspection technology works continually to identify errors and violations, it needs
+[ 81] access to transactional information as the transactions actually occur, not biweekly. Rather than
+[ 81] reviewing samples of transactional information to verify compliance, the technology must have access to
+[ 81] all transactional data. Liquidity ratios are not relevant to a conversation about continuous-inspection
+[ 81] compliance technology.
+[ 81] SOURCE: CC:004
+[ 81] SOURCE: Oversight Systems. (n.d.). A Sarbanes-Oxley compliance program that saves cash: Link
+[135] Sarbanes-Oxley requirements to business improvement. Retrieved February 29, 2012, from
+[135] http://www.oversightsystems.com/pdf/whitepapers/Compliance_to_Cash_060725.pdf
+[ 67] 9. C
+[ 81] Perform tasks properly. If employees do not read the directions and apply them in the proper sequence,
+[ 81] they may perform the tasks incorrectly. If employees perform tasks incorrectly, they may be required to
+[ 81] go back and correct their mistakes, which cost the company time and money. Applying written directions
+[ 81] in the order they are presented does not help employees prioritize daily tasks or formulate plans.
+[ 81] SOURCE: CO:056
+[ 81] SOURCE: Hyden, J.S., Jordan, A.K., Steinauer, M.H., & Jones, M.J. (2006). Communicating for
+[135] success (3rd ed.) [pp. 125, 134-135]. Mason, OH: Thomson South-Western.
+[ 61] 10. B
+[ 84] A relevant question to clarify information that the speaker had provided. Jeff asked the speaker to clarify
+[ 81] a fact that was stated during the presentation. The question was about the area's crime rate, which was
+[ 81] relevant to the topic at hand. Jeff's question was a close-ended inquiry because it required the message
+[ 81] recipient to provide a response in one of two ways—10 percent or 15 percent. The question was not
+[ 81] reflective in nature, so the message recipient did not need to put a lot of thought into or carefully word
+[ 81] his/her response. A follow-up question is a question asked to clarify a previous question. There is not
+[ 81] enough information provided to determine if Jeff previously asked a question.
+[ 81] SOURCE: CO:058
+[ 81] SOURCE: Effective questioner: What is an effective questioner? (n.d.). Retrieved February 28, 2012,
+[135] from http://ictnz.com/Questioning/effectivequestioner.htm
+[ 61] 11. A
+[ 81] Geographical map. Graphics typically add interest and make information easier to understand. Maps are
+[ 81] often appropriate graphics to use when the topic at hand relates to geographical regions. Each region
+[ 81] depicted on the map may be color-coded by the range of sales generated to support and clarify the sales
+[ 81] data presented in a report. A flowchart presents a visual depiction of activities or processes in sequential
+[ 81] order. An example of a flowchart is an organizational chart, which depicts the hierarchy of positions and
+[ 81] departments within an organization. A Venn diagram indicates the overlapping relationships among finite
+[ 81] sets of data.
+[ 81] SOURCE: CO:087
+[ 81] SOURCE: Bovée, C.L., & Thill, J.V. (2008). Business communication today (9th ed.) [pp. 378, 380].
+[135] Upper Saddle River, NJ: Pearson Prentice Hall.
+[ 61] 12. C
+[ 81] Appendix. Supplemental information for long or complex reports is presented in an appendix, which is a
+[ 81] separate section placed at the end of a report. The information in the appendix might contain graphs,
+[ 81] text, or a combination of both elements. A bibliography is a component of a report that summarizes the
+[ 81] information sources that the writer used to prepare the report. An executive summary is an overview of
+[ 81] the entire report. The table of contents is the portion of a long report in which the sections are listed with
+[ 81] their page numbers.
+[ 81] SOURCE: CO:088
+[ 81] SOURCE: Bovée, C.L., & Thill, J.V. (2008). Business communication today (9th ed.) [pp. 475-477].
+[135] Upper Saddle River, NJ: Pearson Prentice Hall.
+
+===== PAGE 14 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 14
+[ 61] 13. D
+[ 81] She interrupted the speaker. Because it is rude to interrupt another person while s/he is speaking,
+[ 81] Lindsay should have waited until Tom was finished speaking before asking a question. In many
+[ 81] meetings, the leader or speaker will ask the participants if they have questions, so it would be appropriate
+[ 81] to ask for clarification at that time. There is not enough information provided to determine if Lindsay
+[ 81] expressed an opinion, asked a question irrelevant to the topic at hand, or used distracting gestures.
+[ 81] SOURCE: CO:063
+[ 81] SOURCE: Leskiar, R.V., & Flatley, M.E. (2005). Basic business communication: Skills for empowering
+[135] the Internet generation (10th ed.) [pp. 416-417]. Boston: McGraw-Hill/Irwin.
+[ 61] 14. B
+[ 81] Providing efficient follow-up. Customers often base their impressions of a business on the interactions
+[ 81] they have with the business's employees. In the situation provided, Karl worked quickly to find out the
+[ 81] status of the order and immediately called Mr. Schwarz with specific information about where the order
+[ 81] was and when to expect delivery. This is an example of efficient follow-up. By providing efficient service,
+[ 81] Karl is building favorable relationships with customers. There is not enough information provided to
+[ 81] determine if Karl delegated work tasks to facilitate his follow-up activities or if he complimented Mr.
+[ 81] Schwarz.
+[ 81] SOURCE: CR:002
+[ 81] SOURCE: Kotler, P., & Armstrong, G. (2008). Principles of marketing (12th ed.) [pp. 244-245]. Upper
+[135] Saddle River, NJ: Prentice-Hall.
+[ 61] 15. D
+[ 81] Smartphones. Smartphones are quickly becoming a critical business tool for customer relationship
+[ 81] management. The devices not only include cellular telephone capabilities, but also a variety of computer
+[ 81] applications, including Internet access. Businesspeople can call customers from remote locations, check
+[ 81] e-mail, verify inventory levels, and place orders from smartphones. In many situations, smartphones
+[ 81] reduce the need to carry laptops and tablet computers because many of the applications that
+[ 81] salespeople need to conduct business are on these devices. Businesses can also send promotional
+[ 81] messages to their customers' smartphones. Autoresponder applications provide e-mail recipients the
+[ 81] ability to send automatic messages back to the message sender (e.g., out-of-office announcements).
+[ 81] Data banks and fax machines are not forms of mobile-application technology.
+[ 81] SOURCE: CR:018
+[ 81] SOURCE: All Things CRM. (n.d.). What are mobile CRM applications and how can I use them?
+[135] Retrieved February 28, 2012, from http://www.allthingscrm.com/application-
+[135] development/what-are-mobile-crm-applications-and-how-can-i-use-them.html
+[ 61] 16. C
+[ 81] Conduct a needs analysis. Before recommending a specific product or service to his/her client, a finance
+[ 81] professional should conduct a needs analysis. In other words, as an ethical finance professional, s/he
+[ 81] should first determine what the client truly desires or requires and then select products and services that
+[ 81] will meet the client's wants and needs. A finance professional would not develop a proxy statement,
+[ 81] place a stop or buy order, or conduct dollar cost averaging before recommending specific products or
+[ 81] services to clients.
+[ 81] SOURCE: CR:012
+[ 81] SOURCE: Auburn Mountain. (2006-2011). Ethics in financial services. Retrieved February 29, 2012,
+[135] from http://www.auburnmountain.com/Financial-Practice/Ethics-in-Financial-Services.aspx
+
+===== PAGE 15 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 15
+[ 61] 17. B
+[ 81] Lack of communication. Although a poor investment return, high commission fees, or the geographic
+[ 81] location of the financial advisor's office may influence a client's decision to leave the advisor, the most
+[ 81] common reason given for firing a financial advisor is a lack of communication. Above all else, financial
+[ 81] clients expect—and need—their advisors to communicate on a regular basis. This means returning the
+[ 81] clients' phone calls as soon as possible, replying quickly to their e-mails, and contacting them regularly to
+[ 81] discuss their accounts and answer any questions that they might have.
+[ 81] SOURCE: CR:012
+[ 81] SOURCE: BrokerVille. (2008, August 1). How to retain accounts in a bear market. Retrieved March 1,
+[135] 2012, from http://blog.brokerville.com/uncategorized/how-to-retain-accounts-in-a-bear-
+[135] market/
+[ 61] 18. D
+[ 81] Customer segmentation. Customer-relationship-management (CRM) analytics can be used to analyze
+[ 81] and evaluate customer data in many different ways. For example, a business can use CRM technology to
+[ 81] segment its customers into groupings based on each client's likelihood of purchasing or repurchasing a
+[ 81] particular product. Personalization allows a business to market to specific customers based on data in
+[ 81] the CRM system. Event monitoring helps businesses to identify when a customer reaches a specific
+[ 81] dollar amount of purchasing or requests an excessive number of refunds. Profitability analysis helps
+[ 81] businesses to identify their most profitable customers.
+[ 81] SOURCE: CR:024
+[ 81] SOURCE: TechTarget. (2000-2012). CRM analytics. Retrieved March 1, 2012, from
+[135] http://searchcrm.techtarget.com/definition/CRM-analytics
+[ 61] 19. D
+[ 81] Data cleansing. If the data contained in a business's customer-relationship-management (CRM) system
+[ 81] is incorrect, out-of-date, duplicated, or unformatted, the value and effectiveness of the CRM system is
+[ 81] potentially compromised. Therefore, it is in the business's best interest to cleanse the data in its system
+[ 81] on a regular—or even continual—basis. The correction, removal, and/or formatting of questionable
+[ 81] customer records is called data cleansing. Environmental scanning involves collecting information about
+[ 81] the environment surrounding a business. Technical analysis involves using historical information from
+[ 81] market activity, prices, and volume to evaluate securities and predict future price activity. Exploratory
+[ 81] research is a form of marketing research used to collect information that will help the business define its
+[ 81] issue, situation, or concern and decide which direction to go in to address it.
+[ 81] SOURCE: CR:024
+[ 81] SOURCE: Sequeira, N. (2008, November 3). CRM data cleansing and management. Retrieved March
+[135] 1, 2012, from http://knol.google.com/k/crm-data-cleansing-management#
+[ 61] 20. B
+[ 81] Supply. The supply price is the minimum price that producers are willing and able to receive for a
+[ 81] product. The demand price is the maximum price that buyers are able and willing to pay for the product.
+[ 81] The market price is the actual price that prevails in a market at any particular time—the price that you
+[ 81] actually pay for a service or good. The equilibrium price occurs when the quantity of a product that
+[ 81] buyers want to buy is equal to the quantity that sellers are willing to sell at a certain price.
+[ 81] SOURCE: EC:006
+[ 81] SOURCE: EC LAP 12—When More Is Less (Functions of Prices)
+[ 61] 21. B
+[ 81] DigiTech moves its production facility from Los Angeles, California to Jaipur, India to cut costs.
+[ 81] Offshoring is a practice in which a business moves operations from its home country to other countries to
+[ 81] lower its labor and production costs. In many situations, offshoring can save a business millions of
+[ 81] dollars, but it does so at the expense of domestic jobs. Joint ventures or strategic alliances form when
+[ 81] two companies combine their resources to open a new company. A company that purchases another
+[ 81] company creates a wholly owned subsidiary. A company that operates offices in several countries is a
+[ 81] multinational firm.
+[ 81] SOURCE: EC:104
+[ 81] SOURCE: EC LAP 22—Stretch Your Boundaries (Global Environment's Impact on Business)
+
+===== PAGE 16 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 16
+[ 61] 22. A
+[ 81] Regulating workplace conditions. Governments pass and enforce laws to protect consumers, businesses,
+[ 81] and other resources. Many of these laws address business practices. When the government requires
+[ 81] businesses to pay their employees a minimum hourly wage, it is regulating workplace conditions.
+[ 81] Minimum-wage laws protect workers because they are legally guaranteed a “living wage,” which is a
+[ 81] minimal amount of money needed to meet basic survival needs. To protect the business's property,
+[ 81] including its products and ideas, the government issues trademarks, patents, and copyrights. The
+[ 81] government passes and enforces environmental laws to protect and conserve our natural resources such
+[ 81] as water, air, botanical life, and wildlife from the potentially unhealthy and unsafe outcomes of production
+[ 81] processes. Government provides public welfare programs to assist people who are unable to provide for
+[ 81] themselves.
+[ 81] SOURCE: EC:008
+[ 81] SOURCE: EC LAP 16—Regulate and Protect (Government and Business)
+[ 61] 23. C
+[ 81] Businesses expand and hire additional staff. When businesses expand and hire workers, the workers
+[ 81] (consumers) have income to spend. Manufacturers usually scale back their production when consumers
+[ 81] are not spending money to buy their products. When production decreases, businesses are more likely to
+[ 81] lay off employees, which usually cause the unemployment rate to increase. And, when people are not
+[ 81] working, they do not have money to spend. When the money supply is tight, there is less money in
+[ 81] circulation and consumer spending tends to decrease.
+[ 81] SOURCE: EC:081
+[ 81] SOURCE: Lowe, R.E., Malouf, C.A., & Jacobson, A.R. (2003). Consumer education & economics
+[135] (5th ed.) [pp. 156-161]. New York: Glencoe/McGraw-Hill.
+[ 61] 24. D
+[ 81] Prefers rules and structure. Members of uncertainty-avoidance cultures prefer structure, rules, safety,
+[ 81] and low risk taking. Cultures that have a high tolerance of uncertainty are open to differing opinions.
+[ 81] Individualist societies expect members to take care of themselves and value individual accomplishments.
+[ 81] SOURCE: EC:045
+[ 81] SOURCE: EC LAP 24—On Top of the World (Impact of Culture on Global Trade)
+[ 61] 25. D
+[ 81] Looking for behavior patterns that occur regularly over time. By assessing your personal strengths and
+[ 81] weaknesses, you can apply your talents where they are best used and select a career in which you are
+[ 81] most likely to be successful. A successful assessment of your strengths and weaknesses requires being
+[ 81] aware of your behavior patterns over time. By being aware of your behavior patterns, you can determine
+[ 81] the things that you do well and things that you want to improve. When assessing your personal strengths
+[ 81] and weaknesses, avoid making false generalizations about yourself, which is basing your idea of a
+[ 81] personal strength or weakness on one isolated incident. And, because everyone is different, avoid
+[ 81] comparing yourself to others. After identifying the weaknesses that you want to work on, try improving
+[ 81] one weakness at a time. Taking on too many changes at once can be very frustrating.
+[ 81] SOURCE: EI:002
+[ 81] SOURCE: EI LAP 17—Assess for Success (Assessing Personal Strengths and Weaknesses)
+[ 61] 26. C
+[ 81] Reliable. Reliable people follow through on their promises—they do what they say they will do. Because
+[ 81] Lara arrived at work when she said she would, she is showing her employer that she is reliable. Empathy
+[ 81] is the ability to put yourself in another person's place. A person who is productive completes the required
+[ 81] tasks correctly and efficiently. A resourceful person has the ability to act imaginatively when new ideas or
+[ 81] solutions are required. There is not enough information provided to determine if Lara is an empathic,
+[ 81] productive, or resourceful person.
+[ 81] SOURCE: EI:004
+[ 81] SOURCE: EI LAP 4—Work Right (Ethical Work Habits)
+
+===== PAGE 17 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 17
+[ 61] 27. A
+[ 81] Deadline driven. There are several negotiating strategies, and some are more effective than others in
+[ 81] certain situations. The deadline-driven strategy involves one party giving the other party a time limit to
+[ 81] take action. In the situation provided, Dexter communicates a deadline—next Tuesday. Limited authority
+[ 81] is a negotiating strategy in which one person claims that s/he does not have the authority to make a
+[ 81] decision and must consult another person who is not present during the negotiation process. Bargaining
+[ 81] is a "give-and-take" strategy. Good cop/Bad cop sets up one person as reasonable and the other person
+[ 81] as unreasonable.
+[ 81] SOURCE: EI:062
+[ 81] SOURCE: EI LAP 8—Make It a Win-Win (Negotiation in Business)
+[ 61] 28. B
+[ 81] Project team. A project is any type of undertaking or task that has a distinct beginning and end. Because
+[ 81] the group is working together for a set period of time (March to December) to complete a specific task
+[ 81] (develop an intranet application), it is a project team. A quality circle is a problem-solving group of
+[ 81] coworkers who are given work situations or problems to study and discuss in order to recommend
+[ 81] solutions to management. A standing committee is one whose work continues over a long period of time
+[ 81] (e.g., three years). A short-term committee has an immediate goal, such as planning a social event for
+[ 81] employees.
+[ 81] SOURCE: EI:045
+[ 81] SOURCE: CEN. (2009). What are project teams? Retrieved March 5, 2012, from
+[135] http://www.cen.eu/cen/Sectors/Sectors/ISSS/About_ISSS/Pages/Project_Team.aspxf
+[ 61] 29. D
+[ 81] Fear. Change leaders should expect some resistance and know how to address others' concerns about
+[ 81] the change. By addressing concerns, the change leader may help others feel more comfortable with the
+[ 81] change and be persuaded to accept it. In the situation presented, Rita is afraid that she won't be able to
+[ 81] learn the program quickly and that she will make a lot of mistakes. Rita's resistance is based on fear.
+[ 81] Melanie may be able to decrease Rita's fears by telling her about the software training program and by
+[ 81] letting her know that most people are likely to make mistakes when they are learning a new program or
+[ 81] skill. Rita's resistance is not based on anger, jealously or indifference.
+[ 81] SOURCE: EI:005
+[ 81] SOURCE: QS LAP 23—20/20 Foresight
+[ 61] 30. D
+[ 81] Lifestyles. To treat others fairly at work, employees must understand and respect their differences, one of
+[ 81] which is lifestyles. The ways in which people lead their daily lives create their lifestyle. Many factors
+[ 81] define individuals' lifestyles, including the way people spend their time, the activities they pursue, and
+[ 81] their marital status. In the example, Emily is married and Becca is single. Emily prefers to spend her free
+[ 81] time sewing and doing puzzles, while Becca enjoys participating in athletic activities. There is not enough
+[ 81] information provided to determine if Emily and Becca differ in age, education, and personality.
+[ 81] SOURCE: EI:036
+[ 81] SOURCE: EI LAP 20—Fair and Square (Treat Others Fairly at Work)
+[ 61] 31. D
+[ 81] The borrower defaults on the loan. When borrowers agree to a loan, they are making a legal contractual
+[ 81] agreement to pay back the loan in a certain manner within a specific period of time. When the borrower
+[ 81] does not have the collateral or credit history to obtain the loan, the lender often requests that another
+[ 81] person co-sign for the loan. A co-signer is responsible for paying the loan if the borrower defaults on it,
+[ 81] which means the borrower does not make the scheduled payments to the lender. Changes in interest
+[ 81] rates do not affect a co-signer's legal responsibility for paying the balance owed on a loan.
+[ 81] SOURCE: FI:063
+[ 81] SOURCE: Kapoor, J.R., Dlabay, L.R., & Hughes, R.J. (2009). Personal finance (9th ed.) [pp. 181-182].
+[135] New York: McGraw-Hill Irwin.
+
+===== PAGE 18 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 18
+[ 61] 32. D
+[ 81] No, his goal is not specific or measurable. A financial goal is a short- or long-term objective that is
+[ 81] measured in terms of money. Effective financial goals are SMART goals—specific, measurable,
+[ 81] attainable, results-oriented, and time-bounded. The goal is time-bounded because Brandon wants to
+[ 81] save money to buy a car two years from now. It is results-oriented because Brandon will have something
+[ 81] to show for his effort in two years—a car. However, the goal is not specific or measurable because
+[ 81] Brandon has not indicated how much he wants to save for the car. Also, Brandon has not indicated how
+[ 81] he plans to save for the car, such as placing 15% of his weekly paycheck in a special savings account.
+[ 81] There is not enough information to determine if the goal is attainable because it is not specific.
+[ 81] SOURCE: FI:065
+[ 81] SOURCE: QS LAP 31—Set Yourself Up
+[ 61] 33. A
+[ 81] Compounding. The magic of compounding is earning interest upon interest. Compounding takes place
+[ 81] anytime you earn interest, but its effects are most dramatic when you're investing. Key factors involved in
+[ 81] compounding growth are the amount of money invested, how long the money is invested, and how much
+[ 81] the investment grows each year. With the stock market's average yearly gain of 10 percent, after one
+[ 81] year, Cheryl's $6,000 was $6,600. With the same 10 percent return the next year, Cheryl's $6,600 turned
+[ 81] into $7,260. She earned interest on her interest. Phishing is an online identify-theft scam that fools its
+[ 81] victims into believing they are submitting sensitive personal information to a legitimate web site. To
+[ 81] diversify means to spread out your investment dollars among a number of different securities. Market
+[ 81] timing is a form of the “buy low and sell high” trading strategy, in which investors purchase securities at
+[ 81] low prices and sell them at high prices to profit from the difference. There is no indication that Cheryl's
+[ 81] profit is the result of phishing, diversifying, or market timing.
+[ 81] SOURCE: FI:270
+[ 81] SOURCE: QS LAP 30—Supersize Your Money (Need to Save and Invest)
+[ 61] 34. D
+[ 81] Inflation. Inflation is an increase in the cost of goods and services. What your dollar buys today won't be
+[ 81] the same as what it buys next year. Over the years, the value of money declines. That means that the
+[ 81] $10 bill Kim was given last year has less buying power today. Taxes are monies that individuals or
+[ 81] businesses must pay to the government. There's no indication that Kim paid taxes on her $10.
+[ 81] Globalization is the rapid and unimpeded flow of capital, labor, and ideas across national borders.
+[ 81] Unemployment is also known as joblessness. Although taxes, globalization, and unemployment levels
+[ 81] can impact the economy, none of the three are the direct cause of the decline in the buying power of
+[ 81] Kim's money.
+[ 81] SOURCE: FI:270
+[ 81] SOURCE: QS LAP 30—Supersize Your Money (Need to Save and Invest)
+[ 61] 35. B
+[ 81] Obtain a bank loan. Banks obtain credit reports to make decisions about providing loans; therefore, it is
+[ 81] important for individuals to periodically review the accuracy of their credit reports. By obtaining copies of
+[ 81] their credit reports from an authorized credit agency, individuals can identify problems and take corrective
+[ 81] action. Information presented in a credit report does not affect an individual's ability to withdraw money
+[ 81] from a savings account, pay monthly credit-card balances, or earn interest on stock holdings.
+[ 81] SOURCE: FI:072
+[ 81] SOURCE: Nolo. (2012). Your credit report can make or break your application. Retrieved February 27,
+[135] 2012, from http://www.nolo.com/legal-encyclopedia/free-books/renters-rights-book/chapter1-
+[135] 3.html
+
+===== PAGE 19 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 19
+[ 61] 36. B
+[ 81] Transferring money from those who have it to those who need it. Financial institutions play an integral
+[ 81] role in our economic system. They act as financial intermediaries (middlemen) by transferring money
+[ 81] from those who have it to those who need it. In essence, financial institutions facilitate the flow/movement
+[ 81] of money through the economy. Investment institutions such as mutual funds, investment banks, pension
+[ 81] funds, and exchanges may invest clients' money in mid-cap growth companies; calculate the opportunity
+[ 81] costs of clients' potential investments; and conduct fundamental and technical analyses to evaluate
+[ 81] securities. However, none of those activities is the primary responsibility of all financial institutions,
+[ 81] including deposit-taking institutions, finance and insurance institutions, and investment institutions.
+[ 81] SOURCE: FI:336
+[ 81] SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide
+[135] (p. 5-19). Columbus, OH: Author.
+[ 61] 37. D
+[ 81] Making payments on behalf of savers to creditors. Deposit-taking institutions commonly accept deposits
+[ 81] (funds) from savers and use those deposits to make payments on behalf of savers to individuals, firms,
+[ 81] and creditors to whom the savers owe money. Deposit-taking institutions, which include commercial
+[ 81] banks, credit unions, savings and loan associations, trust companies, and mortgage companies, also use
+[ 81] those deposits to offer loans to borrowers. Investment banks, which are investment institutions, raise
+[ 81] funds for clients by issuing securities. Government and semigovernment financial institutions carry out
+[ 81] regulatory and supervisory functions. They also increase the funds available to investors, manage risk,
+[ 81] and assume risk. Insurance companies, which are categorized as finance and insurance institutions, use
+[ 81] funds from premiums to offer loans. They also manage and pool individuals' risk, invest funds to raise
+[ 81] more capital, and create investment products.
+[ 81] SOURCE: FI:336
+[ 81] SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide
+[135] (p. 5-19-5-20). Columbus, OH: Author.
+[ 61] 38. B
+[ 81] Foreign exchange. The largest, most liquid financial market in the world is the foreign exchange market.
+[ 81] There are typically more active traders and a higher volume of trading on the foreign exchange market
+[ 81] than any of the other markets. Very liquid markets such as the foreign exchange market experience very
+[ 81] gradual, small price changes, while markets with low liquidity often experience volatile changes in price,
+[ 81] meaning that prices change abruptly and in larger increments than in highly liquid markets. The debt
+[ 81] market is also known as the bond market, and the equity market is also called the stock market. A
+[ 81] commodity market deals in raw, primary products such as oil, silver, gold, etc.
+[ 81] SOURCE: FI:337
+[ 81] SOURCE: Dummies.com. (2012). Liquidity and the foreign exchange market. Retrieved February 27,
+[135] 2012, from http://www.dummies.com/how-to/content/liquidity-and-the-foreign-exchange-
+[135] market.html
+[ 61] 39. A
+[ 81] Energy, metals, and grains. Commodities are raw, primary products commonly categorized as energy,
+[ 81] metals, and agricultural products, which are often further divided into grains, livestock, and softs. Energy
+[ 81] commodities include different types of fuel, including natural gas, crude oil, heating oil, etc. Metals
+[ 81] commodities include precious and industrial metals such as gold, silver, and copper. Grains are probably
+[ 81] the most popular of the commodities and include corn, soybeans, wheat, etc. Livestock include cattle and
+[ 81] hogs, while softs are food and fiber commodities such as cocoa, cotton, orange juice, etc. Consumer
+[ 81] goods, tangible items produced for personal use, are finished goods, not raw, primary products.
+[ 81] Therefore, they are not referred to as commodities.
+[ 81] SOURCE: FI:337
+[ 81] SOURCE: Kowalski, C. (2012). Commodities types and profiles. Retrieved February 27, 2012, from
+[135] http://commodities.about.com/od/researchcommodities/u/commodities-types-path.htm
+
+===== PAGE 20 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 20
+[ 61] 40. A
+[ 81] Financial companies often enjoy higher earnings as a result of convergence and consolidation.
+[ 81] Convergence within the finance industry typically involves financial providers from different financial
+[ 81] sectors merging, such as a retail bank merging with an insurance company. Consolidation takes place
+[ 81] when financial providers within the same institutional category merge, such as a retail bank merging with
+[ 81] another retail bank. Some of the factors leading to convergence and consolidation in the finance industry
+[ 81] are technology, liquidity constraints, a desire for increased profitability, and a desire for lower costs.
+[ 81] Technological advancements have reduced the costs of offering new and different financial products. The
+[ 81] convergence/consolidation of multiple financial companies usually results in more liquid capital to invest
+[ 81] or to offer as loans for all companies involved. By merging, some financial firms (especially those
+[ 81] converging with others within their financial sector) can achieve economies of scale, which result in
+[ 81] reduced redundancy and lower costs for all involved. Finally, financial companies often enjoy higher
+[ 81] earnings as a result of convergence and consolidation.
+[ 81] SOURCE: FI:573
+[ 81] SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide
+[135] (p. 5-106-5-107). Columbus, OH: Author.
+[ 61] 41. B
+[ 81] Increase. During an economic expansion, production, employment, income, sales, the demand for
+[ 81] money, and interest rates rapidly increase. As a result, businesses borrow more money (at higher rates)
+[ 81] to expand their operations. And, when businesses borrow more at higher interest rates, bond yields go
+[ 81] up.
+[ 81] SOURCE: FI:574
+[ 81] SOURCE: Peter Dag and Associates, Inc. (n.d.). Profitable relationships between economic indicators
+[135] and financial markets. Retrieved March 1, 2012, from
+[135] http://www.peterdag.com/s_files/O0Yp4aNtyV9X.pdf
+[ 61] 42. B
+[ 81] Dollar increasing in value. An upturn or increase in commodity prices is typically preceded by a number
+[ 81] of economic trends and conditions. These trends include the dollar strengthening or increasing in value
+[ 81] for at least a year; the stock market increasing and improving for at least a year; the growth of the money
+[ 81] supply increasing for at least a year; and the yield curve steepening for at least a year. Growth in
+[ 81] employment and industrial production also accompany an upturn in commodity prices.
+[ 81] SOURCE: FI:574
+[ 81] SOURCE: Peter Dag and Associates, Inc. (n.d.). Profitable relationships between economic indicators
+[135] and financial markets. Retrieved March 1, 2012, from
+[135] http://www.peterdag.com/s_files/O0Yp4aNtyV9X.pdf
+[ 61] 43. A
+[ 81] Derivatives. Derivatives, including options, futures, and swaps, are complex financial instruments whose
+[ 81] value depends upon the value of other financial instruments (e.g., currencies, securities, commodities,
+[ 81] etc.) or a market index. Derivatives are often used on a global scale to help reduce the impact of
+[ 81] significant fluctuations in currency exchange rates, the prices of specific commodities, etc. Stocks, bonds,
+[ 81] and real estate are not commonly used in this manner. Stocks are shares of ownership in a corporation.
+[ 81] Bonds are lending investments in which individuals lend money to a government, municipality, or
+[ 81] corporation to earn a set rate of interest for a specified time period. Real estate is an ownership
+[ 81] investment in which individuals purchase property in buildings and land.
+[ 81] SOURCE: FI:575
+[ 81] SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide
+[135] (p. 5-157). Columbus, OH: Author.
+
+===== PAGE 21 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 21
+[ 61] 44. D
+[ 81] Reduce their exposure to business cycle risks. As a result of financial globalization, investors have
+[ 81] access to many more markets and investments worldwide. By investing their funds in several different
+[ 81] countries, investors are able to diversify their risk and reduce their exposure to business cycle risks within
+[ 81] any particular country. Liberalization is the removal of government regulations on the flow of capital and
+[ 81] international trade. A home bias is a preference for investments in domestic markets versus markets in
+[ 81] other countries. An investor who invests funds in several different countries demonstrates that s/he does
+[ 81] not have a home bias. While international investors can purposefully avoid emerging markets located in
+[ 81] developing countries when investing, integrated financial markets-markets that facilitate the free flow of
+[ 81] capital across national borders-are not so easy for international investors to avoid. Liberalization and
+[ 81] financial globalization have increased foreigners' access to domestic financial markets.
+[ 81] SOURCE: FI:575
+[ 81] SOURCE: MBA Research and Curriculum Center. (2009). Introduction to finance course guide
+[135] (p. 5-156-5-158). Columbus, OH: Author.
+[ 61] 45. C
+[ 81] Financial statements. A company's annual report contains a wealth of information about the organization.
+[ 81] While much of this information is at least tangentially helpful to individuals interested in investing in the
+[ 81] company, the financial statements contained in the annual report are probably the most valuable,
+[ 81] important sources of corporate financial data. Many potential investors review the financial statements to
+[ 81] learn more about the company's financial “health,” its profitability over a specific period of time, the
+[ 81] amount of money it has, and the way in which the company manages its money. The auditor's report is
+[ 81] essentially a statement of assurance that the data contained in the financial statements are accurate and
+[ 81] presented in accordance with specific government rules and regulations. The listing of
+[ 81] management/directors contains information about the company's senior executives and board of
+[ 81] directors. The letter to the shareholders is narrative information from company management about what
+[ 81] the company did that year, what they consider to be important achievements, and some ideas about
+[ 81] where they plan to go next. Traditionally, the letter to the shareholders is very upbeat, regardless of how
+[ 81] well (or how poorly) the company is actually doing.
+[ 81] SOURCE: FI:274
+[ 81] SOURCE: QS LAP 36—The Source Is With You (Finding and Evaluating Securities Information)
+[ 61] 46. B
+[ 81] Investor Relations. Most publicly-traded companies have an "Investor Relations" section within their web
+[ 81] sites where individuals such as Anna can find the companies' annual reports as well as any other
+[ 81] information and filings they have made public throughout the year. Some companies also devote a
+[ 81] portion of their web sites to "Sustainability," which emphasizes the companies' dedication to impacting
+[ 81] the environment and society in positive ways. The "Public Relations" component of most companies' web
+[ 81] sites contains press releases, press kits, and media resources such as product images and information.
+[ 81] The "Leadership" section typically contains biographical profiles of senior executives and members of the
+[ 81] board of directors.
+[ 81] SOURCE: FI:274
+[ 81] SOURCE: QS LAP 36—The Source Is With You (Finding and Evaluating Securities Information)
+[ 61] 47. C
+[ 81] Close. “Close,” which is sometimes listed as “Last,” represents the last price paid when trading ended for
+[ 81] the day. “Net change” compares the closing price with the previous day's closing price. A negative net
+[ 81] change indicates that the price is down when compared to the previous day's last price. A positive net
+[ 81] change means that the price is up. “Volume” (sometimes listed as “Sales”) tells you how many shares
+[ 81] were traded that day. “Yield” signifies the rate of return on the security, determined by dividing the
+[ 81] dividend by the actual closing price.
+[ 81] SOURCE: FI:275
+[ 81] SOURCE: QS LAP 37—Table Talk (Reading Stock Tables)
+
+===== PAGE 22 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 22
+[ 61] 48. A
+[ 81] Money market accounts, certificates of deposit, and bonds. Investments in which individuals allow
+[ 81] borrowers to use their money for a period of time for a specified fee or rate of interest are lending
+[ 81] investments. Money market accounts, certificates of deposit, bonds, and savings accounts are types of
+[ 81] lending investments. Investments in which individuals purchase a portion or all of an item are called
+[ 81] ownership investments. Collectibles, stocks, and real estate are types of ownership investments.
+[ 81] SOURCE: FI:077
+[ 81] SOURCE: QS LAP 32—Risky Business
+[ 61] 49. B
+[ 81] Copayment. Health insurance covers such medical expenses as hospital bills, doctors' fees, and lab
+[ 81] charges. Employers negotiate contracts with health insurance companies to obtain favorable or
+[ 81] discounted group rates. Depending on the terms of the contract, the employers and employees pay a
+[ 81] portion of the health insurance premium. A copayment is a predetermined out-of-pocket expense that the
+[ 81] insured (employee) often pays at the time of service to cover a portion of the health-care provider's fee.
+[ 81] The balance of the health-care provider's fee is applied to the employee's annual deductible or is covered
+[ 81] by the insurance company after the deductible has been met. A surrender charge is a fee charged to a
+[ 81] policyholder by a life insurance company when the insurance policy or annuity is surrendered or waivered
+[ 81] for its cash value.
+[ 81] SOURCE: FI:081
+[ 81] SOURCE: Investopedia. (2012). Co-pay. Retrieved February 23, 2012, from
+[135] http://www.investopedia.com/terms/c/copay.asp#axzz1nDRJFkES
+[ 61] 50. A
+[ 81] Collecting the source documents. The accounting cycle is the process that a business uses to maintain
+[ 81] its financial records. The first step involves collecting all of the necessary financial records or source
+[ 81] documents—checks, receipts, invoices, purchase orders, etc. Without this basic information, the
+[ 81] business cannot journalize the transactions, balance the books, or prepare financial statements, which
+[ 81] are subsequent steps in the accounting cycle.
+[ 81] SOURCE: FI:085
+[ 81] SOURCE: FI LAP 5—Show Me the Money (Nature of Accounting)
+[ 61] 51. B
+[ 81] Mergers and acquisitions. Mergers and acquisitions commonly handicap large corporations' financial-
+[ 81] information management systems because of disparate data structures. Even though two companies
+[ 81] may become one as a result of a merger or acquisition, the two companies' historical financial data may
+[ 81] be incompatible or housed in different data structures, making a merge of the data difficult. Channels of
+[ 81] distribution, the company's capital structure, and the accounting method that the company uses do not
+[ 81] commonly cause disparate data structures within financial-information management systems.
+[ 81] SOURCE: FM:002
+[ 81] SOURCE: Flood, M., Kyle, A.S., & Raschid, L. (2010, November). Knowledge representation and
+[135] information management for financial risk management. Retrieved March 1, 2012, from
+[135] http://www.pewtrusts.org/uploadedFiles/wwwpewtrustsorg/Reports/Financial_Reform/UMD-
+[135] Report.pdf
+[ 61] 52. D
+[ 81] Market and competitive indicators. In addition to collecting, maintaining, and reporting data about
+[ 81] financial transactions, financial-information management is also responsible for maintaining internal
+[ 81] operational data and analyzing and reporting external market and competitive indicators. The financial-
+[ 81] information management function is not typically responsible for maintaining information about
+[ 81] participative decision-making, dominant buying motives, or recent third-party agreements.
+[ 81] SOURCE: FM:002
+[ 81] SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (p. 342). South-Western Cengage
+[135] Learning.
+
+===== PAGE 23 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 23
+[ 61] 53. A
+[ 81] Access. Stewardship of a company's financial information is an aspect of financial-information
+[ 81] management. In other words, the financial-information management function is responsible for protecting
+[ 81] the quality and integrity of any financial information that the company possesses. Several types of
+[ 81] financial-information stewardship exist, including both access and definition stewardship. Access
+[ 81] stewardship is the ability to decide who is permitted or denied access to data within the financial-
+[ 81] information management system. Definition stewardship is the ability to determine what data within the
+[ 81] financial-information management system mean. Environmental stewardship is not usually associated
+[ 81] with financial-information management; it involves responsibility for the protection and conservation of
+[ 81] nature resources. Geospatial is not a form of stewardship.
+[ 81] SOURCE: FM:003
+[ 81] SOURCE: Bajgoric, N. (2010). Always-on enterprise information systems for business continuance:
+[135] Technologies for reliable and scalable operations (p. 123). IGI Global: Hershey, PA.
+[ 61] 54. D
+[ 81] Audit trail. One way to identify potential ethical violations in financial-information management is to trace
+[ 81] financial transactions from beginning to end using audit trails. A financial-information manager can utilize
+[ 81] an audit trail to review all documents pertaining to a particular transaction and determine if data recorded
+[ 81] in the system are accurate or altered. Separation of duties is an internal control requiring more than one
+[ 81] person to complete a task. Accounting standards are principles or rules that businesses must follow
+[ 81] when recording and presenting their financial information. The supply chain is a system of organizations,
+[ 81] people, processes, etc. used to move a product from supplier to user.
+[ 81] SOURCE: FM:003
+[ 81] SOURCE: Brenner, L.J. (2012). Accounting systems ethics. Retrieved March 1, 2012, from
+[135] http://smallbusiness.chron.com/accounting-systems-ethics-24413.html
+[ 61] 55. C
+[ 81] Central data repository. A central data repository is a centralized comprehensive database used to store
+[ 81] financial management from across an organization. Benefits of a central data repository include more
+[ 81] consistent and up-to-date data, faster response to queries, economies of scale, and accessibility by
+[ 81] several different software applications. Encryption technology and intrusion detection systems are used
+[ 81] to ensure the security of financial information. The principle of least authority is a concept that promotes
+[ 81] providing database users with permission to access only those data that are absolutely necessary for
+[ 81] fulfilling their duties and work obligations.
+[ 81] SOURCE: FM:011
+[ 81] SOURCE: InterSystems. (1996-2012). Caché and data management in the financial services industry.
+[135] Retrieved March 1, 2012, from
+[135] http://www.intersystems.com/cache/whitepapers/datamanagement_wp.html
+[ 61] 56. D
+[ 81] Outlier detection. Outlier detection is a data mining application used to measure the distance between
+[ 81] data objects and identify any data that are significantly dissimilar to the remainder of the data set.
+[ 81] Regression is used to identify the relationship between an independent variable and a dependent
+[ 81] variable. Prediction estimates future values based on the patterns found in current data. Visualization can
+[ 81] be used to convert complicated data into clear patterns that are easily understood.
+[ 81] SOURCE: FM:012
+[ 81] SOURCE: Sharma, A. & Panigrahi, P.K. (2012, February). A review of financial accounting fraud
+[135] detection based on data mining techniques. Retrieved March 5, 2012, from
+[135] http://research.ijcaonline.org/volume39/number1/pxc3877016.pdf
+
+===== PAGE 24 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 24
+[ 61] 57. A
+[ 81] Create a set of if-then permutations that can be used to predict future behavior. Rule-induction data
+[ 81] mining techniques are frequently used to determine if-then relationships among a set of data. After these
+[ 81] if-then rules are developed, they can be used to predict future behavior. One common type of rule-
+[ 81] induction modeling is the decision tree technique. Genetic algorithms can be used to modify an existing
+[ 81] set of solutions to create a new, more useful solution. Data visualization allows complex data to be
+[ 81] presented in readily understandable graphs and charts. Statistical-inference techniques may be used to
+[ 81] conduct statistical exploratory research and identify the distribution of variables within a data set.
+[ 81] SOURCE: FM:012
+[ 81] SOURCE: Zhang, D., & Zhou, L. (2004, November). Discovering golden nuggets: Data mining in
+[135] financial application. Retrieved March 5, 2012, from
+[135] http://suraj.lums.edu.pk/~cs631s05/Papers/financial.pdf
+[ 61] 58. C
+[ 81] Scanning. Some budgeting software programs come complete with scanning capabilities, making it
+[ 81] possible for a small business owner such as Carrie to scan and save certain documents digitally.
+[ 81] Depending on the nature of these documents, Carrie may be able to dispose of the paper copies, freeing
+[ 81] up precious space in her home office. While forecasting, internal-control, and variance-analysis
+[ 81] capabilities are helpful, they are not as well suited as scanning capabilities are to help Carrie transition to
+[ 81] a paperless office.
+[ 81] SOURCE: FM:013
+[ 81] SOURCE: McFerrin, O. (2011). Making the most of budgeting software. Retrieved March 6, 2012, from
+[135] http://www.business.com/guides/making-the-most-of-budgeting-software-21366/
+[ 61] 59. D
+[ 81] Key assumptions. Many business budgeting applications allow users to input and/or change key
+[ 81] assumptions assigned to the budgets. These key assumptions are the predicted values of various budget
+[ 81] items. While the predicted cost of vehicle maintenance is expense data, the predicted revenue from a
+[ 81] particular asset is not. There is no indication that Xavier is entering marketing data or internal controls
+[ 81] into the budgeting software.
+[ 81] SOURCE: FM:013
+[ 81] SOURCE: Briggs, S. (2011). Budgeting software key terms. Retrieved March 6, 2012, from
+[135] http://www.business.com/guides/budgeting-software-key-terms-36970/
+[ 61] 60. B
+[ 81] Financial scorecard. Many financial analysis applications include the capability to create financial
+[ 81] scorecards containing key financial indicators and up-to-date financial information. Cash flow, liquidity,
+[ 81] profitability, and liability are examples of metrics that are often included on a financial scorecard. Rather
+[ 81] than simply listing data on the scorecard, business employees can use financial analysis applications to
+[ 81] develop charts and graphs that present the data in much more readily understandable ways. A profit-and-
+[ 81] loss statement is a summary of business transactions that shows net profit before and after taxes by
+[ 81] analyzing sales, purchases, cost of goods sold, and operating expenses for a specified period. While
+[ 81] Lawrence's financial scorecard probably contains information that also appears on the company's profit-
+[ 81] and-loss statement, the financial scorecard presents more different financial metrics. Cost standards are
+[ 81] established specifications used to measure how much a project or product costs. An operating
+[ 81] agreement is a written document signed by members of a limited liability partnership or limited liability
+[ 81] company that specifies the terms of the business arrangement.
+[ 81] SOURCE: FM:014
+[ 81] SOURCE: iDashboards. (2004-2012). Scorecards. Retrieved March 6, 2012, from
+[135] http://www.idashboards.com/Solutions/For-Your-Function/Scorecards.aspx
+
+===== PAGE 25 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 25
+[ 61] 61. D
+[ 81] Cascading upward. Ginny created a cascading upward relationship between the two tables so that when
+[ 81] an entry in the primary table is modified, all matching entries in the related table are updated to match.
+[ 81] Ginny did not create a hyperlinked, object-oriented, or logical design relationship. A hyperlink is a
+[ 81] component of an electronic document that can be clicked on to jump to another place within the
+[ 81] document or into a different document or web site. Object-oriented is a type of database model, not a
+[ 81] relationship within a database. Logical design is typically considered to be the first stage in the life cycle
+[ 81] of a database.
+[ 81] SOURCE: FM:015
+[ 81] SOURCE: Browne, A. (2010, April). Microsoft Access tips for serious users: Cascade to null relations.
+[135] Retrieved March 6, 2012, from http://allenbrowne.com/ser-64.html
+[ 61] 62. D
+[ 81] Data-definition. Running a query in a database is the equivalent of giving the database instructions for
+[ 81] working with specific data. Data-definition queries tell the database to create, delete, or modify other
+[ 81] database objects. Select and crosstab queries are used to retrieve specific data and present them in
+[ 81] reports. A pass-through query tells the database engine to pass the query to a remote database server
+[ 81] for processing.
+[ 81] SOURCE: FM:015
+[ 81] SOURCE: Microsoft. (2012). Run a query. Retrieved March 6, 2012, from http://office.microsoft.com/en-
+[135] us/access-help/run-a-query-HA010077157.aspx
+[ 61] 63. A
+[ 81] Measure the firm's competitiveness and performance. Because many investors and financial analysts
+[ 81] look at a business's financial statements to measure the firm's competitiveness and performance, the
+[ 81] business should make every effort to report its financial position accurately. If it does not, investors and
+[ 81] financial analysts may shy away from purchasing the company's stock. If the company's financial
+[ 81] statements underestimate its performance, investors and financial analysts may avoid the company
+[ 81] because it looks unprofitable. And, if the financial statements are overly positive, investors and financial
+[ 81] analysts may come to distrust the company because it overstates its success. A company's financial
+[ 81] statements are not likely to help investors and financial analysts to identify new products that the firm
+[ 81] plans to introduce next year, determine the size and makeup of the firm's workforce, or assess the
+[ 81] effectiveness of the firm's risk-management system.
+[ 81] SOURCE: FM:004
+[ 81] SOURCE: Codjia, M. (1999-2012). Proper way to present a financial statement. Retrieved March 7,
+[135] 2012, from http://www.ehow.com/about_7467971_proper-way-present-financial-
+[135] statement.html
+[ 61] 64. D
+[ 81] Manager. Managers are internal users of a business's financial data. Managers use these data—often in
+[ 81] the form of custom-designed financial reports—to control day-to-day operations and to make financial
+[ 81] decisions and plans that affect the business. They rely on the data to help them make smart decisions,
+[ 81] so it is imperative that the data are reported accurately. Investors, creditors, and government tax
+[ 81] collectors also use a business's financial data, but they are all considered to be external users of the data
+[ 81] because they do not work for the company.
+[ 81] SOURCE: FM:004
+[ 81] SOURCE: Maps of World. (2012, February 9). Users of financial statements. Retrieved March 7, 2012,
+[135] from http://finance.mapsofworld.com/financial-report/statement/users.html
+[ 61] 65. C
+[ 81] Accounting focuses on the past, while finance focuses on the future. The accounting function is
+[ 81] responsible for keeping and interpreting financial records based on past financial transactions. Finance,
+[ 81] on the other hand, is responsible for obtaining funds and using them to achieve the goals of the
+[ 81] business. Essentially, finance—which is broader than accounting—looks for ways to help the business be
+[ 81] successful in the future.
+[ 81] SOURCE: FM:005
+[ 81] SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (pp. 102-103). South-Western
+[135] Cengage Learning.
+
+===== PAGE 26 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 26
+[ 61] 66. D
+[ 81] Decision making. While the emphases in accounting are on recording and reporting financial data in the
+[ 81] form of financial statements, the emphasis in finance is on decision making. Financial managers must
+[ 81] make decisions about a company's investments and financing. Specifically, they are responsible for
+[ 81] determining what types of assets the company should own, as well as the proper mix of those assets.
+[ 81] Financial managers are also responsible for deciding which method or methods of financing will be most
+[ 81] beneficial for the company. Bookkeeping is an aspect of accounting, and closing the books is the final
+[ 81] step of the accounting cycle. While financial managers may calculate liquidity ratios to determine the
+[ 81] company's ability to turn its assets into cash and pay its bills on time, they are just as likely to use other
+[ 81] ratios, including asset management, debt management, profitability, and market performance ratios, to
+[ 81] evaluate business performance.
+[ 81] SOURCE: FM:005
+[ 81] SOURCE: Accountantkey. (2009, June 15). The financial warfare: Accounting vs. finance? Retrieved
+[135] March 7, 2012, from http://www.accountantkey.com/what-is-the-difference-between-
+[135] accounting-and-finance
+[ 61] 67. B
+[ 81] Accrual. Businesses using the accrual accounting method journalize income and expenditures at the time
+[ 81] they occur even if no money changes hands at that time. This means, for instance, that the business
+[ 81] enters the amount of a transaction into the appropriate journal when a customer makes a credit purchase
+[ 81] or when the business orders goods from a supplier. No money changes hands at the time, but the
+[ 81] business's records indicate the transaction as either income or an expense. Cash accounting involves
+[ 81] recording income and expenditures at the time the money changes hands. This means that the business
+[ 81] enters the amount of a transaction into one of its journals on the day the money is received from a
+[ 81] customer or paid out to a creditor. Tax accounting is essentially accounting for tax purposes. Aspects of
+[ 81] tax accounting include preparing tax strategies and completing tax forms. Double entry accounting is a
+[ 81] bookkeeping method that involves recording each transaction in two or more different accounts, resulting
+[ 81] in a credit to at least one account and a debit to at least one other account.
+[ 81] SOURCE: FM:006
+[ 81] SOURCE: Dlabay, L.R., & Burrow, J.L. (2008). Business finance (p. 106). South-Western Cengage
+[135] Learning.
+[ 61] 68. D
+[ 81] Cost. Cost accounting, also referred to as management or managerial accounting, involves preparing
+[ 81] and reporting financial data to internal users, usually managers, who need financial information to control
+[ 81] day-to-day operations and to make financial decisions and plans affecting the business. Financial
+[ 81] accounting is a type of accounting that involves preparing and reporting financial data to external users
+[ 81] who are not directly involved in business operations. Cash accounting involves recording income and
+[ 81] expenditures at the time the money changes hands. This means that the business enters the amount of a
+[ 81] transaction into one of its journals on the day the money is received from a customer or paid out to a
+[ 81] creditor. Tax accounting is essentially accounting for tax purposes. Aspects of tax accounting include
+[ 81] preparing tax strategies and completing tax forms.
+[ 81] SOURCE: FM:006
+[ 81] SOURCE: Alvis, J.M. (2012). Cost accounting. Retrieved March 7, 2012, from
+[135] http://www.referenceforbusiness.com/management/Comp-De/Cost-Accounting.html
+
+===== PAGE 27 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 27
+[ 61] 69. A
+[ 81] Financial ratios. A ratio is a comparison created when one number is divided into another. A financial
+[ 81] ratio is the comparison of two numbers from a business's financial statement. Financial ratio analysis is
+[ 81] commonly used by businesses to see relationships between dollars, numbers, and percentages. Many
+[ 81] businesses compare their current financial ratios to those calculated using last year's financial
+[ 81] statements, the statements for the year before that, etc. By comparing these financial ratios over time,
+[ 81] the businesses can identify trends and patterns in their sales, spending, liquidity, etc. Bookkeeping is an
+[ 81] aspect of accounting. Opportunity cost is the benefit that is lost when you decide to use scarce resources
+[ 81] for one purpose rather than another. Market timing is a form of the “buy low and sell high” trading
+[ 81] strategy in which investors purchase securities at low prices and sell them at high prices to profit from the
+[ 81] difference.
+[ 81] SOURCE: FM:008
+[ 81] SOURCE: CliffsNotes. (2000-2012). Ratio analysis. Retrieved March 7, 2012, from
+[135] http://www.cliffsnotes.com/study_guide/Ratio-Analysis.topicArticleId-21248,articleId-
+[135] 21213.html
+[ 61] 70. C
+[ 81] Horizontal. Horizontal analysis, which is also sometimes referred to as trend analysis, involves reviewing
+[ 81] and comparing data on a business's financial statements over a period of several quarters or years. By
+[ 81] comparing data on financial statements over time, the business can identify trends and patterns in its
+[ 81] sales, spending, liquidity, etc. Vertical analysis involves reporting each amount on a financial statement
+[ 81] as a percentage of another item appearing on the same financial statement. The percentages or restated
+[ 81] amounts from the different financial statements are presented as common-size financial statements.
+[ 81] Break-even analysis's purpose is to identify the level of sales needed to reach the break-even point at
+[ 81] various prices. A competitive analysis is the process of comparing a business's income statement with
+[ 81] that of its competitors to see how it is doing by industry standards.
+[ 81] SOURCE: FM:008
+[ 81] SOURCE: Haverkamp, H. (2004-2012). What is the difference between vertical analysis and horizontal
+[135] analysis? Retrieved March 7, 2012, from http://blog.accountingcoach.com/vertical-analysis-
+[135] horizontal-analysis/
+[ 61] 71. D
+[ 81] Analyze the customer's credit application, credit report, bank information, and financial statements.
+[ 81] Businesses commonly analyze their customers' financial information when determining whether or not to
+[ 81] extend credit to these customers. At the very least, a business such as the automotive parts supplier
+[ 81] should analyze a customer's credit application, credit report, bank information, and financial statements
+[ 81] before approving or denying credit for the customer. It is not feasible for the supplier to contact its
+[ 81] shareholders and ask for permission to extend credit to its customers. The supplier's financial
+[ 81] accountants are not likely to discuss the customer's request for credit; the company's credit analyst(s)
+[ 81] would make the decision. While learning the qualifications and work histories of the customer's
+[ 81] management team could be helpful, it is much more important to analyze the customer's financial
+[ 81] information prior to approving or denying credit for the customer.
+[ 81] SOURCE: FM:009
+[ 81] SOURCE: Dennis, M.C. (2011). Evaluating financial health. Retrieved March 7, 2012, from
+[135] http://www.encyclopediaofcredit.com/Evaluating-Financial-Health
+
+===== PAGE 28 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 28
+[ 61] 72. A
+[ 81] Variance. A variance is the difference between a budgeted amount and an actual amount. Business
+[ 81] managers often conduct variance analysis to determine if their businesses have spent or received more
+[ 81] or less money than was budgeted. If there is a discrepancy between what was budgeted and what was
+[ 81] actually spent or received, then managers can investigate the cause(s) of the variance and handle the
+[ 81] situation as necessary. Break-even analysis is conducted to identify the level of sales needed to reach
+[ 81] the break-even point at various prices. Investors commonly conduct fundamental analysis, which is the
+[ 81] study of all aspects of a company in an attempt to understand its intrinsic value. Cash-flow analysis is
+[ 81] used to predict whether the cash generated by a business can cover the operation expenses and loan
+[ 81] repayments.
+[ 81] SOURCE: FM:010
+[ 81] SOURCE: Palmer, D.A. (2012). Financial management development: Budgetary control and variance
+[135] analysis. Retrieved March 8, 2012, from
+[135] http://www.financialmanagementdevelopment.com/Slides/handouts/213.pdf
+[ 61] 73. A
+[ 81] Consistent. An accounting treatment is a set of rules that specifies how to handle specific accounts and
+[ 81] transactions such as capital expenditures. The accounting treatment of like items should be consistent
+[ 81] within each reporting period and from one reporting period to the next. If a company does not treat a
+[ 81] particular account or type of transaction consistently from period to period or year to year, the data
+[ 81] become incomparable, less meaningful, and possibly even useless to users of the company's financial
+[ 81] information. If investors or financial experts analyze the company's financial data and discover that the
+[ 81] accounting treatment of capital expenditures varies—and if the company has no valid explanation for not
+[ 81] treating these expenditures the same way during different reporting periods—the investors and financial
+[ 81] analysts may avoid investing in that particular company. Therefore, it is usually in a company's best
+[ 81] interest to be consistent in their accounting treatment of different accounts and transactions. Accounting
+[ 81] treatment of capital expenditures should not be flexible, hedged, or callable over multiple reporting
+[ 81] periods.
+[ 81] SOURCE: FM:010
+[ 81] SOURCE: Shanker, S. (2011, July 20). Capital expenditure accounting treatment. Retrieved March 8,
+[135] 2012, from http://www.ehow.com/about_7285561_capital-expenditure-accounting-
+[135] treatment.html
+[ 61] 74. D
+[ 81] Onboarding. Human-resources management tasks that are performed when a new employee joins the
+[ 81] company are onboarding activities. Onboarding activities include ensuring that the new employee
+[ 81] completes the necessary tax and insurance forms and arranging direct paycheck deposit into the
+[ 81] employee's bank account. Recruiting, interviewing, and organizing are not onboarding activities.
+[ 81] Recruiting involves seeking out and attracting qualified employees. Interviewing is a recruiting activity
+[ 81] that involves speaking with a job candidate to discuss his/her qualifications in detail. Organizing is the
+[ 81] management function of setting up the way the business's work will be done.
+[ 81] SOURCE: HR:410
+[ 81] SOURCE: HR LAP 35—People Pusher (Nature of Human Resources Management)
+[ 61] 75. B
+[ 81] Convenience. Trevor is most likely motivated to buy from this particular store because it is close and
+[ 81] convenient to his business. If Trevor needs cleaning supplies right away, he just has to walk across the
+[ 81] street to buy them. Although brand, price, and product dependability might influence his buying behavior,
+[ 81] there is not enough information provided to determine if these factors are important to Trevor in this
+[ 81] situation.
+[ 81] SOURCE: MK:014
+[ 81] SOURCE: Perreault, W.D., Cannon, J.P., & McCarthy, E.J. (2008). Basic marketing: A marketing
+[135] strategy planning approach (16th ed.) [pp. 152-154]. Boston: McGraw-Hill/Irwin.
+
+===== PAGE 29 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 29
+[ 61] 76. A
+[ 81] Visit the bank's web site. Because many businesses post and update product information on their web
+[ 81] sites, their customers can access information they need 24 hours a day, seven days a week. Many
+[ 81] customers obtain product information from web sites because it is quick, convenient, accurate, and
+[ 81] secure. A bank's financial officer does not usually take routine customer-service calls and may not be
+[ 81] available to take a customer's call. Customers usually do not need to make appointments with bank
+[ 81] tellers. Driving to the bank to get a product brochure is not as efficient as visiting the bank's web site.
+[ 81] Because the interest rates for financial products change, product brochures may not contain the most
+[ 81] current rates.
+[ 81] SOURCE: NF:078
+[ 81] SOURCE: Huntington National Bank. (2012). Rate finder. Retrieved February 28, 2012 from
+[135] https://www.huntington.com/GetRatesServlet?product=CD
+[ 61] 77. D
+[ 81] Web host, domain name. After creating a web page, the developer needs to post the web page through a
+[ 81] web host (web server) or Internet service provider (IPS). The web host may charge a fee to post and
+[ 81] store the web page, although some web hosts will provide the service free of charge. The domain name
+[ 81] is the business's web address. Internet users enter the web address to view Stella's web site. Stella can
+[ 81] register her domain name directly with the Internet Corporation for Assigned Names and Numbers
+[ 81] (ICANN). Or, Stella can work with her web host to register the domain name for her. Stella does not need
+[ 81] to register a hyperlink, media permit, or file link with any organization. A hyperlink (link) is the component
+[ 81] of an electronic document (file) that can be clicked on in order to jump to another place within the
+[ 81] document or into a different document. A modem is an internal or external computer communications
+[ 81] device that is used to transmit information over a particular medium such as telephone lines or television
+[ 81] cables. Ethernet is a local area network.
+[ 81] SOURCE: NF:042
+[ 81] SOURCE: WebHostingSearch.com. (2010, December 8). 3 steps in publishing your website. Retrieved
+[135] February 27, 2012, from http://www.webhostingsearch.com/articles/how-to-publish-your-
+[135] website.php
+[ 61] 78. B
+[ 81] Purchasing habits. An invoice is the formal, printed record of a sale that includes all necessary
+[ 81] information as to the buyer, the seller, items purchased, amounts, prices, delivery date, credit or discount
+[ 81] terms, etc. By analyzing past sales records such as invoices, a business can determine what its
+[ 81] customers are buying, when they are buying, and how much they are buying. This helps a business to
+[ 81] forecast future sales and to be prepared to offer the products that customers want. Businesses do not
+[ 81] review invoices to evaluate their customers' business plans, storage needs, or selling policies.
+[ 81] SOURCE: NF:002
+[ 81] SOURCE: Burrow, J.L. (2006). Marketing (2nd ed.) [pp.120-121]. Mason, OH: South-Western.
+[ 61] 79. A
+[ 81] Monitor emerging trends. Because the world is constantly changing, businesses need to continuously
+[ 81] pay attention to trends and adjust their activities accordingly to remain competitive in the marketplace. If
+[ 81] a business fails to act in response to the various types of changes—technological, market, industry—it is
+[ 81] likely to lose business to competitors, which may result in business failure or closure. A business is not
+[ 81] likely to obtain a competitor's business records, many of which are confidential. Successful businesses
+[ 81] select their target markets carefully because they understand that it is not possible to appeal to all
+[ 81] markets. The decision to expand internationally depends on the type of business and its organizational
+[ 81] goals.
+[ 81] SOURCE: NF:013
+[ 81] SOURCE: Lee, R. (2012). How to keep up with emerging business trends. Retrieved March 5, 2012,
+[135] from http://smallbusiness.chron.com/keep-up-emerging-business-trends-24711.html
+
+===== PAGE 30 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 30
+[ 61] 80. A
+[ 81] Holding. The money it takes to keep inventory in stock is called holding cost. Holding costs include
+[ 81] storage space, taxes, and insurance. By minimizing its holding costs, a business is taking steps to reduce
+[ 81] its overall operating costs. Maintenance costs are expenses associated with the upkeep of the business's
+[ 81] facility and equipment. Production costs are expenses associated with the creation of goods and
+[ 81] services. Stockout costs are associated with running out of needed inventory and are considered in terms
+[ 81] of lost money and sales, lost productivity, and lost customer satisfaction.
+[ 81] SOURCE: OP:189
+[ 81] SOURCE: OP LAP 3—Smooth Operations (Nature of Operations)
+[ 61] 81. A
+[ 81] Reasonable care. The duty of reasonable care is a common-law principle supporting the idea that each
+[ 81] person and business should use caution, watch out for one another, and act in a socially responsible
+[ 81] way. A business that fails to fix unsafe electrical wiring after several warnings is being socially
+[ 81] irresponsible. Therefore, it is breaching its duty of reasonable care because it is placing its employees
+[ 81] and customers in danger. The example is not a breach of duty of personal reform, general authority, or
+[ 81] charitable trust.
+[ 81] SOURCE: OP:004
+[ 81] SOURCE: Miller, R.L., & Jentz, G.A. (2005). Fundamentals of business law (6th ed.) [pp. 90-91, 453,
+[135] 470-471]. Mason, OH: Thomson/South-Western.
+[ 61] 82. B
+[ 81] Encrypting computer files. Encryption is the process of transforming information into a secret code so that
+[ 81] specified individuals can read it. By encrypting confidential computer files, the business protects the
+[ 81] information from unauthorized access by internal and external sources. For optimal protection from
+[ 81] computer viruses, businesses should conduct computer virus scans continuously rather than once a
+[ 81] year. Activities such as classifying information and developing Internet message boards do not protect
+[ 81] the information from unauthorized users.
+[ 81] SOURCE: OP:153
+[ 81] SOURCE: Hewlett-Packard. (2011). Protect confidential information. Retrieved February 23, 2012, from
+[135] http://h41112.www4.hp.com/promo/obc/uk/en/business-it-advice/protect-your-
+[135] business/protect-confidential-information.html
+[ 61] 83. D
+[ 81] Gantt chart. Developed by Henry Gantt, the Gantt chart is a type of bar chart that is specifically designed
+[ 81] to graphically depict a project's work breakdown structure in a horizontal format in relation to time. Project
+[ 81] managers often use Gantt charts to schedule and track the progress of their projects. A pyramid diagram
+[ 81] or chart presents data in a hierarchical format. A bubble chart is a type of scatter chart that is often used
+[ 81] to compare data. A Venn diagram indicates the overlapping relationships among finite sets of data.
+[ 81] Pyramid diagrams, bubble charts, and Venn diagrams are not tools that are specifically designed to
+[ 81] schedule and track projects.
+[ 81] SOURCE: OP:002
+[ 81] SOURCE: Campbell, G.M., & Baker, S. (2007). The complete idiot's guide to project management
+[135] (4th ed.) [pp. 132-133]. New York: Penguin Group.
+[ 61] 84. B
+[ 81] Average product usage amount per month. Businesses need office supplies to operate efficiently. The
+[ 81] types and quantities of supplies vary by business. To determine the optimal level of inventory to keep on
+[ 81] hand, Claire needs to first determine the average amount of the product used for a certain time period,
+[ 81] such as a month. For example, if the business goes through two cases of copy paper in June and three
+[ 81] cases in July and four cases in August, the average or optimal amount to keep on hand is three cases of
+[ 81] copy paper. By determining an average usage amount of routine supplies, the business does not tie up
+[ 81] funds by purchasing too many items or risk running out of the items. Employees' preferences, the
+[ 81] budgeting method, and the vendors' daily sales promotions are not primary considerations when
+[ 81] determining the optimal level of supplies that the business should keep on hand.
+[ 81] SOURCE: OP:031
+[ 81] SOURCE: Eastridge, H. (n.d.). How to maintain office supplies. Retrieved February 23, 2012, from
+[135] http://www.ehow.com/how_5108622_maintain-office-supplies.html
+
+===== PAGE 31 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 31
+[ 61] 85. C
+[ 81] Brainstorming ideas Brainstorming is a common way to generate ideas and solve problems. During a
+[ 81] brainstorming session, one or more individuals present ideas (solutions) during a set time frame. The
+[ 81] main goal is to throw out as many ideas as possible within the set time frame, but not evaluate them.
+[ 81] Oftentimes, new ideas are generated from ones that have been presented during the brainstorming
+[ 81] session. Detecting the issue or the problem is first step of the problem-solving process. After detecting
+[ 81] the problem, it is important to check assumptions and collect data relevant to the problem. After
+[ 81] determining possible solutions, individuals select, implement, and evaluate the solution.
+[ 81] SOURCE: PD:077
+[ 81] SOURCE: PD LAP 17—No Problem (Demonstrate Problem-Solving Skills)
+[ 61] 86. D
+[ 81] Angel investor, entrepreneur. An entrepreneur is an individual who identifies an opportunity to create new
+[ 81] value, develops and offers a unique product, assumes the risks of starting and building a business,
+[ 81] focuses on the improvement and growth of that business, and receives personal and financial rewards for
+[ 81] her/his efforts. An angel investor is someone who provides start-up money to a new business. A
+[ 81] franchisee is someone who buys the right to sell the goods or services of the parent company
+[ 81] (franchisor). A manager is an individual responsible for the coordination of resources in order to
+[ 81] accomplish an organization's goals. Loan officers are employees who coordinate the loan process for
+[ 81] their employers (e.g., bank, mortgage company) and the loan applicant. A licensor is the owner of
+[ 81] copyrighted, patented, or trademarked material. A sponsor is a business, individual, or organization that
+[ 81] pays a fee to be associated with another organization's event.
+[ 81] SOURCE: PD:066
+[ 81] SOURCE: PD LAP 4—Own Your Own (Career Opportunities in Entrepreneurship)
+[ 61] 87. B
+[ 81] Summarize why you are a good candidate for the job. A letter of application serves as a way to introduce
+[ 81] yourself, express your interest in a job with the company, and briefly describe why you are a good
+[ 81] candidate for the job. Job seekers should provide a list of references in a separate document. Critical
+[ 81] information should be included in the résumé rather than the letter of application. Job seekers should not
+[ 81] indicate their availability for interviewing in a letter of application because it is rude and arrogant.
+[ 81] SOURCE: PD:030
+[ 81] SOURCE: Kimbrell, G., & Vineyard, B.S. (2006). Succeeding in the world of work (pp. 125-126). New
+[135] York: Glencoe/McGraw-Hill.
+[ 61] 88. A
+[ 81] Treasurer. A treasurer working in corporate finance typically oversees the business's cash management,
+[ 81] capital raising, and investment activities. The treasurer is also usually responsible for the business's
+[ 81] financial goals and objectives. Risk managers and cash managers are also financial managers, but their
+[ 81] duties are more limited than those of the treasurer. Risk and insurance managers oversee the company's
+[ 81] risk-management programs as well as the organizational insurance budget. Cash managers monitor the
+[ 81] organization's cash flow. Underwriters work in the insurance industry. They are responsible for
+[ 81] calculating the risk of loss, establishing premium rates, and designing policies to cover risk.
+[ 81] SOURCE: PD:152
+[ 81] SOURCE: QS LAP 51—Careers in the Money (Careers in Financial Services)
+[ 61] 89. C
+[ 81] Brokerage house. The most common type of firm that specializes in trading securities is the brokerage
+[ 81] house. Agents who work for brokerage houses, trading securities for clients, are known by titles such as
+[ 81] brokers, stockbrokers, registered representatives, and account executives. They must pass difficult
+[ 81] exams to obtain the licensing necessary for trading on the stock exchange. Investment banks specialize
+[ 81] in helping corporations and governments issue securities. They also aid in complicated financial matters
+[ 81] such as mergers and acquisitions. An insurance carrier is an insurance company. It sells policies to
+[ 81] individuals and businesses to protect them from financial losses resulting from an accident or disaster.
+[ 81] Actuaries typically work for insurance companies and are responsible for assessing risk using statistical
+[ 81] analysis and for helping to design policies to minimize the cost of that risk.
+[ 81] SOURCE: PD:152
+[ 81] SOURCE: QS LAP 51—Careers in the Money (Careers in Financial Services)
+
+===== PAGE 32 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 32
+[ 61] 90. C
+[ 81] Martha Winters, Certified Public Accountant. Many professions require businesspeople to complete
+[ 81] continuing education courses to maintain their certifications and licensures. Because Certified public
+[ 81] accountants work with financial data, they need to keep up with changes in regulations, including taxes.
+[ 81] Security advisors, accounts-receivable supervisors, and product-acquisition (purchasing) managers need
+[ 81] to keep up with changes in their fields; however, these positions do not usually require extensive
+[ 81] knowledge about changes in tax regulations.
+[ 81] SOURCE: PD:033
+[ 81] SOURCE: AGC of America. (2012). State-by-state listing of continuing education license requirements.
+[135] Retrieved March 4, 2012, from
+[135] http://www.agc.org/cs/continuing_education_license_requirements
+[ 61] 91. C
+[ 81] Certified Management Accountant (CMA). Management accountants typically prepare financial reports
+[ 81] for managers and other internal users. In turn, these managers and other internal users use the data to
+[ 81] control day-to-day operations and to make financial decisions and plans that affect the company.
+[ 81] Management accountants also typically help create company budgets, prepare and review company tax
+[ 81] returns, and analyze the company finances, among other things. The Certified Management Accountant
+[ 81] (CMA) designation is the most appropriate certification for management accountants such as Tosha. A
+[ 81] Certified Public Accountant (CPA) is a general accountant who completes a variety of tasks for multiple
+[ 81] clients. These tasks are likely to include preparing individual clients' tax returns, conducting audits, and
+[ 81] assisting with financial planning. A Certified Internal Auditor (CIA) is usually responsible for assessing the
+[ 81] accuracy of his/her company's accounting records and determining if the company's internal controls are
+[ 81] effective. A Certified Fraud Examiner (CFE) typically detects, investigates, and prevents cases of
+[ 81] accounting fraud.
+[ 81] SOURCE: PD:082
+[ 81] SOURCE: AllBusinessSchools. (2002-2012). Role of the management accountant. Retrieved March 5,
+[135] 2012, from http://www.allbusinessschools.com/business-careers/accounting/management-
+[135] accounting
+[ 61] 92. C
+[ 81] Local Society of Financial Planning Professionals. If Hank is interested in meeting other area financial
+[ 81] planners in person regularly to discuss trends and issues impacting financial planning, he would be wise
+[ 81] to join a local organization such as the Local Society of Financial Planning Professionals. Since the
+[ 81] members work in close proximity to each other, they are more likely to hold face-to-face meetings on a
+[ 81] regular basis. A national or international professional organization may not necessarily have a chapter in
+[ 81] Hank's area.
+[ 81] SOURCE: PD:153
+[ 81] SOURCE: Curtis, G. (2010, June 15). Financial professionals: The benefits of joining an association.
+[135] Retrieved March 5, 2012, from
+[135] http://www.investopedia.com/articles/financialcareers/06/professionalorganization.asp#axzz1
+[135] oGTYwB7r
+[ 61] 93. B
+[ 81] Reciprocal. Strong professional relationships are essential for success in the finance industry, and for
+[ 81] these relationships to be strong, they must also be reciprocal. A reciprocal relationship is one in which
+[ 81] each member of the relationship helps the other. In finance, this usually means referring clients to each
+[ 81] other for the different services that they require. For instance, a bank loan officer may refer clients to a
+[ 81] particular insurance agent for their homeowners' insurance. Likewise, that insurance agent would refer
+[ 81] clients interested in refinancing their mortgage or purchasing a home to the bank loan officer. A strong
+[ 81] professional relationship in finance is not a one-sided or majority-rule relationship. Instead, the
+[ 81] professionals should help each other and consider each other to be equals. A strong professional
+[ 81] relationship is not necessarily easily maintained.
+[ 81] SOURCE: PD:153
+[ 81] SOURCE: Hoban, S. (2011). Building business relationships. Retrieved March 5, 2012, from
+[135] http://www.ciremagazine.com/article.php?article_id=30
+
+===== PAGE 33 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 33
+[ 61] 94. C
+[ 81] Understanding loss experience and exposure to an insurance underwriter. Ethical behavior and risk
+[ 81] management are closely related. Unethical behavior can expose a company to a variety of different risks.
+[ 81] To manage these risks, a risk manager must exercise ethical behavior and expect it of other employees
+[ 81] within the company as well. A wide range of internal ethical hazards arise when working with an
+[ 81] insurance company. If the risk manager unethically understates the company's loss experience or loss
+[ 81] exposure to an insurance underwriter to reduce the company's insurance premium, s/he exposes the
+[ 81] company to legal and financial risks. A risk manager can reduce his/her company's exposure to risk by
+[ 81] working with a public accounting firm that has a whistleblower mechanism, contracting with an insurer
+[ 81] with a reputation of adequate claims reserving, and questioning a supplier's history of disobeying state
+[ 81] and federal regulations.
+[ 81] SOURCE: RM:041
+[ 81] SOURCE: Carris, R. & Duska, R. (n.d.). Ethics and the risk manager. Retrieved March 5, 2012, from
+[135] http://www.rmmag.com/Magazine/PrintTemplate.cfm?AID=1921
+[ 61] 95. C
+[ 81] Risk modeling. Businesses commonly use risk modeling to quantify the potential losses that they would
+[ 81] incur if certain events took place, such as a tornado destroying a company's largest manufacturing plant.
+[ 81] Because risk modeling is a very complex process, businesses usually rely on risk-management
+[ 81] technology to aid in the analyses and forecasts. Cost-benefit analysis involves quantifying the costs and
+[ 81] benefits of a certain project to determine the most appropriate course of action to pursue. Risk
+[ 81] transference is a risk-response strategy that involves moving the impact of a risk to someone or
+[ 81] something else. In investing, fundamental analysis is the study of all aspects of a company in an effort to
+[ 81] understand its intrinsic value.
+[ 81] SOURCE: RM:042
+[ 81] SOURCE: Risk modeling. (2012, February 13). Retrieved March 5, 2012, from
+[135] http://www.mth.kcl.ac.uk/~kuehn/riskmodeling.html
+[ 61] 96. C
+[ 81] Automated oversight. Risk managers can use automated oversight technology to assign specific risk
+[ 81] limits to individual divisions, departments, or employees. If focused on individual employees, the
+[ 81] automated oversight technology tracks each employee's activity to determine if and when s/he exceeds
+[ 81] the pre-set risk limit. If the employee exceeds his/her limit, the software notifies management
+[ 81] immediately. Management can then take the necessary actions to reduce the risk exposure. Financial
+[ 81] analysts use stress testing to determine a particular financial instrument's stability in different extreme
+[ 81] events. Data aggregation involves pulling together data from several disparate systems into one central
+[ 81] repository or database. Corporate governance is the system by which directors handle their responsibility
+[ 81] toward shareholders.
+[ 81] SOURCE: RM:042
+[ 81] SOURCE: Kannan, N., & Thangavel, N. (2008). Risk management in the financial services industry: An
+[135] overview. Retrieved March 5, 2012, from http://www.acadjournal.com/2008/V22/part7/p1/
+[ 61] 97. D
+[ 81] Reduces tax due on the captive's premiums. Even if it is not associated with an insurance company, an
+[ 81] individual company, industry, or association may create a captive insurance company to specifically
+[ 81] protect its parent group(s). The captive insurer aids its parent group(s) by reducing premium expenses,
+[ 81] freeing up capital, and covering risks not commonly addressed by the greater insurance company. In
+[ 81] addition, forming a captive insurance company can reduce, eliminate, or defer federal taxes due on the
+[ 81] corporation's insurance premiums. A captive insurer typically decreases the tax due on a company's loss
+[ 81] reserves. Forming a captive insurance company does not typically increase the corporation's sales tax
+[ 81] liabilities, nor does it eliminate the corporation's state tax liabilities.
+[ 81] SOURCE: RM:043
+[ 81] SOURCE: Unger, A.M. (2007, Winter/Spring). Captive insurance can help manage risk. Retrieved
+[135] March 6, 2012, from http://folio.crowehorwath.com/files/PDF/PCS6189_CaptiveInsurance.pdf
+
+===== PAGE 34 (612x792) =====
+[ 59] 2012 HS ICDC  ||  [230] FINANCE CLUSTER EXAM—KEY  ||  [532] 34
+[ 61] 98. C
+[ 81] Product. One aspect of risk management involves limiting a company's liability exposures as much as
+[ 81] possible. Even though only four people have injured themselves using the 2X400 Chop It Right blender—
+[ 81] and there's no indication that any of these consumers are taking legal action against the company—
+[ 81] Reggie knows that continuing to sell the blender could open the company up to expensive product-
+[ 81] liability lawsuits. Therefore, to limit the risk of being sued and having to pay thousands of dollars in
+[ 81] damages, the company should discontinue sales of that particular blender. Reggie is not attempting to
+[ 81] limit his company's employee-, employment-, or fiduciary-liability exposures.
+[ 81] SOURCE: RM:043
+[ 81] SOURCE: BizMove.com. (n.d.). Effective risk management. Retrieved March 6, 2012, from
+[135] http://www.bizmove.com/general/m6o.htm
+[ 61] 99. D
+[ 81] Internal controls are a component of enterprise risk management. An internal control system consists of
+[ 81] procedures and practices designed to ensure compliance, protect resources, and increase reliability of
+[ 81] company data. Risk management and internal control systems are both key components of enterprise
+[ 81] risk management (ERM). Company management uses ERM to assess, manage, and limit risks
+[ 81] throughout business operations and across all business departments, divisions, etc. By assessing,
+[ 81] managing, and limiting the company's risks, the enterprise risk management system (including internal
+[ 81] controls and risk management) helps the business to reach its objectives and goals. Although an internal
+[ 81] control system can reduce risk, it cannot eliminate all risk. Internal control systems and risk management
+[ 81] work together in an organization; a business cannot have one without the other. Even if a company has
+[ 81] an internal control system, periodic monitoring and reporting of business processes and data are still
+[ 81] necessary.
+[ 81] SOURCE: RM:058
+[ 81] SOURCE: NIVRA Taskforce on Internal Control. (2007). Discussion paper: Risk management and
+[135] internal control systems. Retrieved March 6, 2012, from
+[135] http://www.nba.nl/Documents/Vaktechnisch-
+[135] thema/Corporate%20Governance/DiscussionPaper_RiskManagement.pdf
+[ 55] 100. C
+[ 81] Strategic. Businesses typically use strategic controls to help company executives and managers
+[ 81] understand the impact that external forces and risks can have on business and strategic, long-range
+[ 81] plans. Management controls focus much more on internal risk and control. Management-control activities
+[ 81] present throughout the organization help the business to identify, assess, and react to business risks
+[ 81] successfully. Process controls should be present in every business function. Each process control is
+[ 81] specific to a certain business activity and works to preserve the integrity and reliability of data, products,
+[ 81] and processes. Variable controls are not commonly associated with risk management.
+[ 81] SOURCE: RM:058
+[ 81] SOURCE: Council on Library and Information Resources. (2012). Appendix I: The business risk model.
+[135] Retrieved March 6, 2012, from http://www.clir.org/pubs/reports/pub90/appendix1.html
